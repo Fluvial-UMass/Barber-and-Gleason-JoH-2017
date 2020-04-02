@@ -1,0 +1,48 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:17:41 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 01103305 CHARLES RIVER NEAR MILLIS, MA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	01103305	53	1968-08-30		Yes	?	USGS		13.2				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		13.2				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	54	1982-08-24		Yes	?	USGS		38.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		38.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	55	1982-08-30		Yes	?	USGS		33.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		33.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	56	1982-09-10		Yes	?	USGS		29.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		29.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	57	1982-09-13		Yes	?	USGS		24.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		24.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	58	1983-06-24		Yes	?	USGS		60.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		60.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	59	1983-07-11		Yes	?	USGS		31.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		31.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	60	1983-07-20		Yes	?	USGS		24.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		24.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	61	1983-08-10		Yes	?	USGS		23.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		23.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	62	1983-08-25		Yes	?	USGS		29.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		29.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	63	1983-08-26		Yes	?	USGS		26.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		26.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	64	1989-07-26		Yes	RSS	USGS	6.43	102				Unspecified				MEAS	1	Imported Channel 1	WADE	unspe	unkno	102			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	65	1989-08-29		Yes	KGR	USGS	2.47	77.0				Unspecified				UNSP	1	Imported Channel 1	WADE	unspe	unkno	77.0			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	66	1989-09-05		Yes	TJC	USGS	2.30	57.4				Unspecified				UNSP	1	Imported Channel 1	WADE	unspe	unkno	57.4			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	67	1990-07-10		Yes	?	USGS		39.7				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		39.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	68	1990-08-30		Yes	?	USGS		100				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	69	1990-09-07		Yes	?	USGS		44.6				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		44.6				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	70	1999-07-13 13:15:00	EDT	Yes	MTN	USGS	0.39	19.5				Good	0.01	0.70	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	19.5	47.0	34.9	0.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	71	1999-08-27 15:21:00	EDT	Yes	MTN	USGS	0.24	11.8				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	11.8	46.0	28.8	0.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	72	1999-09-24 15:19:00	EDT	Yes	MTN	USGS	1.18	90.1				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	90.1	52.0	72.0	1.25	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	73	1999-10-27 14:08:00	EDT	Yes	MTN	USGS	1.28	106				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	106	53.0	78.0	1.36	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	74	1999-11-18 15:04:00	EST	Yes	MTN	USGS	1.09	80.3				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	80.3	50.0	67.9	1.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	75	1999-12-27 15:04:00	EST	Yes	MTN	USGS	1.17	88.3				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	88.3	49.0	70.4	1.25	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	76	2000-01-19 12:35:00	EST	Yes	DJV	USGS		91.5				Good			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	91.5	38.0	52.3	1.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	77	2000-02-18 13:26:00	EST	Yes	MTN	USGS	2.09	238				Good	0.02	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	238	4.90	117	2.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	78	2000-03-16 13:32:00	EST	Yes	DJV	USGS	1.98	221				Good	0.01	1.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	221	54.0	135	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	79	2000-04-21 10:54:00	EDT	Yes	DJV	USGS	1.89	188				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	188	51.0	122	1.54	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	80	2000-05-19 10:05:00	EDT	Yes	DJV	USGS	1.59	146				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	146	52.0	111	1.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	81	2000-06-26 10:18:00	EDT	Yes	DJV	USGS	1.09	78.6				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	78.6	51.0	89.2	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	82	2000-07-18 11:45:00	EDT	Yes	DJV	USGS	0.70	43.8				Good	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	43.8	48.5	67.1	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	83	2000-08-29 11:27:00	EDT	Yes	DJV	USGS	0.52	26.6				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	26.6	49.0	59.4	0.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01103305	84	2000-09-26 12:45:00	EDT	Yes	DJV	USGS	0.73	44.9				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	44.9	51.0	73.8	0.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

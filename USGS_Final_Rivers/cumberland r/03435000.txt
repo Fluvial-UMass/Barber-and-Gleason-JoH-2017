@@ -1,0 +1,50 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:24:09 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 03435000 CUMBERLAND RIVER BELOW CHEATHAM DAM, TN
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	03435000	14	1956-01-31 12:00:00	CST	Yes	EBB/JMS	USGS	39.41	121000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		121000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	26	1956-02-20 12:00:00	CST	Yes	MP	USGS	42.33	146000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		146000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	47	1957-01-30 12:00:00	CST	Yes	MP	USGS	41.11	145000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		145000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	123	1963-03-07 12:00:00	CST	Yes	RLR	USGS	25.80	71100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		71100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	179	1967-03-08 12:00:00	CST	Yes	HLE/CRB	USGS	37.76	131000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		131000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	199	1970-01-02 12:00:00	CST	Yes	REA	USGS	31.87	94800				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		94800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	220	1974-01-12 12:00:00	CDT	Yes	JM/A	USGS	41.52	147000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		147000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	233	1983-05-11		Yes	JWA	USGS	19.05	35300				Good	-0.01	2.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	35300	575	13500	2.70	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	234	1984-03-14		Yes	JWA/AKB	USGS	10.26	24000				Good	0.06	1.80	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	24000	525	8560	2.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	235	1984-05-09		Yes	JTA/MAH	USGS	45.62	168000				Unspecified	0.00	3.50	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	168000			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	236	1984-05-11		Yes	JFL/WBH	USGS	42.68	153000				Unspecified	-0.28	3.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	153000			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	237	1984-05-12		Yes	JFL/MEL	USGS	40.94	136000				Unspecified	-0.17	2.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	136000			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	238	1984-05-15		Yes	JTA/MEL	USGS	34.09	98600				Fair	-0.10	2.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	98600	670	22800	4.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	239	1984-12-14		Yes	JTH/HGC	USGS	11.92	29300				Good	-0.04	1.80	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	29300	540	9140	3.21	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	240	1985-02-20		Yes	JTH/HGC	USGS	11.21	25300				Good	0.00	2.30	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	25300	540	8750	2.89	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	241	1985-05-31		Yes	GLB/JTH	USGS	9.99	7940				Fair	0.07	1.80	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	7940	530	8320	0.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	242	1985-08-30		Yes	GLB/RCV	USGS	10.89	25900				Fair	0.22	3.00	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	25900	535	8820	2.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	243	1985-11-06		Yes	GB./RV.	USGS	5.69	5660				Poor	1.51	2.30	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	5660	510	6010	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	244	1986-06-04		Yes	JTH	USGS	9.70	1750				Fair	0.10	2.00	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1750	530	8210	0.21	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	245	1986-12-10		Yes	JTH	USGS	27.10	85900				Good	0.09	1.80	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	85900	595	17700	4.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	246	1987-03-04		Yes	JTH/RRP	USGS	14.09	33900				Good	-0.03	1.30	Unspecifed	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	33900	545	10300	3.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	247	1987-12-28 11:30:00	CST	Yes	jth/mas	USGS	16.47	25300				Good	-0.47	1.60		MEAS	1	Imported Channel 1	CWAY	unspe	unkno	25300	560	11600	2.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	248	1988-03-29 10:00:00	CST	Yes	JTH	USGS	8.15	14600				Good	0.04	1.30		MEAS	1	Imported Channel 1	CWAY	unspe	unkno	14600	525	7320	1.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	249	1989-02-09 10:40:00	CST	Yes	JTH/BNF	USGS	15.41	37900				Good	-0.06	1.30		MEAS	1	Imported Channel 1	BOAT	unspe	unkno	37900	595	10600	3.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	250	1989-07-26 10:45:00	CDT	Yes	BNF/RLK	USGS	11.53	23100				Good	0.04	1.80		MEAS	1	Imported Channel 1	BOAT	unspe	unkno	23100	560	8640	2.67	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	251	1990-03-28 09:45:00	CST	Yes	DEB/JTH	USGS	10.17	22500				Good	0.03	1.10	Clear	OTHR	1	Imported Channel 1	BOAT	unspe	unkno	22500	540	7840	2.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	252	1990-08-01 10:00:00	CDT	Yes	B/K/O	USGS	9.62	14200				Good	0.59	1.50	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	14200	540	7930	1.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	253	1991-08-08 10:35:00	CDT	Yes	DEB/BNF	USGS	11.70	23800				Good	0.38	1.80	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	23800	565	8310	2.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	254	1992-04-22 10:30:00	CDT	Yes	JTH/MWB	USGS	10.48	14400				Good	0.02	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	14400	553	8210	1.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	255	1992-05-12 11:30:00	CDT	Yes	RLK/JTH	USGS	9.70	19500				Good	-0.04	1.20	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	19500	570	8300	0.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	256	1992-10-29 09:15:00	CST	Yes	DEB/RLK	USGS	8.77	16500				Good	-0.55	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	16500	505	6920	2.38	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	257	1993-08-12 11:30:00	CDT	Yes	DEB/JTH	USGS	12.88	15600				Good	0.25	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	15600	570	9500	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	258	1997-03-22 12:50:00	CST	Yes	jth/jbs	USGS		83800				Unspecified				MEAS	1	Imported Channel 1	BOAT	unspe	unkno	83800			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03435000	259	2002-01-25 15:39:00	CST	Yes	jms/del	USGS		112000				Good			Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	112000		19800	5.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

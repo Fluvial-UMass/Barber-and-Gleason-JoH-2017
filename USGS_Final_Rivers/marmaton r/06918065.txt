@@ -1,0 +1,53 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:44:09 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 06918065 Marmaton River below Nevada, MO
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	06918065	1	1990-05-17 13:30:00	CDT	Yes	HH	USGS	52.26	437				Unspecified	15.00	1.10		UNSP	1	Imported Channel 1	UNSP	other		437				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	2	1992-03-19 09:00:00	CST	Yes	HSH/JM	USGS	32.24	1860				Poor	0.34	0.50	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1860	100	830	2.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	3	1992-03-19 11:30:00	CST	Yes	HSH/JM	USGS	33.46	2130				Poor	0.21	0.70	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2130	110	954	2.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	4	1992-03-19 15:00:00	CST	Yes	HSH/JM	USGS	34.36	2350				Fair	0.13	0.50	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2350	112	1110	2.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	5	1992-05-20 15:50:00	CDT	Yes	BW /JM	USGS	43.75	5370				Unspecified	0.10	0.80	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	5370	137	2310	2.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	6	1992-05-21 08:15:00	CDT	Yes	BW	USGS	44.74	5860				Unspecified	0.07	1.20	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	5860	172	2580	2.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	7	1992-05-22 08:25:00	CDT	Yes	HH	USGS	46.93	8080				Unspecified	0.28	1.50	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	8080	432	3350	2.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	8	1992-07-07 07:05:00	CDT	Yes	GLA	USGS	47.28	9060				Unspecified	0.09	1.00	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	9060	416	3660	2.48	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	9	1992-12-15 11:55:00	CST	Yes	LL	USGS	51.10	579				Unspecified				UNSP	1	Imported Channel 1	CRAN	unspe	unkno	579	464	5400	3.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	10	1993-04-07 12:05:00	CDT	Yes	HH	USGS	31.25	67.4				Unspecified	-0.10	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	67.4	96.0	717	1.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	11	1993-05-19 10:50:00	CDT	Yes	HH	USGS	44.07	16.9				Unspecified	0.07	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	16.9	127	2200	2.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	12	1994-04-12 12:35:00	CDT	Yes	LL	USGS	60.15	1770				Unspecified	-0.01	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	1770	480	9870	4.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	13	2001-02-07 12:45:00	CST	Yes	JM	USGS	26.47	243				Fair	0.01	0.80		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	243	75.0	308	0.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	14	2001-03-21 09:50:00	CST	Yes	LJL	USGS	32.31	922				Fair	-0.17	1.40	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	922	110	900	1.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	15	2001-05-09 08:00:00	CDT	Yes	LJL/MB	USGS	24.46	68.7				Fair	0.00	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	68.7	61.0	177	0.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	16	2001-06-19 12:30:00	CDT	Yes	LJL	USGS	26.16	237				Fair	0.05	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	237	78.0	296	0.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	17	2001-07-25 07:30:00	CDT	Yes	LJL	USGS	23.64	20.5				Poor	0.05	1.50	DebrisLight	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	20.5	50.0	119	0.14	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	18	2001-08-29 07:45:00	CDT	Yes	LJL	USGS	23.50	14.7				Poor	0.00	1.40	DebrisLight	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	14.7	47.0	111	0.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	19	2001-10-10 12:15:00	CDT	Yes	LJL	USGS	30.33	1150				Fair	0.94	1.30		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1150	92.0	640	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	20	2001-11-28 09:30:00	CST	Yes	LJL	USGS	23.93	17.2				Poor	0.00	1.30		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	17.2	50.0	135	0.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	21	2002-02-08 08:00:00	CST	Yes	SS /CR	USGS	26.31	238				Poor	0.00	0.50		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	238	80.0	309	0.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	22	2002-02-20 14:40:00	CST	Yes	CR	USGS	24.86	90.5				Fair	0.01	1.20		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	90.5	65.0	195	0.46	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	23	2002-04-02 07:50:00	CST	Yes	LJL	USGS	24.64	67.6				Fair	-0.05	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	67.6	56.0	174	0.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	24	2002-05-09 17:40:00	CDT	Yes	LDB/PHR	USGS	51.75	20700				Poor	0.12	0.80		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	20700	446	6060	3.42	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	25	2002-05-21 16:28:00	CDT	Yes	CR	USGS	31.69	957				Fair	-0.10	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	957	101	843	1.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	26	2002-06-25 11:36:00	CDT	Yes	JWM	USGS	24.86	107				Fair	-0.01	0.80		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	107	67.0	224	0.48	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	27	2002-09-18 14:30:00	CDT	Yes	MSM	USGS	24.00	30.6				Poor	0.00	1.40		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	30.6	60.0	177	0.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	28	2002-12-10 16:23:00	CST	Yes	cjr	USGS	24.15	12.4				Fair				MEAS	1	Imported Channel 1	UNSP	other		12.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	29	2003-01-06 14:00:00	CST	Yes	CJR	USGS	24.34	20.8				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	20.8	28.0	17.5	1.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	30	2003-01-28 11:07:00	CST	Yes	CJR	USGS	23.93	9.91				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.91	30.0	15.4	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	31	2003-04-02 12:35:00	CST	Yes	LJL	USGS	25.47	139				Good	0.00	1.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	139	62.0	69.3	2.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	32	2003-05-21 08:30:00	CDT	Yes	ljl	USGS	36.00	2420				Fair				MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2420	110	1330	1.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	32A	2003-05-21 10:08:00	CDT	Yes	LJL	USGS	35.90	2460				Fair				MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2460	110	1340	1.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	33	2003-06-18 09:45:00	CDT	Yes	cjr	USGS	25.08	95.2				Fair				MEAS	1	Imported Channel 1	WADE	unspe	unkno	95.2	54.0	51.0	1.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	34	2003-07-30 09:40:00	CDT	Yes	ljl	USGS	23.27	6.47				Fair	0.00	0.80		MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.47	22.0	9.45	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	35	2003-09-09 12:45:00	CDT	Yes	cjr	USGS	24.92	104				Fair	-0.04	1.50		MEAS	1	Imported Channel 1	WADE	unspe	unkno	104	50.0	47.1	2.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06918065	36	2003-10-22 08:55:00	CDT	Yes	LJL	USGS	24.07	43.5				Fair	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	43.5	32.0	24.2	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

@@ -1,0 +1,78 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:32:51 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 034323531 HARPETH RIVER TRIB AT MACK HATCHER PARKWAY
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	034323531	1	1996-09-27 08:00:00	CDT	Yes	DEL	USGS	2.43	18.9				Good	-0.06	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	18.9	8.00	9.27	2.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	2	1996-09-27 08:15:00	CDT	Yes	DEL	USGS	2.32	17.6				Good	-0.05	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	17.6	8.00	8.70	2.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	3	1996-09-27 08:35:00	CDT	Yes	DEL	USGS	2.23	14.0				Good	-0.06	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	14.0	8.00	7.83	1.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	4	1996-09-27 09:10:00	CDT	Yes	DEL	USGS	2.10	9.32				Good	-0.02	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.32	8.00	6.60	1.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	5	1997-03-05 09:00:00	CST	Yes	DEL	USGS	2.90	61.8				Fair	0.17	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	61.8	25.0	30.4	2.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	6	1997-03-05 09:15:00	CST	Yes	DEL	USGS	3.16	64.2				Good	0.13	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	64.2	28.0	33.7	1.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	7	1997-03-05 09:30:00	CST	Yes	DEL	USGS	3.28	72.3				Good	0.01	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	72.3	29.0	39.0	1.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	8	1997-03-05 09:45:00	CST	Yes	DEL	USGS	3.29	70.0				Good	-0.01	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	70.0	29.0	39.3	1.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	9	1997-03-05 10:15:00	CST	Yes	DEL	USGS	3.30	71.2				Good	0.13	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	71.2	30.0	39.6	1.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	10	1997-03-05 10:35:00	CST	Yes	DEL	USGS	3.86	111				Good	0.34	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	111	31.0	57.6	1.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	11	1997-03-05 11:00:00	CST	Yes	DEL	USGS	4.36	128				Fair	0.15	0.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	128	25.0	56.3	2.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	12	1997-03-05 11:25:00	CST	Yes	DEL	USGS	4.40	149				Good	-0.05	0.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	149	25.0	57.5	2.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	13	1999-11-10 09:40:00	CST	Yes	jth	USGS	1.73	0.00				Poor	0.00	0.10	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.00	0.30	0.01	0.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	14	2000-01-04 10:10:00	CST	Yes	jth	USGS	2.72	3.54				Fair	-0.01	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.54	9.30	3.26	1.08	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	15	2000-02-18 10:30:00	CST	Yes	jth	USGS	2.75	3.81				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.81	6.80		1.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	16	2000-04-12 09:35:00	CDT	Yes	JTH	USGS	2.65	2.07				Good	0.00	0.40	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.07	10.5	2.62	0.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	17	2000-06-19 13:04:00	CDT	Yes	JTH	USGS	1.82	0.26				Poor	0.00	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.26	2.50	0.40	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	18	2000-08-08 10:20:00	CDT	Yes	JTH	USGS	1.66	0.00				Excellent			DebrisLight	UNSP	1	Imported Channel 1	UNSP	other		0.00				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	19	2000-08-09 09:45:00	CDT	Yes	jth	USGS	1.82	0.08				Poor	0.00	0.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.08	1.70	0.20	0.40	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	20	2000-10-02 16:18:00	CDT	Yes	MWB	USGS	1.65	0.00				Good			Clear	UNSP	1	Imported Channel 1	UNSP	other		0.00				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	21	2000-11-28 10:45:00	CST	Yes	DEL	USGS	1.90	0.44				Fair	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.44	2.70	0.42	1.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	22	2001-01-17 10:45:00	CST	Yes	mwb	USGS	1.85	0.12				Poor	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.12	1.00	0.13	0.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	23	2001-02-15 08:15:00	CST	Yes	DEL	USGS	2.71	13.2				Fair	0.01	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	13.2	10.0	12.7	1.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	24	2001-02-15 08:40:00	CST	Yes	DEL	USGS	2.77	14.0				Good	0.05	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	14.0	13.0	8.94	1.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	25	2001-02-15 15:40:00	CST	Yes	jth	USGS	3.92	46.1				Fair	-0.20	0.40	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	46.1	35.6	35.6	1.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	26	2001-05-07 12:23:00	CDT	Yes	mwb	USGS	1.82	0.09				Poor	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.09	0.60	0.06	1.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	27	2001-07-02 09:00:00	CDT	Yes	DEL	USGS	1.90	0.46				Fair	0.00	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.46	2.70	0.72	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	28	2001-07-28 12:41:00	CDT	Yes	mwb	USGS	1.85	0.09				Poor	-0.01	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.09	1.20	0.15	0.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	29	2001-08-27 15:00:00	CDT	Yes	mwb	USGS	2.12	1.48				Fair	-0.02	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.48	8.70	5.21	0.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	30	2001-10-05 13:26:00	CDT	Yes	mwb	USGS	1.72	0.02				Poor	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.02	0.60	0.03	0.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	31	2001-10-16 09:45:00	CDT	Yes	mwb	USGS	2.86	1.61				Fair	0.00	0.40	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.61	6.70	4.60	0.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	32	2001-11-16 14:21:00	CST	Yes	mwb	USGS	1.80	0.04				Poor	0.00	0.00	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.04	0.80	0.05	0.71	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	33	2001-11-29 11:30:00	CST	Yes	DEB/GSL	USGS	4.89	92.7				Fair	0.19	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	92.7	26.0	51.5	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	34	2002-01-17 09:45:00	CST	Yes	DEL	USGS	1.86	0.28				Fair	0.00	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.28	2.90	0.42	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	35	2002-03-13 09:20:00	CST	Yes	DEL	USGS	1.96	0.74				Fair	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.74	3.00	0.75	0.97	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	36	2002-05-13 10:06:00	CDT	Yes	mwb	USGS	2.83	25.3				Poor	-0.10	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	25.3	9.00	8.36	3.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	37	2002-07-15 11:10:00	CDT	Yes	jth	USGS	1.63	0.09				Poor	0.01	0.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.09	1.50	0.12	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	38	2002-08-14 12:30:00	CDT	Yes	jth	USGS	1.49	0.00				Unspecified			Clear	UNSP	1	Imported Channel 1	UNSP	other		0.00				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	39	2002-08-22 09:00:00	CDT	Yes	jth	USGS	1.44	0.00				Unspecified			DebrisLight	UNSP	1	Imported Channel 1	UNSP	other		0.00				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	40	2002-08-23 11:10:00	CDT	Yes	jth	USGS	1.85	0.27				Fair	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.27	2.30	0.50	0.54	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	41	2002-09-26 13:37:00	CDT	Yes	mwb/gsl	USGS	2.98	30.3				Fair	-0.09	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	30.3	9.80	11.0	2.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	42	2002-10-17 14:23:00	CDT	Yes	mwb	USGS	2.32	0.70				Fair	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.70	6.60	3.68	0.19	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	43	2002-12-03 08:35:00	CST	Yes	DEB	USGS	2.27	0.21				Good	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.21	3.00	0.34	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	44	2003-02-13 14:37:00	CST	Yes	mwb	USGS	2.23	0.95				Fair	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.95	7.60	4.09	0.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	45	2003-04-09 09:50:00	CDT	Yes	jth	USGS	2.20	1.56				Poor	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.56	3.70	1.27	1.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	46	2003-06-09 11:30:00	CDT	Yes	DEL	USGS	2.34	2.91				Fair	-0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.91	9.50	6.00	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	47	2003-07-28 09:50:00	CDT	Yes	DEB	USGS	1.64	0.06				Fair	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.06	1.10	0.08	0.71	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	48	2003-10-06 11:07:00	CDT	Yes	mwb	USGS	1.86	0.26				Poor	0.00	0.10	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.26	1.80	0.31	0.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	49	2003-12-11 09:25:00	CST	Yes	DEB	USGS	2.13	0.90				Poor	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.90	2.80	0.80	1.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	50	2004-01-30 13:33:00	CST	Yes	mwb	USGS	2.14	1.15				Fair	0.01	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.15	2.60	0.84	1.37	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	51	2004-03-31 13:15:00	CST	Yes	mwb	USGS	2.15	1.26				Poor	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.26	2.40	0.61	2.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	52	2004-06-09 09:45:00	CDT	Yes	DEB	USGS	1.68	0.20				Poor	0.00	0.10	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.20	2.00	0.32	0.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	53	2004-08-10 12:30:00	CDT	Yes	DEL	USGS	1.74	0.45				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.45	9.00	3.70	0.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	54	2004-10-06 11:15:00	CDT	Yes	DEL	USGS	1.62	0.01				Fair	0.00	0.20	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.01	2.40	0.50	0.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	55	2004-11-16 11:50:00	CST	Yes	mwb	USGS	1.91	0.30				Poor	0.00	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.30	3.60	1.03	0.30	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	56	2005-01-19 10:40:00	CST	Yes	jth	USGS	1.89	1.76				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.76	11.0	1.77	0.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	57	2005-02-25 08:35:00	CST	Yes	jth	USGS	2.21	3.12				Fair	0.00	0.30	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.12	11.0	3.20	0.97	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	58	2005-03-29 09:30:00	CST	Yes	jth	USGS	2.25	2.13				Fair	0.00	0.30	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.13	18.0		1.30	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	59	2005-05-09 08:25:00	CDT	Yes	jth	USGS	1.76	0.21				Poor	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.21	2.00	0.20	0.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	60	2005-05-18 08:25:00	CDT	Yes	jth	USGS	1.53	0.06				Poor	0.00	0.10	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.06	1.00	0.07	0.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	61	2005-08-08 11:00:00	CDT	Yes	jth	USGS	1.38	0.00				Unspecified			Clear	UNSP	1	Imported Channel 1	UNSP	other		0.00				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	034323531	62	2005-10-05 14:21:00	CDT	Yes	mwb	USGS	1.42	0.03				Poor	0.00	0.10	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.03	1.00	0.10	0.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

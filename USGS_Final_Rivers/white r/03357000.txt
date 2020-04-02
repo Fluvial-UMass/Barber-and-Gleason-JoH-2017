@@ -1,0 +1,72 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:32:21 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 03357000 WHITE RIVER AT SPENCER, IN
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	03357000	10	1926-04-12		Yes	vaw/qui	USGS	17.75	25900				Unspecified	0.00	1.80		MEAS	1	Imported Channel 1	UNSP	other		25900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	13	1927-03-21		Yes	vaw/hel	USGS	20.53	35200				Unspecified	0.00	1.00		UNSP	1	Imported Channel 1	UNSP	other		35200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	35	1933-05-17		Yes	mit/van	USGS	21.50	40600				Unspecified	-0.13	2.00		UNSP	1	Imported Channel 1	UNSP	other		40600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	53	1939-04-18		Yes	jli	USGS	20.14	32900				Unspecified	0.07	2.00		UNSP	1	Imported Channel 1	UNSP	other		32900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	114	1943-05-20		Yes	saw	USGS	22.91	56900				Good	-0.09	3.80		UNSP	1	Imported Channel 1	UNSP	other		56900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	115	1943-05-21		Yes	saw	USGS	22.01	47500				Good	-0.19	3.20		MEAS	1	Imported Channel 1	UNSP	other		47500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	116	1943-05-22		Yes	saw	USGS	20.89	38300				Good	-0.11	1.50		MEAS	1	Imported Channel 1	UNSP	other		38300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	117	1943-05-23		Yes	hai/set	USGS	18.31	24000				Good	-0.20	1.80		MEAS	1	Imported Channel 1	UNSP	other		24000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	135	1944-12-12		Yes	rei	USGS	1.54	339				Good	0.00	1.00		UNSP	1	Imported Channel 1	UNSP	other		339				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	140	1945-05-19		Yes	ben/rei	USGS	14.75	12600				Good	-0.02	1.80		UNSP	1	Imported Channel 1	UNSP	other		12600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	148	1946-03-19		Yes	rei	USGS	15.16	13900				Good	0.09	1.70		MEAS	1	Imported Channel 1	UNSP	other		13900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	161	1947-04-29		Yes	rei	USGS	13.35	10500				Good	-0.16	1.90		MEAS	1	Imported Channel 1	UNSP	other		10500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	163	1947-06-04		Yes	hom/kin	USGS	17.47	19400				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		19400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	164	1947-06-06		Yes	hom/kin	USGS	14.71	13500				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		13500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	169	1948-01-06		Yes	car/rei	USGS	13.86	11300				Good				MEAS	1	Imported Channel 1	UNSP	other		11300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	171	1948-03-29		Yes	bux	USGS	19.72	29500				Good				MEAS	1	Imported Channel 1	UNSP	other		29500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	180	1948-12-30		Yes	min	USGS	13.71	11300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		11300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	181	1949-01-10		Yes	car	USGS	15.53	13800				Good				UNSP	1	Imported Channel 1	UNSP	other		13800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	185	1949-05-25		Yes	car	USGS	6.22	3520				Good	-0.06	1.20		UNSP	1	Imported Channel 1	UNSP	other		3520				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	192	1950-01-11		Yes	she/fis	USGS	18.64	24200				Good				MEAS	1	Imported Channel 1	UNSP	other		24200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	204	1951-01-18		Yes	car	USGS	13.38	10700				Good				MEAS	1	Imported Channel 1	UNSP	other		10700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	205	1951-02-23		Yes	fie/sho	USGS	18.55	23000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		23000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	207	1951-04-16		Yes	car	USGS	13.44	10900				Good				MEAS	1	Imported Channel 1	UNSP	other		10900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	215	1952-02-04		Yes	ker/car	USGS	14.88	13100				Good				MEAS	1	Imported Channel 1	UNSP	other		13100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	228	1953-03-06		Yes	car	USGS	17.12	17600				Good				MEAS	1	Imported Channel 1	UNSP	other		17600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	231	1953-05-26		Yes	ker	USGS	13.42	10500				Good				MEAS	1	Imported Channel 1	UNSP	other		10500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	264	1955-11-17		Yes	arg	USGS	17.11	16400				Good				MEAS	1	Imported Channel 1	UNSP	other		16400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	271	1956-05-31		Yes	sch/nel	USGS	20.98	34000				Good				MEAS	1	Imported Channel 1	UNSP	other		34000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	283	1957-04-05		Yes	car	USGS	19.73	25400				Good				MEAS	1	Imported Channel 1	UNSP	other		25400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	284	1957-04-06		Yes	car	USGS	20.43	28700				Good				MEAS	1	Imported Channel 1	UNSP	other		28700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	285	1957-04-11		Yes	ham	USGS	17.68	19500				Good				MEAS	1	Imported Channel 1	UNSP	other		19500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	288	1957-07-03		Yes	ham	USGS	20.55	31700				Good				MEAS	1	Imported Channel 1	UNSP	other		31700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	294	1957-12-27		Yes	wit/gal	USGS	18.02	21300				Good				MEAS	1	Imported Channel 1	UNSP	other		21300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	302	1958-08-04		Yes	bec	USGS	15.27	14400				Good				MEAS	1	Imported Channel 1	UNSP	other		14400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	310	1959-01-25		Yes	swi/bec	USGS	19.82	25700				Good				MEAS	1	Imported Channel 1	UNSP	other		25700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	327	1960-06-25		Yes	tat/fin	USGS	20.00	27200				Fair				MEAS	1	Imported Channel 1	UNSP	other		27200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	337	1961-03-06		Yes	gen	USGS	14.85	12400				Good				MEAS	1	Imported Channel 1	UNSP	other		12400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	338	1961-03-15		Yes	swi/roy	USGS	18.88	22700				Good				MEAS	1	Imported Channel 1	UNSP	other		22700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	341	1961-05-10		Yes	ddb	USGS	22.18	42200				Fair	-0.37	1.20		UNSP	1	Imported Channel 1	UNSP	other		42200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	364	1963-03-06		Yes	ski/gal	USGS	22.42	39400				Good				MEAS	1	Imported Channel 1	UNSP	other		39400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	365	1963-03-07		Yes	ski/gal	USGS	21.64	36200				Good				MEAS	1	Imported Channel 1	UNSP	other		36200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	366	1963-03-09		Yes	tuc/doc	USGS	20.55	31100				Good				MEAS	1	Imported Channel 1	UNSP	other		31100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	367	1963-04-03		Yes	gal	USGS	14.03	11100				Good				MEAS	1	Imported Channel 1	UNSP	other		11100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	380	1964-04-23		Yes	car	USGS	23.18	50000				Unspecified	0.07	1.50		UNSP	1	Imported Channel 1	UNSP	other		50000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	395	1965-04-26		Yes	car	USGS	13.36	11600				Good				MEAS	1	Imported Channel 1	UNSP	other		11600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	415	1966-12-13		Yes	ric	USGS	20.38	25800				Good				MEAS	1	Imported Channel 1	UNSP	other		25800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	416	1966-12-14		Yes	ski/app	USGS	18.79	22200				Good				MEAS	1	Imported Channel 1	UNSP	other		22200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	422	1967-05-08		Yes	ric	USGS	14.01	12200				Good				MEAS	1	Imported Channel 1	UNSP	other		12200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	430	1968-02-01		Yes	ric	USGS	18.10	20300				Good				MEAS	1	Imported Channel 1	UNSP	other		20300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	446	1969-11-25		Yes	blb	USGS	10.74	7290				Good	-0.05	1.50		UNSP	1	Imported Channel 1	UNSP	other		7290				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	464	1971-10-27		Yes	HG	USGS	2.62	802				Good				MEAS	1	Imported Channel 1	UNSP	other		802				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	465	1979-07-31		Yes	DDB/LEH	USGS	21.52	28700				Good	0.02	1.70		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	28700	396	6360	4.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	466	1987-09-04 10:24:00	EST	Yes	JRD	USGS	2.34	526				Good	0.00	0.80		MEAS	1	Imported Channel 1	WADE	unspe	unkno	526	215	400	1.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	467	1990-06-14 10:10:00	EST	Yes	PPS/PHL	USGS	9.30	5400				Good			Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	5400	270	2220	2.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	468	2008-03-20 16:35:00	EST	Yes	BTR/LVM	USGS	21.30	31500				Fair	0.07	0.60	Clear	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	31500	458	7740	4.07	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	03357000	469	2008-06-09 11:32:00	EST	Yes	htn	USGS	25.00	51100				Unspecified			Clear	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	51100	1180	15100	3.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

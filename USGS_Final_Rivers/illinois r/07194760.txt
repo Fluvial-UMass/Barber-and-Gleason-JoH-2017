@@ -1,0 +1,39 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:34:36 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 07194760 Illinois River near Viney Grove, AR
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	07194760	1	1985-08-29		Yes	CEO	USGS	2.37	8.49				Good	0.00	0.40	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	8.49			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	2	1985-09-04		Yes	JCC	USGS	2.34	6.52				Good	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.52	18.0	8.30	0.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	3	1985-09-27		Yes	JCC	USGS	2.42	10.5				Good	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	10.5	19.5	9.94	1.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	4	1985-10-23		Yes	ALM	USGS	2.77	33.9				Good	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	33.9	45.0	36.5	0.93	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	5	1985-11-19		Yes	CEO	USGS	13.08	6400				Good	1.31	1.70	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	6400	88.0	1040	6.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	6	1985-11-21		Yes	JCC	USGS	4.55	304				Good	-0.02	0.80	Unspecifed	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	304	81.0	324	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	7	1985-12-19		Yes	JCC	USGS	3.43	106				Good	0.00	0.30		MEAS	1	Imported Channel 1	WADE	unspe	unkno	106	66.0	82.7	1.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	8	1986-01-22		Yes	JCC	USGS	2.75	21.1				Good	0.00	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.1	44.0	26.4	0.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	9	1986-02-05		Yes	CEO	USGS	2.68	17.8				Good	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	17.8			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	10	1986-03-13		Yes	ALM	USGS	3.82	203				Excellent	-0.01	0.40	Unspecifed	MEAS	1	Imported Channel 1	WADE	unspe	unkno	203	76.0	113	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	11	1986-04-15		Yes	JCC	USGS	3.30	115				Good	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	115	55.0	85.9	1.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	12	1986-05-12		Yes	CEO	USGS	2.72	28.8				Good	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	28.8	37.0	22.6	1.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	13	1986-06-12		Yes	JCC	USGS	2.97	58.9				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	58.9	48.0	96.4	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	14	1986-07-07		Yes	JCC	USGS	2.41	9.29				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.29	28.0	10.5	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	15	1986-08-08		Yes	CEO	USGS	2.70	29.0				Good	0.03	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	29.0	35.0	21.6	1.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	16	1986-09-04		Yes	ALM	USGS	2.36	6.53				Good	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.53	24.5	11.9	0.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	17A	1986-10-16		Yes	Cuttingh	USGS	3.64	84.9				Unspecified				MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	84.9	64.0	101	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	17	2006-03-07 08:26:00	CST	Yes	JSW	USGS		3.96				Good	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	QSCMM	VADV	3.96	14.0	4.70	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	18	2006-05-03 10:34:00	CDT	Yes	JLD	USGS	20.52	39.7				Poor			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	39.7	83.0	238	0.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	19	2007-01-17 11:51:00	CST	Yes	kwd	USGS	19.45	199				Fair	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	QSCMM	VADV	199	80.9	317	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	20	2007-03-07 14:25:00	CST	Yes	kmh/dmw	USGS	20.56	38.3				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	QSCMM	VADV	38.3	54.0	55.9	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	21	2007-04-10 10:45:00	CDT	Yes	dmw	USGS	4.08	14.4				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	QSCMM	VADV	14.4	25.0	12.9	1.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	07194760	22	2007-07-19 07:00:00	CDT	Yes	ADL	USGS	20.85	19.8				Good				MEAS	1	Imported Channel 1	WADE	QSCMM	VADV	19.8	52.0	38.4	0.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

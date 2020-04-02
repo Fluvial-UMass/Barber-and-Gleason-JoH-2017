@@ -1,0 +1,78 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:00:58 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 13285500 POWDER R BL T VLY RES NR NORTH POWDER,OREG.
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	13285500	48	1984-09-27		Yes	JKP	USGS	6.04	174				Excellent	0.00	0.40	Clear	UNSP	1	Imported Channel 1	WADE	unspe	unkno	174	56.0	74.6	2.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	49	1984-11-16		Yes	JKP	USGS	6.11	195				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	195	57.0	77.1	2.53	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	50	1985-01-11		Yes	JKP/RES	USGS	5.85	142				Excellent	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	142	57.0	67.8	2.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	51	1985-03-06		Yes	JKP	USGS	6.17	207				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	207	57.0	82.2	2.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	52	1985-05-08		Yes	JKP	USGS	6.50	300				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	300	80.0	120	2.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	53	1985-07-11		Yes	JKP	USGS	5.84	137				Good	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	137	57.0	64.5	2.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	54	1985-09-19		Yes	JKP	USGS	5.69	114				Good	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	114	56.0	57.0	2.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	55	1985-11-14		Yes	JKP	USGS	4.55	2.80				Good	0.00	0.50	IceCover	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.80	14.0	7.24	0.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	56	1986-01-15		Yes	JKP	USGS	5.62	107				Good			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	107	53.0	54.1	1.98	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	57	1986-03-06		Yes	JKP	USGS	7.18	580				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	580	92.0	300	1.93	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	58	1986-05-01		Yes	JKP	USGS	6.43	290				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	290	78.0	120	3.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	59	1986-06-26		Yes	JKP	USGS	5.52	81.5				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	81.5	54.0	49.6	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	60	1986-08-19		Yes	JKP	USGS	5.74	118				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	118	57.0	59.9	1.97	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	61	1986-10-15		Yes	JKP	USGS	5.03	28.3				Excellent	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	28.3	42.0	24.6	1.15	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	62	1986-12-11		Yes	JKP	USGS	5.15	38.9				Good	0.01	0.30	IceShore	MEAS	1	Imported Channel 1	WADE	unspe	unkno	38.9	46.0	29.9	1.30	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	63	1987-02-06		Yes	JKP	USGS	6.00	175				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	175	57.0	77.3	3.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	64	1987-03-31		Yes	JKP	USGS	5.76	119				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	119	56.0	60.7	1.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	65	1987-05-28		Yes	JKP	USGS	5.75	120				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	120	57.0	59.1	2.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	66	1987-07-24		Yes	JKP	USGS	5.62	100				Good	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	100	54.0	51.6	1.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	67	1987-09-09		Yes	JKP	USGS	4.50	4.27				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.27	11.0	4.52	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	68	1987-11-13		Yes	JKP	USGS	4.21	0.50				Unspecified				UNSP	1	Imported Channel 1	OTHR	other		0.50				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	69	1988-01-12		Yes	JKP	USGS	4.24	1.19				Poor	0.00	0.30	IceCover	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.19	8.50	1.86	0.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	70	1988-03-10		Yes	JKP	USGS	5.81	136				Good	-0.02	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	136	55.0	62.6	2.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	71	1988-05-12		Yes	JKP	USGS	5.40	75.4				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	75.4	59.0	50.8	1.48	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	72	1988-06-29 08:20:00	PDT	Yes	JKP	USGS	5.60	94.0				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	94.0	54.0	54.1	1.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	73	1988-08-25 08:20:00	PDT	Yes	JKP	USGS	5.60	94.1				Excellent	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	94.1	54.0	58.5	1.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	74	1989-04-05 11:35:00	PDT	Yes	JKP	USGS	6.45	298				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	298	80.0	124	2.40	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	75	1989-06-08 08:00:00	PDT	Yes	JKP	USGS	6.25	246				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	246	66.0	106	2.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	76	1989-08-03 13:40:00	PDT	Yes	JKP	USGS	5.71	118				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	118	64.0	71.9	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	77	1989-10-05 08:20:00	PDT	Yes	JKP	USGS	5.60	84.4				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	84.4	56.5	50.8	1.66	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	78	1989-11-20 09:40:00	PST	Yes	JKP	USGS	4.80	10.6				Good	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	10.6	40.0	29.8	0.36	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	79	1990-01-17 08:20:00	PST	Yes	JKP	USGS	5.76	115				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	115	63.0	69.0	1.67	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	80	1990-02-28 08:35:00	PST	Yes	JKP	USGS	5.86	132				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	132	63.0	72.5	1.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	81	1990-04-25 07:55:00	PDT	Yes	JKP	USGS	5.68	94.3				Excellent	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	94.3	59.0	66.3	1.42	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	82	1990-06-20 07:40:00	PDT	Yes	JKP	USGS	5.75	101				Good	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	101	59.0	81.6	1.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	83	1990-08-15 10:20:00	PDT	Yes	JKP	USGS	5.84	120				Fair	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	120	50.0	83.2	1.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	84	1990-10-12 07:50:00	PDT	Yes	JKP	USGS	4.80	10.3				Excellent	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	10.3	34.0	11.7	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	85	1990-12-04 13:10:00	PST	Yes	GPR	USGS	4.77	9.48				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.48	42.0	35.2	0.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	86	1991-03-21 14:10:00	PST	Yes	GPR/RMA	USGS	5.76	111				Good	0.00	0.40	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	111	49.0	73.1	1.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	87	1991-05-23 10:22:00	PDT	Yes	RMA	USGS	7.34	605				Good	-0.04	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	605	91.0	293	2.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	88	1991-07-18 09:14:00	PDT	Yes	RMA	USGS	5.78	114				Fair	0.00	1.10	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	114	56.0	81.8	1.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	89	1991-09-16 16:10:00	PDT	Yes	RMA/GPR	USGS	5.55	83.1				Fair	0.00	0.60	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	83.1	51.0	73.9	1.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	90	1991-11-14 11:27:00	PST	Yes	RMA	USGS	4.16	0.44				Fair	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.44	16.0	4.16	0.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	91	1992-03-12 10:02:00	PST	Yes	RMA	USGS	5.67	115				Fair	0.00	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	115	54.0	75.2	1.53	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	92	1992-05-20 14:22:00	PDT	Yes	RMA	USGS	5.56	98.5				Fair	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	98.5	50.0	70.1	1.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	93	1992-07-02 09:58:00	PDT	Yes	RMA	USGS	5.30	56.4				Good	0.00	0.90	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	56.4	58.0	64.4	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	94	1992-08-06 08:24:00	PDT	Yes	RMA	USGS	4.23	1.20				Fair	0.00	0.50	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.20	18.0	6.14	0.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	95	1992-10-16 10:19:00	PDT	Yes	RMA	USGS	4.72	14.6				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	14.6	28.0	16.9	0.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	118	1995-08-24 07:50:00	PDT	Yes	DLG	USGS	5.68	85.6				Good	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	85.6	54.0	82.3	1.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	119	1995-10-04 11:35:00	PDT	Yes	DLG	USGS	5.12	29.9				Good	0.00	0.70	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	29.9	45.0	51.6	0.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	120	1996-01-08 16:18:00	PST	Yes	GPR	USGS	6.24	224				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	224	93.8	147	1.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	121	1996-03-26 12:47:00	PST	Yes	GPR	USGS	7.07	509				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	509	95.0	211	2.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	122	1996-06-03 13:03:00	PDT	Yes	GPR	USGS	7.19	550				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	550	96.0	221	2.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	123	1996-08-13 11:53:00	PDT	Yes	GPR	USGS	5.71	102				Fair	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	102	52.0	77.0	1.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	124	1996-10-03 09:45:00	PDT	Yes	GPR	USGS	5.52	71.6				Fair	0.00	0.60	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	71.6	54.0	65.7	1.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	125	1996-11-27 15:35:00	PST	Yes	GPR	USGS	5.26	42.9				Poor	0.00	0.60	VegetationLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	42.9	49.0	57.2	0.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	126	1997-01-29 14:45:00	PST	Yes	GPR	USGS	6.61	310				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	310	94.0	168	1.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	127	1997-03-25 14:40:00	PST	Yes	SLP/GPR	USGS	7.33	602				Good	0.05	2.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	602	98.0	262	2.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	128	1997-05-07 14:16:00	PDT	Yes	GPR	USGS	6.84	368				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	368	98.0	230	1.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	129	1997-07-02 11:20:00	PDT	Yes	SLP	USGS	6.07	178				Good	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	178	92.0	141	1.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	130	1997-08-28 09:55:00	PDT	Yes	SLP	USGS	5.78	110				Good	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	110	52.0	72.9	1.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	13285500	131	1997-10-21 08:48:00	PDT	Yes	SLP/GPR	USGS	5.71	98.0				Good	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	98.0	56.5	70.2	1.40	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

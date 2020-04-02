@@ -1,0 +1,89 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:42:10 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 073274458 Little Washita River Tributary near Cement, OK
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	073274458	1	1995-06-19 13:13:00	CDT	Yes	RDG	USGS	4.85	2.05				Fair	0.00	0.40	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.05	11.5	3.65	0.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	2	1995-08-18 14:08:00	CDT	Yes	RDG	USGS	4.47	1.63				Poor	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.63	6.00	1.80	0.91	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	3	1995-10-02 15:29:00	CDT	Yes	RDG	USGS	6.74	45.1				Fair	-0.13	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	45.1	19.0	32.7	1.38	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	4	1995-12-08 13:42:00	CST	Yes	RDG	USGS	4.97	1.89				Fair	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.89	12.0	6.29	0.30	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	5	1996-02-12 15:43:00	CST	Yes	RDG	USGS	4.82	1.84				Poor	0.00	0.30		MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.84	8.50	3.56	0.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	6	1996-04-08 15:06:00	CDT	Yes	RDG	USGS	4.58	1.79				Poor	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.79	8.00	2.64	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7	1996-06-05 15:06:00	CDT	Yes	RDG	USGS	4.78	2.42				Poor	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.42	10.0	3.96	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7D	1996-07-12		Yes	DLA	USGS	10.73	800				Poor				UNSP	1	Imported Channel 1	OTHR	other		800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7I	1996-07-12		Yes	DLA	USGS	12.03	1300				Poor				UNSP	1	Imported Channel 1	OTHR	other		1300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7N	1996-07-12		Yes	DLA	USGS	14.10	2600				Poor				UNSP	1	Imported Channel 1	OTHR	other		2600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7B	1996-07-12		Yes	DLA	USGS	10.05	600				Poor				UNSP	1	Imported Channel 1	OTHR	other		600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7G	1996-07-12		Yes	DLA	USGS	11.58	1100				Poor				UNSP	1	Imported Channel 1	OTHR	other		1100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7L	1996-07-12		Yes	DLA	USGS	13.26	2000				Poor				UNSP	1	Imported Channel 1	OTHR	other		2000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7Q	1996-07-12		Yes	DLA	USGS	15.30	3600				Poor				UNSP	1	Imported Channel 1	OTHR	other		3600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7E	1996-07-12		Yes	DLA	USGS	11.03	900				Poor				UNSP	1	Imported Channel 1	OTHR	other		900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7J	1996-07-12		Yes	DLA	USGS	12.24	1400				Poor				UNSP	1	Imported Channel 1	OTHR	other		1400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7O	1996-07-12		Yes	DLA	USGS	14.48	2900				Poor				UNSP	1	Imported Channel 1	OTHR	other		2900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7C	1996-07-12		Yes	DLA	USGS	10.41	700				Poor				UNSP	1	Imported Channel 1	OTHR	other		700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7H	1996-07-12		Yes	DLA	USGS	11.81	1200				Poor				UNSP	1	Imported Channel 1	OTHR	other		1200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7M	1996-07-12		Yes	DLA	USGS	13.69	2300				Poor				UNSP	1	Imported Channel 1	OTHR	other		2300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7R	1996-07-12		Yes	DLA	USGS	15.73	4000				Poor				UNSP	1	Imported Channel 1	OTHR	other		4000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7A	1996-07-12		Yes	DLA	USGS	9.66	500				Poor				UNSP	1	Imported Channel 1	OTHR	other		500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7F	1996-07-12		Yes	DLA	USGS	11.31	1000				Poor				UNSP	1	Imported Channel 1	OTHR	other		1000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7K	1996-07-12		Yes	DLA	USGS	12.78	1700				Poor				UNSP	1	Imported Channel 1	OTHR	other		1700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	7P	1996-07-12		Yes	DLA	USGS	14.84	3200				Poor				UNSP	1	Imported Channel 1	OTHR	other		3200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	8	1996-08-07 11:36:00	CDT	Yes	RDG	USGS	4.43	1.37				Poor	0.00	0.30	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.37	7.00	1.68	0.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	9	1996-10-07 10:09:00	CDT	Yes	RDG	USGS	4.37	1.43				Poor	0.01	0.30	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.43	6.00	1.95	0.73	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	10	1996-12-05 10:20:00	CST	Yes	pac	USGS	4.68	1.96				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.96	10.2	4.28	0.46	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	11	1997-02-11 09:10:00	CST	Yes	pac	USGS	4.57	1.73				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.73	8.00	3.12	0.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	12	1997-04-11 12:15:00	CDT	Yes	pac	USGS	6.02	21.3				Fair	-0.07	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.3	16.0	22.7	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	13	1997-06-04 09:41:00	CDT	Yes	pac	USGS	4.25	2.32				Poor	0.01	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.32	7.60	2.10	1.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	14	1997-08-19 13:25:00	CDT	Yes	pac/jrg	USGS	4.12	2.39				Fair	-0.03	0.30		MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.39	6.00	2.18	1.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	15	1997-09-30 12:40:00	CDT	Yes	pac	USGS	3.86	1.66				Poor	0.00	0.30	Clear	UNSP	1	Imported Channel 1	WADE	unspe	unkno	1.66	5.60	1.54	1.08	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	16	1997-12-11 11:20:00	CST	Yes	pac	USGS	4.18	2.06				Poor	0.04	0.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.06	6.50	2.38	0.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	17	1998-04-02 13:20:00	CST	Yes	PAC	USGS	4.34	2.64				Poor	0.01	0.20		MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.64	7.20	2.59	1.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	18	1998-06-10 12:55:00	CDT	Yes	JRG	USGS	4.10	2.32				Poor	0.00	0.20	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.32	6.00	2.05	1.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	19	1998-08-06 08:53:00	CDT	Yes	JRG	USGS	3.80	1.29				Poor	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.29	4.75	1.06	1.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	20	1998-10-08 09:23:00	CDT	Yes	JRG	USGS	4.00	1.67				Poor	0.00	0.30	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.67	5.50	1.64	1.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	21	1998-12-14 13:03:00	CST	Yes	JRG	USGS	4.22	2.63				Poor	0.00	0.30	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.63	7.00	2.81	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	22	1999-02-04 12:39:00	CST	Yes	pac/ltp	USGS	4.20	2.13				Poor	-0.01	0.60		MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.13	7.70	2.48	0.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	23	1999-03-31 08:52:00	CST	Yes	ltp	USGS	4.14	2.15				Good	0.00	0.70	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.15	7.20	2.51	0.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	24	1999-06-08 08:50:00	CDT	Yes	ltp	USGS	4.22	2.07				Fair	0.00	0.60	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.07	7.90	2.33	0.89	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	25	1999-08-03 11:43:00	CDT	Yes	ltp	USGS	3.81	1.08				Poor	0.00	0.30		MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.08	5.70	1.03	1.05	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	26	1999-10-06 15:35:00	CDT	Yes	ltp	USGS	3.91	1.17				Poor	0.00	0.40		MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.17	6.60	1.56	0.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	27	1999-12-14 12:40:00	CST	Yes	DLA	USGS	4.30	1.99				Fair	0.00	0.50		MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.99	7.70	2.69	0.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	28	2000-02-08 13:55:00	CST	Yes	DLA	USGS	4.08	1.63				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.63	5.80	1.78	0.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	29	2000-04-06 14:00:00	CDT	Yes	DLA	USGS	4.00	1.82				Fair	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.82	5.20	1.56	1.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	30	2000-05-31 11:00:00	CDT	Yes	DLA	USGS	3.86	1.19				Poor	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.19	6.20	1.76	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	31	2000-08-01 14:25:00	CDT	Yes	DLA	USGS	3.80	0.85				Poor	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.85	5.30	1.31	0.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	32	2000-10-04 12:10:00	CDT	Yes	DLA	USGS	3.94	0.79				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.79	5.80	0.41	1.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	33	2000-12-07 13:30:00	CST	Yes	DLA	USGS	4.60	1.55				Poor	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.55	4.50	2.64	0.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	34	2001-02-07 12:00:00	CST	Yes	DLA	USGS	4.44	2.17				Poor	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.17	6.20	2.82	0.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	35	2001-04-18 14:55:00	CDT	Yes	DLA	USGS	4.30	2.17				Fair	0.01	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.17	7.50	2.52	0.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	36	2001-06-07 14:15:00	CDT	Yes	DLA	USGS	4.17	2.14				Fair	0.00	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.14	9.40	2.50	0.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	37	2001-08-07 11:20:00	CDT	Yes	DLA	USGS	4.01	0.87				Poor	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.87	7.00	1.36	0.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	38	2001-10-05 13:45:00	CDT	Yes	DLA	USGS	3.94	1.25				Fair	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.25	7.70	1.84	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	39	2001-12-04 11:00:00	CST	Yes	DLA	USGS	4.16	1.93				Fair	0.01	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.93	8.90	3.25	0.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	40	2002-01-29 12:45:00	CST	Yes	DLA	USGS	4.20	1.78				Fair	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.78	9.20	3.38	0.53	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	41	2002-04-05 12:15:00	CST	Yes	DLA	USGS	4.10	1.36				Fair	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.36	9.00	2.69	0.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	42	2002-06-05 09:15:00	CDT	Yes	DLA	USGS	4.30	2.96				Fair	-0.01	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.96	9.40	3.97	0.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	43	2002-08-07 10:27:00	CDT	Yes	DLA	USGS	4.20	0.83				Poor	0.00	0.30	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.83	3.70	1.87	0.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	44	2002-10-01 14:35:00	CDT	Yes	DLA	USGS	4.04	0.88				Poor	-0.01	0.40	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.88	7.70	1.58	0.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	45	2002-12-10 09:40:00	CST	Yes	DLA	USGS	4.17	1.66				Fair	0.00	0.40	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.66	7.00	2.22	0.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	46	2003-02-11 14:25:00	CST	Yes	DLA	USGS	4.24	1.59				Fair	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.59	6.50	1.90	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	47	2003-04-10 12:55:00	CDT	Yes	jrg	USGS	4.16	1.51				Poor	0.00	0.20	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.51	4.50	1.37	1.11	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	48	2003-06-10 11:28:00	CDT	Yes	jrg	USGS	4.25	0.92				Poor	0.00	0.20	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.92	4.50	1.14	0.81	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	49	2003-08-13 16:33:00	CDT	Yes	jrg	USGS	3.78	0.14				Poor	0.00	0.30	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.14	4.50	0.29	0.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	50	2003-10-07 13:30:00	CDT	Yes	jrg	USGS	3.91	0.66				Poor	0.00	0.30	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.66	4.50	0.81	0.81	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	51	2003-12-16 16:20:00	CST	Yes	jrg	USGS	3.82	0.98				Poor	0.00	0.20	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.98	2.00	0.61	1.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	52	2004-03-25 09:55:00	CST	Yes	jrg	USGS	3.82	0.62				Fair	0.00	0.10	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.62	2.00	0.84	0.73	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	53	2004-05-04 09:58:00	CDT	Yes	jen	USGS	3.86	1.46				Poor	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.46	5.00	1.65	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	54	2004-08-25 15:32:00	CDT	Yes	jen	USGS	3.64	0.78				Poor	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.78	5.50	1.01	0.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	073274458	55	2004-10-01 12:37:00	CDT	Yes	ews	USGS	3.68	1.18				Poor	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.18	5.50	1.60	0.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

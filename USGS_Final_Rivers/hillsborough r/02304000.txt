@@ -1,0 +1,40 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:33:21 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 02304000 HILLSBOROUGH R AT FOWLER AV NEAR TEMPLE TERRACE FL
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	02304000	117	1945-09-07		Yes	W	USGS	5.76	2930				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2930	117	958	3.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	118	1960-09-20		Yes	EWM	USGS	30.06	7030				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	7030	261	3060	2.21	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	119	1960-10-03		Yes	EWM	USGS	25.16	2900				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2900	240	1850	1.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	120	1961-04-13		Yes	ALM	USGS	21.34	143				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	143	200	1020	0.14	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	121	1962-09-12		Yes	JAM	USGS	24.10	2530				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2530	239	1600	1.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	122	1964-09-13		Yes	ALB	USGS	26.70	3970				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	3970	247	2220	1.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	123	1965-08-11		Yes	PEM	USGS	29.04	6230				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	6230	257	2800	2.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	124	1967-04-25		Yes	WMW	USGS	20.86	85.6				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	85.6	123	581	0.15	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	125	1967-08-23		Yes	HNM	USGS	27.29	4680				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	4680	249	2390	1.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	126	1971-09-17		Yes	DGD	USGS	25.21	2100				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2100	241	1900	1.11	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	127	1974-06-28		Yes	RDE	USGS	25.31	2710				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2710	241	1900	1.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	128	1974-06-29		Yes	DJR	USGS	26.78	4040				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	4040	248	2150	1.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	129	1974-06-30		Yes	DJR	USGS	27.09	4270				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	4270	248	2240	1.91	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	130	1975-08-14		Yes	RAM	USGS	24.25	1780				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	1780	234	1640	1.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	131	1976-05-19		Yes	LDW	USGS	22.44	561				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	561	165	1390	0.40	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	132	1978-02-22		Yes	RDE	USGS	25.38	2820				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	2820	244	1930	1.46	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	133	1978-03-02		Yes	OC	USGS	25.53	1380				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	1380	233	1490	0.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	137	1978-10-02		Yes	BB	USGS	29.22	6730				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	6730	259	2830	2.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	134	1979-08-17		Yes	JKO	USGS	24.32	1770				Fair			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	1770	238	1600	1.11	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	135	1979-09-19		Yes	RAM	USGS	26.67	4400				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	4400	245	2200	2.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	136	1979-09-27		Yes	SLW	USGS	28.26	6080				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	6080	256	2630	2.31	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	138	2000-05-22 08:27:00	EDT	Yes	RAM/DPB	USGS	4.40	28.2				Good	-0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	28.2	33.6	16.3	1.73	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	139	2000-06-06 15:05:00	EDT	Yes	RAM/JT	USGS		32.6				Good	0.00	1.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	32.6	43.6	21.1	1.54	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02304000	141	2001-05-29 11:37:00	EDT	Yes	gab/dpb	USGS	4.29	39.6				Fair	0.00	1.40	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	39.6	66.0	28.0	1.41	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

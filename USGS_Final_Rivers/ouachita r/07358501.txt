@@ -1,0 +1,38 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:55:06 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 07358501 Ouachita Riv at Carpenter Dam nr Hot Springs, AR
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	07358501	6	2015-12-02 14:38:00	CST	Yes	BKM	USGS	16.50	118				Poor				MEAS	1	main	WADE	QSCMM	VADV	118	78.0	149	0.80	FIRM	CBLS	UNEV	unkn	UNEV	NSTD	ATGA	
+USGS	07358501	7	2015-12-03 14:38:30	CST	Yes	jtm	USGS	16.48	157				Fair	-0.18	0.90		MEAS	1	main	WADE	QSCMM	VADV	157	76.0	141	1.11	FIRM	BLDR	EVEN	unkn	EVEN	UNKN	ATGA	
+USGS	07358501	9	2015-12-05 16:28:00	CST	Yes	JEW	USGS	16.47	140				Fair	16.47	1.30		MEAS	1	Main Channel	WADE	QSCMM	VADV	140	66.0	98.0	1.43	FIRM	CBLS	UNEV	unkn	UNEV	UNKN	UPST	150.00
+USGS	07358501	10	2015-12-06 14:34:00	CST	Yes	JEW	USGS	16.47	124				Fair	0.00	1.50		MEAS	1	Main Channel	WADE	QSCMM	VADV	124	66.0	106	1.17	FIRM	CBLS	UNEV	unkn	UNEV	UNKN	UPST	150.00
+USGS	07358501	11	2016-02-09 15:18:30	CST	Yes	jtf	USGS	16.48	131				Fair	0.00	1.10	Clear	MEAS	1	Main	WADE	QSCMM	VADV	131	80.0	103	1.27	FIRM	GRVL	EVEN	unkn	EVEN	STND	ATGA	
+USGS	07358501	11	2016-02-09 15:18:30	CST	Yes	jtf	USGS	16.48	131				Fair	0.00	1.10	Clear	MEAS	2	Side Chanal	WADE	QSCMM	VADV	0.20	15.0	13.2	0.02	FIRM	GRVL	EVEN	unkn	EVEN	NSTD	ATGA	
+USGS	07358501	12	2017-02-01 12:59:00	CST	Yes	BGC	USGS	16.60	167				Fair		1.00	Clear	MEAS	1	Ouachita River at Carpenter Dam	WADE	QSCMM	VADV	167	125	150	1.12	FIRM	BLDR	UNEV	unkn	UNSP	UNKN	UPST	200.00
+USGS	07358501	13	2017-02-01 14:04:00	CST	Yes	BGC	USGS	16.90	130				Fair		1.00	Clear	MEAS	1	Ouachita River at Carpenter Dam	WADE	QSCMM	VADV	130	102	151	0.86	FIRM	BLDR	UNEV	unkn	UNSP	UNKN	UPST	200.00
+USGS	07358501	14	2017-02-02 09:21:49	CST	Yes	BGC/BKM	USGS	18.10	4040				Fair	0.00	0.50	Clear	MEAS	1	Ouachita River at Carpenter Dam	MBOT	QADCP	VADCP	4040	335	2190	1.85	FIRM	BLDR	EVEN	unkn	UNSP	UNKN	DNST	750.00
+USGS	07358501	15	2017-02-02 10:02:59	CST	Yes	BGC/BKM	USGS	18.14	4090				Fair		0.20	Clear	MEAS	1	Ouachita  River Carpenter Dam	MBOT	QADCP	VADCP	4090	339	2040	2.01	FIRM	BLDR	EVEN	unkn	UNSP	UNKN	DNST	700.00
+USGS	07358501	16	2017-02-06 14:15:38	CST	Yes	BGC/AWJ	USGS	16.93	841				Fair	0.00	0.20	Clear	MEAS	1	Ouachita River at Carpenter Dam	CWAY	QADCP	VADCP	841	277	908	0.93	FIRM	BLDR	UNEV	unkn	UNSP	UNKN	DNST	300.00
+USGS	07358501	17	2017-02-08 09:37:30	CST	Yes	BKM	USGS	16.84	124				Fair				MEAS	1	Main Channel	WADE	QSCMM	VADV	124	82.0	140	0.88	FIRM	CBLS	UNEV	unkn	UNEV	STND	UPST	500.00
+USGS	07358501	18	2017-02-08 10:37:30	CST	Yes	BKM	USGS	16.76	124				Fair				MEAS	1	Main Channel	WADE	QSCMM	VADV	124	82.0	136	0.91	FIRM	CBLS	UNEV	unkn	UNEV	STND	UPST	500.00
+USGS	07358501	19	2017-02-09 09:19:30	CST	Yes	BKM	USGS	16.57	133				Fair				MEAS	1	Main Channel	WADE	QSCMM	VADV	133	78.0	128	1.04	FIRM	CBLS	UNEV	unkn	UNEV	STND	UPST	500.00
+USGS	07358501	20	2017-02-09 09:24:30	CST	Yes	BKM	USGS	16.57	132				Fair				MEAS	1	Main Channel	WADE	QSCMM	VADV	132	70.0	120	1.10	FIRM	CBLS	UNEV	unkn	UNEV	STND	UPST	500.00
+USGS	07358501	21	2017-02-10 10:15:00	CST	Yes	BGC/JCJ	USGS	16.28	132				Fair	0.00	1.00	Clear	MEAS	1	Ouachita River below Carpenter Dam	WADE	QSCMM	VADV	132	76.0	110	1.20	FIRM	BLDR	EVEN	unkn	UNSP	UNSP	UPST	250.00
+USGS	07358501	22	2017-02-10 10:22:00	CST	Yes	BGC/JCJ	USGS	16.28	128				Fair	0.00	1.00	Clear	MEAS	1	Ouachita River below Carpenter Dam	WADE	QSCMM	VADV	128	64.0	110	1.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UPST	230.00
+USGS	07358501	23	2017-02-11 09:15:30	CST	Yes	BGC	USGS	16.29	122				Fair	0.00	0.95	Clear	MEAS	1	Ouachita River at Carpenter Dam	WADE	QSCMM	VADV	122	76.0	118	1.03	FIRM	BLDR	UNEV	unkn	UNSP	UNKN	UPST	200.00
+USGS	07358501	024	2017-02-12 10:06:30	CST	Yes	JCJ	USGS	16.58	115				Fair	-0.02	1.00	Clear	MEAS	1	Main	WADE	QSCMM	VADV	115	74.0	135	0.85	FIRM	BLDR	UNEV	unkn	UNEV	UNKN	UPST	300.00
+USGS	07358501	025	2017-02-12 11:14:00	CST	Yes	JCJ	USGS	16.60	127				Fair		1.00	Clear	MEAS	1	Main channel Check mmt	WADE	QSCMM	VADV	127	76.0	133	0.95	FIRM	BLDR	UNEV	unkn	UNEV	UNKN	UPST	300.00
+USGS	07358501	26	2017-02-13 11:56:00	CST	Yes	awj	USGS	16.78	119				Fair				MEAS	1	main	WADE	QSCMM	VADV	119	82.0	150	0.79	SOFT	CBLS	UNEV	unkn	UNSP	UNSP	UPST	200.00
+USGS	07358501	27	2017-02-13 13:37:00	CST	Yes	awj	USGS	16.75	126				Fair				MEAS	1	main	WADE	QSCMM	VADV	126	86.0	148	0.85	SOFT	CBLS	UNEV	unkn	UNSP	UNSP	UPST	200.00

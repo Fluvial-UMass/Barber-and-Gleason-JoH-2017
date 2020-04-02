@@ -1,0 +1,651 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:23:18 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 14226500 COWLITZ RIVER AT PACKWOOD, WA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	14226500	1M	1907-08-15		Yes	ADM	USGS		695				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		695				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	2M	1907-08-17		Yes	ADM	USGS		816				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		816				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	3M	1907-11-25		Yes	ADM	USGS		1910				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	4M	1910-10-17		Yes	ADM	USGS		2500				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	5M	1910-11-18		Yes	ADM	USGS		1140				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1140				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	6M	1929-09-30		Yes	ADM	USGS		254				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		254				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	20	1932-10-13		Yes	FS	USGS	2.71	429				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		429				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	21	1932-10-14		Yes	FS	USGS	3.80	1460				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1460				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	22	1932-11-17		Yes	RBK	USGS	7.60	10600				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		10600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	23	1932-11-30		Yes	RBK	USGS	5.00	3260				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	24	1933-04-07		Yes	RBK	USGS	3.88	1250				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1250				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	25	1933-05-05		Yes	RBK	USGS	4.30	1790				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1790				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	26	1933-06-08		Yes	RBK	USGS	6.34	5310				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5310				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	27	1933-09-14		Yes	DJFC	USGS	3.58	795				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		795				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	28	1933-12-07		Yes	FS	USGS	5.24	3590				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	29	1933-12-09		Yes	FS	USGS	8.24	12600				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		12600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	30	1934-01-11		Yes	GMT	USGS	3.83	1910				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	82	1941-09-26		Yes	WHR	USGS	3.98	517				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		517				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	84	1941-10-23		Yes	GWC	USGS	3.96	786				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		786				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	85	1941-11-14		Yes	PCB	USGS	6.85	4620				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4620				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	86	1942-01-10		Yes	HCR	USGS	4.00	740				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		740				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	87	1942-02-12		Yes	FVB	USGS	4.26	950				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		950				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	88	1942-03-26		Yes	JGD	USGS	3.64	538				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		538				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	89	1942-05-21		Yes	FVB	USGS	6.41	3660				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3660				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	90	1942-07-16		Yes	DJFC	USGS	5.17	1720				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1720				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	91	1942-09-05		Yes	WHR	USGS	3.69	577				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		577				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	92	1942-10-22		Yes	HCR	USGS	3.19	311				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		311				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	93	1942-11-24		Yes	JRT	USGS	7.90	7530				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		7530				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	94	1942-12-10		Yes	WH	USGS	5.00	1470				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1470				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	95	1943-02-04		Yes	FWK	USGS	4.38	700				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	96	1943-02-05		Yes	FWK	USGS	4.36	681				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		681				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	97	1943-03-24		Yes	JRT	USGS	4.33	597				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		597				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	98	1943-05-20		Yes	HMK	USGS	5.58	2260				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	99	1943-07-05		Yes	DJFC	USGS	6.23	2860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	100	1943-07-06		Yes	DJFC	USGS	5.44	3260				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	101	1943-08-28		Yes	EN	USGS	4.43	630				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		630				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	102	1943-10-16		Yes	EGB	USGS	4.08	354				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		354				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	103	1943-12-20		Yes	WDS	USGS	4.30	595				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		595				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	104	1944-02-25		Yes	WDS	USGS	4.16	472				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		472				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	105	1944-04-13		Yes	WDS	USGS	4.67	1080				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1080				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	106	1944-05-26		Yes	DTS	USGS	5.18	1720				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1720				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	107	1944-07-06		Yes	MWH	USGS	4.70	1030				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1030				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	108	1944-07-09		Yes	MWH	USGS	4.56	889				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		889				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	109	1944-08-22		Yes	GWC	USGS	4.16	412				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		412				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	110	1944-10-08		Yes	DTS	USGS	4.44	576				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		576				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	112	1944-11-23		Yes	JRT/WMC	USGS	5.62	1500				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	113	1945-01-04		Yes	JCI/AWH	USGS	4.16	407				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		407				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	114	1945-02-15		Yes	WMC	USGS	4.95	1440				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1440				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	115	1945-04-11		Yes	JCI	USGS	4.37	764				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		764				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	116	1945-04-13		Yes	JCI	USGS	4.30	720				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		720				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	117	1945-05-30		Yes	JCI	USGS	6.68	4510				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4510				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	118	1945-07-18		Yes	WMD	USGS	4.51	855				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		855				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	119	1945-09-13		Yes	JCI	USGS	4.16	458				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		458				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	120	1945-09-20		Yes	JCI	USGS	5.00	1230				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1230				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	121	1945-10-25		Yes	JCI	USGS	4.96	1700				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	122	1945-11-01		Yes	JCI	USGS	5.38	1230				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1230				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	123	1945-12-19		Yes	WMC	USGS	4.20	580				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		580				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	124	1946-03-05		Yes	WMC	USGS	4.65	1220				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1220				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	125	1946-03-22		Yes	WFH	USGS	4.40	860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	126	1946-04-25		Yes	JCI	USGS	5.88	3200				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	127	1946-05-22		Yes	WMD	USGS	7.08	4910				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	128	1946-06-27		Yes	JCI	USGS	5.84	2500				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	129	1946-07-16		Yes	WMC	USGS	5.59	2090				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2090				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	130	1946-09-06		Yes	JCI	USGS	4.25	629				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		629				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	131	1946-10-23		Yes	JCI	USGS	4.58	911				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		911				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	132	1946-11-27		Yes	JS	USGS	7.38	5860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	133	1946-12-04		Yes	SWD	USGS	5.58	2560				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2560				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	134	1946-12-13		Yes	SWD	USGS	10.01	13200				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		13200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	135	1947-01-22		Yes	PGS	USGS	4.06	695				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		695				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	136	1947-03-12		Yes	JCI	USGS	4.96	1080				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1080				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	137	1947-05-01		Yes	WMD	USGS	6.26	2740				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2740				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	138	1947-06-17		Yes	WLM	USGS	6.36	3090				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3090				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	139	1947-07-28		Yes	WLM	USGS	4.51	952				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		952				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	140	1947-09-10		Yes	WLM	USGS	4.36	816				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		816				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	141	1947-10-27		Yes	WLM	USGS	5.04	1510				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1510				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	142	1947-12-18		Yes	WLM	USGS	5.67	2440				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2440				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	143	1948-01-12		Yes	WLM	USGS	4.96	1240				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1240				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	144	1948-03-01		Yes	WLM	USGS	5.14	1380				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1380				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	145	1948-03-24		Yes	JCI	USGS	4.68	966				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		966				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	146	1948-05-10		Yes	WLM	USGS	5.64	2070				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2070				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	147	1948-06-10		Yes	JCI	USGS	7.30	6960				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		6960				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	148	1948-07-19		Yes	WLM	USGS	4.63	1790				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1790				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	149	1948-08-23		Yes	WLM	USGS	3.52	718				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		718				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	150	1948-09-27		Yes	WLM	USGS	3.58	754				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		754				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	151	1948-11-03		Yes	WLM	USGS	3.62	733				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		733				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	152	1948-11-29		Yes	WLM/B	USGS	4.57	1610				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1610				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	153	1949-01-13		Yes	WLM	USGS	3.30	541				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		541				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	154	1949-02-28		Yes	WLM	USGS	4.38	1410				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1410				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	155	1949-03-29		Yes	JCI	USGS	3.88	937				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		937				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	156	1949-04-29		Yes	JCI	USGS	5.62	3200				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	157	1949-06-01		Yes	WLM	USGS	5.90	3550				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3550				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	158	1949-06-30		Yes	JCI	USGS	5.14	2110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	159	1949-08-11		Yes	HBK	USGS	4.15	1110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	160	1949-09-16		Yes	DCP	USGS	4.42	1280				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1280				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	161	1949-10-25		Yes	FTH	USGS	3.26	487				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		487				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	162	1949-12-13		Yes	WMD	USGS	4.58	1010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	163	1950-01-25		Yes	CRL	USGS	5.47	2010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	164	1950-03-23		Yes	PGS	USGS	5.18	1330				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1330				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	165	1950-05-11		Yes	PGS	USGS	6.00	2510				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2510				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	166	1950-06-07		Yes	WMD	USGS	6.60	3330				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3330				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	167	1950-07-03		Yes	FTH	USGS	7.64	5190				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5190				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	168	1950-07-07		Yes	JJL/PGS	USGS	7.50	4670				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4670				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	169	1950-08-30		Yes	JAR	USGS	4.79	893				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		893				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	170	1950-09-19		Yes	DWL	USGS	4.20	505				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		505				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	171	1950-11-20		Yes	HBK	USGS	4.65	966				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		966				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	172	1950-12-15		Yes	WMD/DMT	USGS	5.75	2040				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2040				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	173	1951-01-24		Yes	EGP	USGS	4.86	1260				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	174	1951-02-12		Yes	BNA	USGS	7.58	6040				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		6040				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	175	1951-03-07		Yes	WRB/D	USGS	4.20	672				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		672				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	176	1951-04-17		Yes	WMD	USGS	5.95	3210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	177	1951-05-23		Yes	WMD	USGS	7.21	5450				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5450				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	178	1951-07-25		Yes	SRO	USGS	4.50	1100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	179	1951-08-29		Yes	WRB	USGS	3.83	476				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		476				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	180	1951-09-27		Yes	WVF/BNA	USGS	3.56	391				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		391				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	181	1951-11-06		Yes	SHH	USGS	4.83	1420				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1420				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	182	1952-01-10		Yes	AAS	USGS	3.87	427				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		427				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	183	1952-02-21		Yes	SRO/EAJ	USGS	3.97	625				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		625				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	184	1952-04-05		Yes	WRB/T	USGS	4.60	1150				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1150				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	185	1952-05-05		Yes	WVF	USGS	4.95	1520				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1520				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	186	1952-06-13		Yes	JS	USGS	5.14	1830				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1830				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	187	1952-07-29		Yes	EGP	USGS	4.40	1060				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1060				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	188	1952-09-10		Yes	EGP	USGS	3.32	396				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		396				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	189	1952-09-12		Yes	EGP	USGS	3.30	364				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		364				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	191	1952-10-04		Yes	EGP	USGS	2.94	414				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		414				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	193	1952-10-07		Yes	EGP	USGS	3.48	431				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		431				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	195	1952-10-21		Yes	EGP	USGS	3.07	287				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		287				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	196	1952-12-03		Yes	EGP	USGS	2.66	159				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		159				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	197	1953-01-21		Yes	WMD	USGS	6.10	3100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	198	1953-03-11		Yes	EGP	USGS	4.32	1040				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1040				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	199	1953-04-08		Yes	JJL	USGS	3.94	675				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		675				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	200	1953-05-14		Yes	EGP	USGS	5.44	2670				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2670				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	201	1953-05-18		Yes	EGP	USGS	5.80	3260				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	202	1953-06-17		Yes	EGP	USGS	6.12	3700				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	203	1953-07-30		Yes	WMD	USGS	4.60	1340				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1340				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	204	1953-09-09		Yes	WMD/SHH	USGS	3.57	598				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		598				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	205	1953-10-09		Yes	WMD	USGS	3.55	578				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		578				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	206	1953-11-17		Yes	WMD	USGS	4.30	1080				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1080				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	207	1954-01-07		Yes	WMD/SHH	USGS	5.63	2620				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2620				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	208	1954-02-16		Yes	WMD/RVM	USGS	5.10	1770				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1770				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	209	1954-03-18		Yes	WMD/H	USGS	4.28	1020				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1020				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	210	1954-04-21		Yes	WMD	USGS	5.20	1950				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1950				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	211	1954-05-26		Yes	WMD	USGS	6.04	3010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	212	1954-07-21		Yes	WVF	USGS	5.81	2500				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	213	1954-08-24		Yes	WCG	USGS	4.68	1210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	214	1954-09-28		Yes	WVF	USGS	3.86	642				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		642				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	215	1954-11-11		Yes	WVF	USGS	3.86	690				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		690				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	216	1954-12-22		Yes	WVF	USGS	5.38	1370				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1370				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	217	1955-01-28		Yes	WVF	USGS	4.26	774				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		774				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	218	1955-02-09		Yes	BNA	USGS	5.98	2200				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	219	1955-03-18		Yes	WVF	USGS	3.36	427				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		427				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	220	1955-03-22		Yes	WVF	USGS	3.63	501				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		501				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	221	1955-05-05		Yes	WVF	USGS	4.53	1010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	222	1955-06-17		Yes	WVF	USGS	5.58	3160				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3160				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	223	1955-07-20		Yes	WVF	USGS	5.18	2540				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2540				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	224	1955-09-28		Yes	WVF	USGS	3.24	808				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		808				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	225	1955-09-29		Yes	WVF	USGS	3.07	708				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		708				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	226	1955-11-09		Yes	EAJ	USGS	4.99	3010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	227	1955-12-15		Yes	EAJ	USGS	5.38	2910				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	228	1956-01-25		Yes	EAJ	USGS	4.12	1420				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1420				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	229	1956-03-14		Yes	EAJ/L	USGS	2.80	465				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		465				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	230	1956-04-17		Yes	EAJ	USGS	5.00	2380				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2380				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	231	1956-05-22		Yes	EAJ	USGS	7.00	5740				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5740				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	232	1956-06-19		Yes	EAJ/THS	USGS	7.13	5480				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5480				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	233	1956-08-06		Yes	EAJ/THS	USGS	4.40	1270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	234	1956-10-02		Yes	THS	USGS	3.35	574				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		574				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	235	1956-11-08		Yes	RWS	USGS	4.43	1360				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1360				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	236	1956-12-28		Yes	RWS	USGS	4.52	1420				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1420				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	237	1957-01-30		Yes	SHH/WMM	USGS	3.00	472				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		472				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	238	1957-01-31		Yes	WMM/SHH	USGS	3.06	475				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		475				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	239	1957-03-15		Yes	WMM	USGS	4.42	1250				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1250				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	240	1957-04-25		Yes	WMM	USGS	4.41	1270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	241	1957-05-29		Yes	WMM	USGS	6.07	3030				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3030				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	242	1957-07-17		Yes	WMM	USGS	4.09	1010				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	243	1957-08-24		Yes	WMM	USGS	3.34	596				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		596				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	244	1957-10-11		Yes	WMM	USGS	2.61	306				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		306				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	245	1957-12-02		Yes	JAM	USGS	3.84	854				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		854				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	246	1958-01-16		Yes	JAM	USGS	5.90	2730				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2730				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	247	1958-02-19		Yes	JAM/L	USGS	5.68	2430				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2430				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	248	1958-03-21		Yes	JAM	USGS	3.50	645				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		645				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	249	1958-05-15		Yes	JAM	USGS	5.50	2210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	250	1958-06-19		Yes	JAM	USGS	6.21	3300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	251	1958-08-05		Yes	JAM	USGS	3.43	637				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		637				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	252	1958-09-17		Yes	JAM	USGS	3.39	640				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		640				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	253	1958-10-18		Yes	CJP	USGS	3.80	864				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		864				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	254	1958-12-02		Yes	CJP	USGS	6.93	4410				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4410				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	255	1959-01-15		Yes	CJP	USGS	5.30	2070				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2070				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	256	1959-02-12		Yes	CJP	USGS	3.80	796				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		796				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	257	1959-03-19		Yes	CJP	USGS	4.08	1000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	258	1959-04-23		Yes	CJP	USGS	4.79	1620				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1620				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	259	1959-05-31		Yes	CJP	USGS	5.60	2300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	260	1959-07-09		Yes	CJP	USGS	5.21	1750				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1750				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	261	1959-08-06		Yes	CJP	USGS	3.80	822				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		822				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	262	1959-09-15		Yes	EAJ	USGS	3.50	708				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		708				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	263	1959-10-21		Yes	CJP	USGS	4.74	1590				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	264	1959-10-24		Yes	CJP	USGS	6.19	4110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	265	1959-11-23		Yes	EAJ	USGS	13.54	34300				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		34300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	266	1959-11-26		Yes	CJP	USGS	6.36	3950				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3950				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	267	1959-12-15		Yes	FTH	USGS	9.58	13100				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		13100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	268	1959-12-16		Yes	FTH	USGS	8.08	7860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		7860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	269	1960-01-04		Yes	CJP	USGS	3.53	662				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		662				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	270	1960-01-30		Yes	CJP/EAJ	USGS	5.85	2960				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2960				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	271	1960-03-09		Yes	CJP	USGS	3.35	573				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		573				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	272	1960-04-07		Yes	CJP	USGS	6.16	3400				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	273	1960-05-10		Yes	CJP	USGS	5.35	2590				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	274	1960-06-22		Yes	CJP	USGS	4.92	2210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	275	1960-08-17		Yes	JCB	USGS	3.20	593				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		593				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	276	1960-09-21		Yes	WMM	USGS	2.70	423				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		423				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	277	1960-10-20		Yes	WMD	USGS	2.56	396				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		396				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	278	1960-11-29		Yes	WMD/AWM	USGS	4.29	1710				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1710				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	279	1961-01-05		Yes	AWM/WMD	USGS	4.02	1350				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1350				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	280	1961-02-02		Yes	AWM/U	USGS	6.38	3480				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3480				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	281	1961-03-22		Yes	AWM	USGS	4.48	1570				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1570				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	282	1961-04-27		Yes	AWM	USGS	4.22	1370				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1370				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	283	1961-06-01		Yes	AWM	USGS	7.37	5330				Good				UNSP	1	Imported Channel 1	UNSP	other		5330				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	284	1961-07-05		Yes	AWM	USGS	5.80	2960				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2960				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	285	1961-08-09		Yes	AWM	USGS	3.44	881				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		881				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	286	1961-09-13		Yes	AWM	USGS	2.64	449				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		449				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	287	1961-09-19		Yes	AWM	USGS	2.54	391				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		391				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	288	1961-10-24		Yes	AWM	USGS	2.86	527				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		527				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	289	1961-11-29		Yes	WMM/DJR	USGS	4.62	1680				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1680				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	290	1962-01-20		Yes	DJR	USGS	3.72	729				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		729				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	291	1962-02-20		Yes	DJR/JAM	USGS	3.78	880				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		880				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	292	1962-04-07		Yes	REM	USGS	8.22	7650				Fair				UNSP	1	Imported Channel 1	UNSP	other		7650				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	293	1962-04-10		Yes	REM	USGS	5.26	2210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	294	1962-05-16		Yes	REM	USGS	4.46	1550				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1550				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	295	1962-06-15		Yes	REM	USGS	5.72	2770				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2770				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	296	1962-08-23		Yes	REM/MNS	USGS	3.40	661				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		661				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	297	1962-10-05		Yes	MNS	USGS	3.20	583				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		583				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	298	1962-11-16		Yes	MNS	USGS	3.81	925				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		925				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	299	1962-11-28		Yes	MNS	USGS	5.14	2570				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2570				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	300	1962-12-27		Yes	MNS	USGS	3.82	958				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		958				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	301	1963-01-02		Yes	MNS/M	USGS	4.66	1860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	302	1963-01-31		Yes	MNS	USGS	3.00	481				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		481				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	304	1963-03-07		Yes	MNS	USGS	3.95	945				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		945				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	305	1963-04-10		Yes	MNS	USGS	4.50	1520				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1520				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	306	1963-05-15		Yes	MNS	USGS	4.46	1430				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1430				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	307	1963-06-26		Yes	REM	USGS	4.34	1430				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1430				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	308	1963-07-26		Yes	REM	USGS	3.78	793				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		793				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	309	1963-08-29		Yes	REM	USGS	3.36	486				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		486				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	310	1963-09-18		Yes	MNS/DAS	USGS	3.12	356				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		356				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	311	1963-10-02		Yes	DAS/MNS	USGS	3.24	418				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		418				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	312	1963-11-07		Yes	DAS	USGS	3.61	650				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		650				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	313	1963-12-10		Yes	DAS	USGS	4.23	1150				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1150				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	314	1964-01-07		Yes	DAS/AAS	USGS	4.41	1280				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1280				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	315	1964-02-19		Yes	DAS	USGS	3.92	916				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		916				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	316	1964-03-27		Yes	DAS	USGS	3.54	540				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		540				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	317	1964-04-24		Yes	DAS	USGS	4.03	968				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		968				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	318	1964-05-26		Yes	DAS	USGS	5.00	2020				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2020				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	319	1964-06-05		Yes	DAS	USGS	7.40	6590				Good				UNSP	1	Imported Channel 1	UNSP	other		6590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	320	1964-07-14		Yes	DAS	USGS	6.48	4300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	321	1964-08-14		Yes	DAS/RLB	USGS	4.40	1200				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	322	1964-09-15		Yes	EAJ	USGS	3.85	600				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	323	1964-10-21		Yes	EAJ	USGS	3.87	738				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		738				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	324	1964-12-01		Yes	EAJ	USGS	8.96	11400				Good				UNSP	1	Imported Channel 1	UNSP	other		11400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	325	1965-01-04		Yes	EAJ	USGS	3.74	982				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		982				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	326	1965-02-16		Yes	EAJ	USGS	3.92	1250				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1250				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	327	1965-03-17		Yes	EAJ	USGS	3.80	1110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	328	1965-05-03		Yes	EAJ	USGS	4.30	1670				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1670				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	329	1965-06-14		Yes	EAJ	USGS	4.68	2020				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2020				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	331	1965-09-02		Yes	EAJ	USGS	3.14	501				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		501				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	332	1965-10-07		Yes	EAJ	USGS	3.27	615				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		615				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	333	1965-11-30		Yes	EAJ	USGS	3.46	572				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		572				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	334	1966-01-10		Yes	EAJ	USGS	3.96	932				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		932				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	335	1966-02-24		Yes	EAJ	USGS	3.40	512				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		512				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	336	1966-04-05		Yes	EAJ	USGS	4.68	1860				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	337	1966-05-16		Yes	EAJ	USGS	4.44	1450				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1450				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	338	1966-07-05		Yes	EAJ	USGS	5.06	1990				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1990				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	339	1966-08-22		Yes	EAJ	USGS	3.69	558				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		558				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	340	1966-10-12		Yes	WVF	USGS	3.16	285				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		285				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	341	1966-11-23		Yes	WVF	USGS	4.06	902				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		902				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	342	1967-01-16		Yes	WVF	USGS	5.26	2510				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2510				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	343	1967-02-28		Yes	WVF	USGS	3.92	836				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		836				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	344	1967-03-30		Yes	WVF	USGS	3.87	745				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		745				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	345	1967-05-24		Yes	WVF	USGS	5.91	3340				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3340				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	346	1967-07-12		Yes	WVF	USGS	5.21	2270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	347	1967-08-24		Yes	WVF	USGS	3.70	563				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		563				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	348	1967-09-26		Yes	WVF	USGS	3.31	369				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		369				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	349	1967-11-24		Yes	WVF	USGS	4.19	1090				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1090				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	350	1968-01-16		Yes	WVF	USGS	5.84	3050				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3050				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	351	1968-02-20		Yes	WVF	USGS	7.93	7630				Good				UNSP	1	Imported Channel 1	UNSP	other		7630				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	352	1968-04-09		Yes	WVF	USGS	4.09	869				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		869				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	353	1968-05-06		Yes	REL	USGS	4.42	1270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	354	1968-07-09		Yes	WVF	USGS	4.29	1320				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1320				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	355	1968-08-28		Yes	WVF	USGS	5.05	2140				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2140				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	356	1968-11-05		Yes	MNS	USGS	3.92	916				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		916				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	357	1968-11-06		Yes	MNS	USGS	3.84	833				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		833				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	358	1968-12-12		Yes	MNS	USGS	4.57	1580				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1580				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	359	1969-02-19		Yes	MNS	USGS	3.37	511				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		511				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	360	1969-03-25		Yes	MNS	USGS	3.94	933				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		933				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	361	1969-05-06		Yes	MNS	USGS	4.62	1640				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1640				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	362	1969-06-16		Yes	MNS	USGS	5.88	2950				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2950				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	363	1969-06-19		Yes	MNS	USGS	5.54	2490				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2490				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	364	1969-08-05		Yes	MNS	USGS	3.74	572				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		572				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	365	1969-09-15		Yes	MNS	USGS	3.24	326				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		326				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	366	1969-11-05		Yes	MNS	USGS	5.13	2100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	367	1969-11-07		Yes	MNS	USGS	4.56	1270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	368	1969-12-12		Yes	REW	USGS	4.11	871				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		871				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	369	1970-02-17		Yes	REW	USGS	5.54	2530				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2530				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	370	1970-03-23		Yes	REW	USGS	4.13	928				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		928				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	371	1970-05-13		Yes	REW	USGS	4.40	1110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	372	1970-06-22		Yes	GH	USGS	6.11	3390				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3390				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	373	1970-08-11		Yes	GH	USGS	3.88	628				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		628				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	374	1970-09-16		Yes	MNS	USGS	3.28	313				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		313				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	375	1970-11-04		Yes	MNS	USGS	3.56	441				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		441				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	376	1970-12-15		Yes	MNS	USGS	4.35	1160				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1160				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	377	1970-12-16		Yes	MNS	USGS	4.30	1070				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1070				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	378	1971-01-22		Yes	MNS	USGS	5.30	2270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	379	1971-03-16		Yes	MNS	USGS	3.87	708				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		708				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	380	1971-05-05		Yes	MNS	USGS	6.06	3460				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3460				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	381	1971-06-16		Yes	MNS	USGS	6.03	3340				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3340				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	382	1971-08-03		Yes	MNS	USGS	5.42	2310				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2310				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	383	1971-09-15		Yes	MNS	USGS	3.70	548				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		548				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	384	1971-11-03		Yes	MNS	USGS	3.87	638				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		638				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	385	1972-03-04		Yes	MNS/JAM	USGS	5.15	2080				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2080				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	386	1972-03-08		Yes	JAM	USGS	5.59	2710				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2710				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	387	1972-05-03		Yes	JAM	USGS	4.85	1760				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1760				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	388	1972-07-19		Yes	JAM	USGS	5.97	3210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	389	1972-09-21		Yes	JM	USGS	7.45	6470				Good				UNSP	1	Imported Channel 1	UNSP	other		6470				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	390	1972-11-21		Yes	JAM	USGS	3.31	437				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		437				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	391	1973-01-02		Yes	JAM/DLN	USGS	3.87	1180				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1180				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	392	1973-01-30		Yes	DLN/MNS	USGS	3.34	739				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		739				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	393	1973-02-07		Yes	JAM	USGS	2.97	534				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		534				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	394	1973-04-05		Yes	JAM	USGS	3.12	616				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		616				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	395	1973-06-08		Yes	JAM	USGS	5.19	2760				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2760				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	396	1973-08-13		Yes	WMM	USGS	3.30	748				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		748				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	397	1973-10-10		Yes	MNS	USGS	2.57	304				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		304				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	398	1973-12-12		Yes	HEP	USGS	4.18	1470				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1470				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	399	1974-01-16		Yes	CS	USGS	9.72	14800				Good				UNSP	1	Imported Channel 1	UNSP	other		14800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	400	1974-02-12		Yes	HEP	USGS	3.33	906				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		906				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	401	1974-03-08		Yes	WMM	USGS	4.71	707				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		707				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	402	1974-03-21		Yes	WMM	USGS	4.12	1490				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1490				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	403	1974-04-11		Yes	MNS	USGS	4.40	1690				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1690				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	404	1974-04-18		Yes	WMM	USGS	4.35	1500				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	405	1974-06-13		Yes	MNS	USGS	8.56	7510				Good				UNSP	1	Imported Channel 1	UNSP	other		7510				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	406	1974-06-19		Yes	MNS	USGS	8.88	8190				Good				UNSP	1	Imported Channel 1	UNSP	other		8190				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	407	1974-07-02		Yes	JDD/MM	USGS	7.02	3650				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3650				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	408	1974-07-24		Yes	WMM/MNS	USGS	6.41	2980				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2980				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	409	1974-08-14		Yes	MNS	USGS	4.95	1170				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1170				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	410	1974-10-09		Yes	MNS	USGS	3.92	375				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		375				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	411	1974-12-12		Yes	MNS	USGS	5.02	1300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	412	1975-02-11		Yes	MNS	USGS	4.11	770				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		770				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	413	1975-02-12		Yes	MNS	USGS	4.47	1160				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1160				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	414	1975-02-13		Yes	MNS	USGS	5.17	2000				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	415	1975-04-08		Yes	MNS	USGS	3.75	476				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		476				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	416	1975-05-14		Yes	MNS	USGS	6.78	4400				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	417	1975-05-15		Yes	MNS	USGS	7.36	5400				Good				UNSP	1	Imported Channel 1	UNSP	other		5400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	418	1975-06-13		Yes	MNS	USGS	7.23	5190				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5190				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	419	1975-07-23		Yes	JDD	USGS		1760				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1760				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	420	1975-08-14		Yes	WVF	USGS	4.44	1120				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1120				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	421	1975-10-06		Yes	JDD	USGS	3.96	549				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		549				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	422	1975-12-03		Yes	JDD	USGS	11.41	29200				Fair				UNSP	1	Imported Channel 1	UNSP	other		29200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	424	1975-12-05		Yes	JDD	USGS	6.37	6280				Good				UNSP	1	Imported Channel 1	UNSP	other		6280				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	423	1975-12-05		Yes	JDD	USGS	6.89	7430				Fair				UNSP	1	Imported Channel 1	UNSP	other		7430				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	425	1975-12-10		Yes	JDD	USGS	4.69	3210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	426	1976-01-13		Yes	JDD	USGS	2.96	1160				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1160				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	427	1976-03-16		Yes	JDD	USGS	2.11	538				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		538				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	428	1976-04-13		Yes	JDD	USGS	3.61	1750				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1750				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	429	1976-06-09		Yes	JDD	USGS	4.50	2980				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2980				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	430	1976-09-01		Yes	JDD	USGS	2.94	1110				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	431	1976-10-14		Yes	JDD	USGS	1.85	390				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		390				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	432	1977-01-12		Yes	JDD	USGS	1.90	427				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		427				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	433	1977-05-10		Yes	JDD	USGS	3.43	1590				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	434	1977-07-19		Yes	JDD	USGS	2.24	542				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		542				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	435	1977-10-04		Yes	JDD	USGS	2.42	480				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		480				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	436	1977-10-13		Yes	JDD	USGS	2.27	404				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		404				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	437	1977-12-02		Yes	TH	USGS	13.06	30300				Poor				UNSP	1	Imported Channel 1	UNSP	other		30300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	438	1977-12-03		Yes	THH	USGS	9.04	14100				Fair				UNSP	1	Imported Channel 1	UNSP	other		14100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	439	1978-01-11		Yes	MBM/JDD	USGS	4.36	1540				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1540				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	440	1978-02-08		Yes	JDD	USGS	4.06	1180				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1180				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	441	1978-03-08		Yes	DPG/JDD	USGS	3.63	878				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		878				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	442	1978-03-31		Yes	JDD	USGS	4.85	2210				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	443	1978-07-21		Yes	JDD	USGS	3.91	1310				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1310				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	444	1978-08-18		Yes	JDD	USGS	3.02	550				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		550				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	445	1978-09-20		Yes	DJK	USGS	3.01	492				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		492				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	446	1978-11-02		Yes	SJH	USGS	2.60	302				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		302				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	447	1978-11-29		Yes	DJK	USGS	3.43	884				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		884				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	448	1979-01-25		Yes	DJK	USGS	2.86	404				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		404				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	449	1979-02-13		Yes	DJK	USGS	4.99	2450				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2450				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	450	1979-03-22		Yes	DJK	USGS	3.97	1120				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1120				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	451	1979-05-18		Yes	DJK	USGS	5.31	2820				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2820				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	452	1979-07-27		Yes	DJK	USGS	3.55	701				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		701				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	453	1979-09-18		Yes	WVF/DJK	USGS	3.05	401				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		401				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	454	1979-11-28		Yes	DJK	USGS	2.82	347				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		347				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	455	1980-01-23		Yes	SAG	USGS	3.43	886				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		886				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	456	1980-03-11		Yes	SAG	USGS	3.68	1140				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1140				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	457	1980-05-06		Yes	SAG	USGS	5.65	4150				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4150				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	458	1980-07-01		Yes	SAG	USGS	4.17	1590				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	459	1980-08-27		Yes	SAG	USGS	3.02	558				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		558				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	460	1980-10-21		Yes	LCVG	USGS	2.46	248				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		248				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	461	1980-12-10		Yes	LCVG	USGS	3.97	1380				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1380				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	462	1981-01-06		Yes	LCVG/FND	USGS	3.13	1380				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1380				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	463	1981-01-22		Yes	LCVG	USGS	2.74	950				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		950				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	464	1981-02-18		Yes	LCV	USGS	5.79	5450				Good				UNSP	1	Imported Channel 1	UNSP	other		5450				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	465	1981-03-05		Yes	LCVG	USGS	3.38	933				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		933				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	466	1981-04-14		Yes	LCVG	USGS	3.09	704				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		704				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	467	1981-04-23		Yes	LCVG	USGS	5.58	4410				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4410				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	468	1981-06-11		Yes	LCVG	USGS	4.73	2330				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2330				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	469	1981-08-12		Yes	LCVG	USGS	3.38	661				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		661				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	470	1981-09-29		Yes	LCVG	USGS	3.06	452				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		452				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	471	1981-10-15		Yes	LCVG	USGS	3.18	571				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		571				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	472	1981-12-02		Yes	LCVG	USGS	4.72	2610				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2610				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	473	1982-01-20		Yes	LCVG	USGS	3.59	770				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		770				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	474	1982-02-19		Yes	LCVG	USGS	6.18	4550				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		4550				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	475	1982-03-09		Yes	LCVG	USGS	4.55	2120				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2120				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	476	1982-05-19		Yes	LCVG	USGS	5.26	2770				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2770				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	477	1982-07-13		Yes	LCVG	USGS	4.85	2100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	478	1982-09-15		Yes	LCVG	USGS	3.01	377				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		377				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	479	1982-10-26		Yes	LCVG	USGS	3.84	1020				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1020				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	480	1982-12-29		Yes	LCVG	USGS	3.03	649				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		649				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	481	1983-03-09		Yes	LCVG	USGS	5.52	3830				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3830				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	482	1983-05-11		Yes	LCVG	USGS	4.02	1270				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	483	1983-07-21		Yes	LCVG	USGS	4.41	1580				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		1580				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	484	1983-09-22		Yes	LCV	USGS	3.24	491				Good	-0.01	1.20		MEAS	1	Imported Channel 1	UNSP	other		491				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	485	1983-12-15		Yes	DJK	USGS	4.31	1440				Good	-0.01	1.00		MEAS	1	Imported Channel 1	UNSP	other		1440				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	486	1984-02-16		Yes	DJK	USGS	4.20	1290				Good	0.00	0.90		MEAS	1	Imported Channel 1	UNSP	other		1290				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	487	1984-04-18		Yes	DJK	USGS	4.28	1370				Good	-0.01	1.10		MEAS	1	Imported Channel 1	UNSP	other		1370				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	488	1984-06-15		Yes	DJK	USGS	6.70	4220				Fair	-0.02	1.10		MEAS	1	Imported Channel 1	UNSP	other		4220				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	489	1984-06-27		Yes	DJK	USGS	6.34	3350				Good	-0.03	1.30		MEAS	1	Imported Channel 1	UNSP	other		3350				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	490	1984-08-14		Yes	DJK	USGS	4.10	725				Fair	0.01	1.00		MEAS	1	Imported Channel 1	UNSP	other		725				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	491	1984-12-19		Yes	KRL	USGS	3.90	536				Good	0.00	1.20		MEAS	1	Imported Channel 1	UNSP	other		536				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	492	1985-03-06		Yes	KRL	USGS	3.91	564				Good	0.00	1.20		MEAS	1	Imported Channel 1	UNSP	other		564				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	493	1985-05-16		Yes	KRL	USGS	5.10	2040				Good	0.02	1.20		MEAS	1	Imported Channel 1	UNSP	other		2040				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	494	1985-06-07		Yes	KRL	USGS	10.08	15300				Fair	-0.25	1.40		MEAS	1	Imported Channel 1	UNSP	other		15300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	495	1985-06-12		Yes	WVF	USGS	6.68	3780				Good	-0.05	2.00		MEAS	1	Imported Channel 1	UNSP	other		3780				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	496	1985-09-04		Yes	KRL	USGS	3.45	376				Good	0.00	0.70		MEAS	1	Imported Channel 1	UNSP	other		376				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	497	1985-10-22		Yes	KRL/GTH	USGS	3.53	605				Fair	0.00	0.80		MEAS	1	Imported Channel 1	UNSP	other		605				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	498	1985-12-18		Yes	KRL	USGS	3.59	449				Fair	0.00	1.70		MEAS	1	Imported Channel 1	UNSP	other		449				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	499	1986-03-05		Yes	KRL	USGS	4.91	2000				Good	-0.01	1.30		MEAS	1	Imported Channel 1	UNSP	other		2000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	500	1986-05-07		Yes	KRL	USGS	4.05	1060				Fair	0.00	1.20		MEAS	1	Imported Channel 1	UNSP	other		1060				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	501	1986-05-31		Yes	KRL	USGS	6.57	4470				Good	-0.02	1.30		MEAS	1	Imported Channel 1	UNSP	other		4470				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	502	1986-07-18		Yes	KRL	USGS	3.47	584				Fair	-0.01	1.40		MEAS	1	Imported Channel 1	UNSP	other		584				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	503	1986-09-26		Yes	KRL	USGS	3.08	374				Good	-0.01	0.80		MEAS	1	Imported Channel 1	UNSP	other		374				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	504	1986-11-25		Yes	BSP	USGS	6.58	6030				Good	-0.09	1.20		MEAS	1	Imported Channel 1	UNSP	other		6030				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	505	1986-12-10		Yes	KRL	USGS	3.51	716				Good	0.00	1.10		MEAS	1	Imported Channel 1	UNSP	other		716				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	506	1987-02-19		Yes	KRL	USGS	3.65	892				Good	-0.01	1.30		MEAS	1	Imported Channel 1	UNSP	other		892				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	507	1987-04-29		Yes	KRL	USGS	5.88	3900				Good	-0.05	1.40		MEAS	1	Imported Channel 1	UNSP	other		3900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	508	1987-06-22		Yes	KRL	USGS	3.89	1030				Fair	-0.01	1.20		MEAS	1	Imported Channel 1	UNSP	other		1030				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	509	1987-08-13 11:18:00	PDT	Yes	KRL	USGS	3.32	444				Fair	-0.01	1.10	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	444	170	404	1.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	510	1987-10-16 14:10:00	PDT	Yes	KRL	USGS	2.95	193				Good	0.00	0.70	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	193	87.0	118	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	511	1987-12-30 14:09:00	PST	Yes	KRL	USGS	3.26	383				Good	0.00	0.90	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	383	122	177	2.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	512	1988-01-26 15:18:00	PST	Yes	MCM	USGS	3.53	582				Good	0.00	1.10	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	582	148	224	2.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	513	1988-02-25 09:30:00	PST	Yes	WVF	USGS	3.67	818				Fair	0.00	1.00	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	818	190	439	1.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	514	1988-05-02 16:55:00	PDT	Yes	DR	USGS	4.42	1720				Fair	0.00	0.90	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1720	196	562	3.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	515	1988-05-28 14:25:00	PDT	Yes	DR	USGS	6.58	4740				Fair	-0.04	1.10	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4740	211	937	5.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	516	1988-06-21 08:00:00	PDT	Yes	DR	USGS	5.31	2720				Good	-0.04	1.10	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2720	201	677	4.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	517	1988-07-19 13:10:00	PDT	Yes	DR	USGS	3.91	985				Fair	-0.02	1.00		MEAS	1	Imported Channel 1	CWAY	unspe	unkno	985	190	420	2.35	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	518	1988-08-23 08:00:00	PDT	Yes	DR	USGS	3.40	533				Good	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	533	131	216	2.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	519	1988-10-19 09:00:00	PDT	Yes	DR	USGS	4.11	1160				Fair	-0.01	0.90	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1160	191	404	2.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	520	1988-11-18 14:08:00	PST	Yes	KRL	USGS	4.10	1100				Good	-0.01	1.10	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1100	194	449	2.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	521	1988-12-20 08:42:00	PST	Yes	DR	USGS	3.92	942				Fair	0.00	1.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	942	190	395	2.38	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	522	1989-01-17 15:56:00	PST	Yes	MCM	USGS	4.50	1520				Fair	0.00	0.90		MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1520	200	567	2.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	523	1989-03-01 14:35:00	PST	Yes	DR	USGS	3.58	584				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	584	155	219	2.67	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	524	1989-03-16 08:33:00	PST	Yes	MCM	USGS	4.43	1480				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1480	195	536	2.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	525	1989-04-11 12:45:00	PDT	Yes	MCM/DR	USGS	4.99	2260				Fair	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2260	201	608	3.72	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	526	1989-05-10 15:38:00	PDT	Yes	MCM	USGS	5.91	3360				Good	-0.04	1.10	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	3360	209	761	4.42	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	527	1989-06-22 08:00:00	PDT	Yes	dr	USGS	4.76	1590				Fair	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1590	199	520	3.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	528	1989-07-14 07:32:00	PDT	Yes	MCM	USGS	4.70	1580				Fair	-0.06	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1580	200	534	2.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	529	1989-08-16 08:05:00	PDT	Yes	DR	USGS	3.45	462				Excellent	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	462	152	223	2.07	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	530	1989-09-21 15:00:00	PDT	Yes	KRL	USGS	3.14	283				Good	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	283	118	175	1.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	531	1989-10-15 17:05:00	PDT	Yes	DR	USGS	3.03	215				Good	0.00	0.50		MEAS	1	Imported Channel 1	WADE	unspe	unkno	215	130	160	1.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	532	1990-01-11 12:35:00	PST	Yes	RLK/RT	USGS	5.42	4150				Good	-0.04	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4150	204	1050	3.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	533	1990-02-06 15:40:00	PST	Yes	DR	USGS	3.26	748				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	748	184	603	1.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	534	1990-03-19 12:25:00	PST	Yes	DTS	USGS	3.89	1360				Good	0.00	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1360	193	717	1.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	535	1990-04-17 07:25:00	PDT	Yes	DR	USGS	6.10	5190				Good	-0.04	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	5190	206	1140	4.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	536	1990-05-23 12:30:00	PDT	Yes	DR	USGS	4.43	2170				Good	-0.01	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2170	196	802	2.71	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	537	1990-06-26 13:45:00	PDT	Yes	DR	USGS	4.76	2530				Good	-0.01	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2530	200	853	2.97	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	538	1990-08-28 10:30:00	PDT	Yes	JWU	USGS	2.96	422				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	422	117	172	2.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	539	1990-11-01 11:00:00	PST	Yes	JWU	USGS	3.95	1280				Fair	-0.01	1.50	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1280	190	674	1.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	540	1990-12-05 08:30:00	PST	Yes	JWU	USGS	3.31	1600				Fair	0.00	1.40	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1600	183	766	2.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	541	1991-01-29 11:50:00	PST	Yes	JWU/REL	USGS	2.56	738				Fair	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	738	141	233	3.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	542	1991-04-29 11:30:00	PDT	Yes	DR	USGS	3.09	1210				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1210	126	475	2.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	543	1991-06-24 11:45:00	PDT	Yes	JWU	USGS	4.30	2310				Good	0.00	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2310	153	612	3.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	544	1991-10-17 09:30:00	PDT	Yes	JWU	USGS	2.13	274				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	274	93.0	126	2.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	545	1991-12-10 09:45:00	PST	Yes	JWU	USGS	4.51	2660				Fair	-0.04	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2660	174	652	4.08	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	546	1992-02-10 14:50:00	PST	Yes	DR	USGS	3.13	953				Good	-0.01	1.00		MEAS	1	Imported Channel 1	WADE	unspe	unkno	953	188	369	2.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	547	1992-04-16 15:05:00	PDT	Yes	JWU	USGS	4.14	2180				Poor	0.09	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2180	167	568	3.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	548	1992-06-02 14:25:00	PDT	Yes	JWU	USGS	3.50	1340				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1340	143	472	2.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	549	1992-08-03 13:30:00	PDT	Yes	JWU	USGS	2.53	434				Fair	0.02	1.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	434	188	207	2.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	550	1992-10-02 08:40:00	PDT	Yes	JWU	USGS	2.52	404				Good	-0.02	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	404	238	380	1.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	551	1992-11-29 15:02:00	PST	Yes	DR	USGS	3.00	835				Fair	0.00	0.90		MEAS	1	Imported Channel 1	CWAY	unspe	unkno	835	132	366	2.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	552	1993-02-09 13:55:00	PST	Yes	JWU	USGS	3.09	852				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	852	242	497	1.71	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	553	1993-03-29 13:55:00	PST	Yes	JWU	USGS	3.54	1350				Poor	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1350	142	482	2.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	554	1993-07-06 14:22:00	PDT	Yes	JWU/TEM	USGS	3.18	867				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	867	243	501	1.73	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	555	1993-08-30 11:34:00	PDT	Yes	TEM	USGS	2.48	383				Good	-0.01	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	383	219	384	1.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	556	1993-10-08 08:40:00	PDT	Yes	DR	USGS	2.29	250				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	250	147	201	1.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	557	1993-12-30 10:16:00	PST	Yes	TEM	USGS	2.47	394				Fair	0.00	1.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	394	179	184	2.14	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	558	1994-02-23 09:48:00	PST	Yes	TEM	USGS	2.84	695				Fair	0.01	1.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	695	169	243	2.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	559	1994-04-26 11:40:00	PDT	Yes	TEM	USGS	3.93	1840				Good	-0.01	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1840	155	514	3.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	560	1994-06-21 15:45:00	PDT	Yes	TEM	USGS	3.95	1880				Good	0.01	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1880	150	509	3.69	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	561	1994-08-15 15:21:00	PDT	Yes	TEM	USGS	2.52	493				Fair	0.02	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	493	156	216	2.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	562	1994-10-12 10:35:00	PDT	Yes	TEM	USGS	2.14	199				Fair	-0.01	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	199	208	319	0.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	563	1994-12-07 08:50:00	PST	Yes	TEM	USGS	3.21	1040				Good	0.00	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1040	139	482	2.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	564	1995-02-01 13:57:00	PST	Yes	TEM	USGS	6.85	10200				Fair	0.04	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	10200	212	1350	7.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	565	1995-02-14 09:17:00	PST	Yes	TEM	USGS	3.17	1120				Good	0.01	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1120	175	551	2.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	566	1995-05-09 16:31:00	PDT	Yes	TEM	USGS	4.25	2370				Good	0.02	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2370	192	863	2.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	567	1995-07-06 11:10:00	PDT	Yes	TEM	USGS	3.66	1520				Good	-0.02	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1520	197	727	2.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	568	1995-09-13 09:48:00	PDT	Yes	TEM	USGS	2.67	444				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	444	116	237	1.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	569	1995-11-06 15:14:00	PST	Yes	TEM/JG	USGS	2.90	611				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	611	119	285	2.14	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	570	1995-11-30 14:05:00	PST	Yes	TEM/JB	USGS	7.10	17100				Fair	0.07	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	17100	208	1650	10.4	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	571	1995-12-06 14:23:00	PST	Yes	TEM	USGS	3.51	2160				Fair	0.00	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2160	191	415	5.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	572	1996-03-06 10:45:00	PST	Yes	TEM	USGS	3.23	1130				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1130	178	429	2.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	573	1996-05-14 09:40:00	PDT	Yes	TEM	USGS	4.52	2980				Good	-0.02	1.00	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2980	189	742	4.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	574	1996-07-17 09:48:00	PDT	Yes	TEM	USGS	3.46	1250				Good	-0.01	1.00	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1250	182	503	2.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	575	1996-10-02		Yes	TEM	USGS	2.36	305				Good				MEAS	1	Imported Channel 1	WADE	unspe	unkno	305	104	153	1.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	576	1996-12-16 14:57:00	PST	Yes	TEM	USGS	3.19	1010				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1010	152	488	2.07	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	577	1997-01-09 10:35:00	PST	Yes	TEM	USGS	3.75	1800				Good	0.00	1.00	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1800	154	650	2.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	578	1997-02-11 08:40:00	PST	Yes	TEM	USGS	3.16	932				Good	-0.01	1.10	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	932	150	567	1.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	579	1997-03-20 09:35:00	PST	Yes	TEM	USGS	7.24	10800				Fair	-0.06	0.80	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	10800	170	1460	7.40	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	580	1997-05-05 15:35:00	PDT	Yes	TEM	USGS	3.58	1890				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1890	152	700	2.70	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	581	1997-07-22 09:15:00	PDT	Yes	TEM	USGS	4.51	2160				Good	-0.01	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2160	156	723	2.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	582	1997-09-30 16:35:00	PDT	Yes	TEM	USGS	3.15	926				Fair	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	926	312	312	2.97	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	583	1997-11-05 11:05:00	PST	Yes	TEM	USGS	4.05	1640				Fair	-0.01	0.80	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1640	157	472	3.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	584	1997-12-09 09:38:00	PST	Yes	TEM	USGS	3.53	747				Fair	-0.01	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	747	153	403	1.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	585	1998-02-10 09:45:00	PST	Yes	TEM	USGS	3.64	862				Fair	0.01	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	862	154	399	2.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	586	1998-05-06 10:35:00	PDT	Yes	TEM	USGS	5.20	4140				Fair	-0.04	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4140	161	759	5.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	587	1998-07-08 09:10:00	PDT	Yes	TEM	USGS	3.92	1640				Fair	-0.01	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1640	156	524	3.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	588	1998-08-25 10:10:00	PDT	Yes	TEM	USGS	2.98	472				Good	-0.02	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	472	242	284	1.66	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	589	1998-09-29 15:40:00	PDT	Yes	TEM	USGS	2.75	312				Good	-0.01	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	312	223	227	1.37	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	590	1998-12-09 08:50:00	PST	Yes	TEM	USGS	3.81	868				Fair	0.00	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	868	153	453	1.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	591	1999-01-08 09:30:00	PST	Yes	TEM	USGS	4.27	1220				Poor	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1220	160	456	2.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	592	1999-02-25 10:00:00	PST	Yes	TEM	USGS	4.46	1900				Fair	-0.04	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1900	159	504	3.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	593	1999-05-12 10:00:00	PDT	Yes	TEM	USGS	4.15	1310				Poor	0.00	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1310	155	455	2.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	594	1999-05-24 13:25:00	PDT	Yes	TEM	USGS	6.16	5460				Fair	-0.02	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	5460	166	917	5.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	595	1999-06-16 11:03:00	PDT	Yes	TEM/KEF	USGS	6.82	6970				Fair	-0.10	1.20	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	6970	170	1110	6.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	596	1999-07-14 09:55:00	PDT	Yes	TEM	USGS	5.76	4070				Fair	-0.07	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4070	165	880	4.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	597	1999-09-16 08:25:00	PDT	Yes	TEM/JCG	USGS	2.63	661				Good	-0.01	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	661	168	233	2.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	598	1999-10-04 11:35:00	PDT	Yes	TEM	USGS	2.21	417				Good	-0.02	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	417	268	232	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	599	1999-11-26 15:35:00	PST	Yes	TEM	USGS	7.74	10800				Fair	-0.12	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	10800	180	1320	8.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	600	1999-12-13 12:00:00	PST	Yes	TEM	USGS	3.98	2680				Fair	-0.04	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2680	157	622	4.31	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	601	1999-12-16 09:55:00	PST	Yes	TEM	USGS	6.40	6720				Fair	-0.08	0.90	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	6720	170	1090	6.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	602	2000-03-20 14:50:00	PST	Yes	TEM	USGS	2.64	983				Good	0.01	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	983	298	386	2.55	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	603	2000-06-07 10:15:00	PDT	Yes	TEM	USGS	4.56	3110				Fair	0.02	1.20	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	3110	159	830	3.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	604	2000-08-07 14:00:00	PDT	Yes	TEM	USGS	2.72	874				Good	0.01	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	874	304	398	2.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	605	2000-10-11 11:15:00	PDT	Yes	TEM	USGS	2.15	429				Good	-0.01	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	429	256	259	1.66	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	606	2001-01-09 14:35:00	PST	Yes	DGC/TEM	USGS	2.74	847				Fair	-0.01	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	847	235	426	1.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	607	2001-03-07 13:00:00	PST	Yes	TEM	USGS	2.18	441				Good	-0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	441	275	256	1.72	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	608	2001-05-14 12:20:00	PDT	Yes	TEM	USGS	4.43	2900				Good	-0.01	0.90	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2900	160	758	3.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	609	2001-07-20 11:35:00	PDT	Yes	TEM	USGS	2.51	640				Good	0.01	1.00	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	640	266	348	1.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	610	2001-10-01 12:20:00	PDT	Yes	TEM	USGS	2.00	274				Good	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	274	206	264	1.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	611	2001-12-03 13:30:00	PST	Yes	TEM	USGS	2.79	1220				Good	-0.03	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1220	286	426	2.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	612	2002-02-05 13:00:00	PST	Yes	TEM	USGS	1.66	622				Good	0.01	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	622	222	268	2.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	613	2002-02-22 11:05:00	PST	Yes	TEM	USGS	4.61	4180				Good	-0.02	1.00	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4180	161	711	5.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	614	2002-04-08 11:05:00	PDT	Yes	TEM	USGS	2.79	1650				Fair	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1650	156	426	3.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	615	2002-06-04 14:50:00	PDT	Yes	TEM	USGS	5.03	4000				Fair	-0.04	0.90	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4000	162	729	5.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	616	2002-08-12 10:39:00	PDT	Yes	KEF	USGS	2.14	725				Good	-0.01	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	725	247	261	2.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	617	2002-10-07 10:18:00	PDT	Yes	KEF	USGS	1.56	331				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	331	202	151	2.19	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	618	2003-01-31 07:30:00	PST	Yes	KEF/MCM	USGS	11.93	20700				Fair				UNSP	1	Imported Channel 1	OTHR	other		20700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	619	2003-02-13 10:47:00	PST	Yes	KEF/RPC	USGS	1.50	1010				Fair	0.02	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1010	140	385	2.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	620	2003-03-17 14:40:00	PST	Yes	KEF	USGS	2.90	2600				Fair	-0.04	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2600	151	579	4.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	621	2003-05-12 11:50:00	PDT	Yes	KEF	USGS	1.90	1390				Fair	0.03	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1390	147	451	3.08	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	622	2003-07-02 14:00:00	PDT	Yes	KEF	USGS	1.86	1320				Fair	-0.04	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1320	141	461	2.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	623	2003-09-23 09:03:00	PDT	Yes	KEF	USGS	0.81	336				Good	-0.04	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	336	178	399	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	624	2003-11-18 08:20:00	PST	Yes	KEF	USGS	3.88	4460				Fair	0.26	0.50	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4460	156	753	5.92	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	625	2004-02-24 08:40:00	PST	Yes	KEF	USGS	1.63	886				Fair	-0.03	1.30	DebrisLight	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	886	146	335	2.64	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	626	2004-06-07 10:30:00	PDT	Yes	KEF	USGS	3.68	2840				Good	0.01	0.90	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2840	158	605	4.70	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	627	2004-08-11 12:50:00	PDT	Yes	KEF/RES	USGS	1.51	634				Good	-0.03	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	634	242	395	1.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	628	2004-09-28 09:00:00	PDT	Yes	KEF	USGS	1.70	713				Fair	-0.02	1.00	DebrisModerate	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	713	141	303	2.35	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	629	2004-12-14 09:15:00	PST	Yes	KEF	USGS	3.73	2710				Fair	-0.03	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2710	159	556	4.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	630	2005-01-05 10:30:00	PST	Yes	KEF	USGS	1.41	679				Fair	-0.02	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	679	142	326	2.08	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	631	2005-01-19 14:34:00	PST	Yes	KEF	USGS	6.24	8340				Fair	-0.09	0.70	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	8340	168	1140	7.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	632	2005-02-16 10:15:00	PST	Yes	KEF	USGS	1.26	497				Good	-0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	497	242	407	1.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	633	2005-06-07 10:00:00	PDT	Yes	KEF	USGS	1.74	973				Fair	-0.02	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	973	141	415	2.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	634	2005-07-27 13:47:00	PDT	Yes	KEF	USGS	1.21	490				Good	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	490	245	399	1.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	635	2005-09-19 10:18:00	PDT	Yes	KEF	USGS	0.84	265				Good	-0.02	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	265	192	302	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	636	2005-12-07 10:00:00	PST	Yes	KEF	USGS	1.44	692				Fair	-0.01	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	692	141	306	2.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	637	2006-02-28 09:20:00	PST	Yes	KEF	USGS	2.25	1190				Fair	0.03	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1190	154	454	2.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	638	2006-05-16 10:20:00	PDT	Yes	KEF	USGS	5.00	4860				Fair	-0.01	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	4860	165	838	5.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	639	2006-08-10 10:39:00	PDT	Yes	KEF	USGS	1.80	605				Good	-0.02	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	605	180	383	1.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	640	2006-10-10 10:40:00	PDT	Yes	KEF	USGS	1.13	232				Good	-0.01	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	232	163	276	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	641	2006-11-08 14:27:00	PST	Yes	KEF/PHL	USGS	3.88	8890				Fair	-0.02	0.90	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	8890	180	1150	7.73	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	642	2006-11-15 11:21:00	PST	Yes	KEF/PHL	USGS	1.53	2140				Good	0.00	1.10	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2140	165	674	3.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	643	2007-01-30 08:58:00	PST	Yes	KEF	USGS	0.82	705				Fair	-0.02	1.50	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	705	151	350	2.01	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	644	2007-05-08 09:00:00	PDT	Yes	KEF	USGS	2.20	2240				Good	-0.03	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	2240	168	604	3.71	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	645	2007-06-25 10:38:00	PDT	Yes	KEF	USGS	1.81	1500				Fair	-0.05	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1500	169	540	2.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	646	2007-09-18 15:04:00	PDT	Yes	KEF/CAM	USGS	0.46	290				Good	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	290	190	229	1.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	647	2007-11-20 13:16:00	PST	Yes	KEF	USGS	1.78	1430				Good	-0.04	1.30	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	1430	160	507	2.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	648	2008-01-23 14:14:00	PST	Yes	KEF	USGS	0.88	532				Good	0.01	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	532	226	360	1.48	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	649	2008-04-10 09:47:00	PDT	Yes	KEF	USGS	0.82	509				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	509	231	395	1.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	650	2008-06-10 14:42:00	PDT	Yes	CAM/KEF	USGS	4.25	3440				Fair	-0.01	1.20	Clear	MEAS	1	Imported Channel 1	CWAY	unspe	unkno	3440	180	886	3.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	651	2008-10-08 10:52:00	PDT	Yes	KEF	USGS	2.54	783				Fair	-0.01	1.10	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	783	169	491	1.59	FIRM	GRVL	UNEV	unkn	UNEV	UNSP	DNST	100.00
+USGS	14226500	652	2008-11-13 13:59:00	PST	Yes	KEF/TEM	USGS	5.43	10800				Poor	-0.20	1.20	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	10800	184	1170	9.27	SOFT	SAND	UNEV	unkn	UNEV	UNSP	DNST	90.00
+USGS	14226500	653	2008-12-10 09:51:00	PST	Yes	KEF	USGS	1.63	952				Fair	0.02	1.20	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	952	147	434	2.19	FIRM	GRVL	UNEV	unkn	EVEN	UNSP	DNST	80.00
+USGS	14226500	654	2009-01-10 09:50:00	PST	Yes	KEF/TEM	USGS	3.54	4140				Fair	-0.10	0.70	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	4140	171	827	5.01	FIRM	GRVL	EVEN	unkn	EVEN	UNSP	DNST	100.00
+USGS	14226500	655	2009-03-04 11:08:00	PST	Yes	KEF	USGS	1.63	941				Fair	0.01	1.10	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	941	143	474	1.99	FIRM	GRVL	EVEN	unkn	UNEV	UNSP	DNST	80.00
+USGS	14226500	656	2009-03-18 12:36:00	PDT	Yes	KEF	USGS	1.15	575				Good	-0.01	0.80	Clear	UNSP	1	Imported Channel 1	WADE	QSCMM	VPAA	575	195	424	1.35	FIRM	SAND	EVEN	unkn	EVEN	UNSP	DNST	700.00
+USGS	14226500	657	2009-06-02 11:18:00	PDT	Yes	KEF	USGS	4.62	5510				Good	-0.06	1.60	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	5510	177	899	6.12	FIRM	GRVL	EVEN	unkn	EVEN	UNSP	DNST	100.00
+USGS	14226500	658	2009-08-11 09:35:00	PDT	Yes	KEF	USGS	1.77	658				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	QSCMM	VPAA	658	203	442	1.49	FIRM	GRVL	EVEN	unkn	EVEN	UNSP	DNST	800.00
+USGS	14226500	659	2009-11-09 14:57:30	PST	Yes	KEF	USGS	2.40	1270				Good	0.00	1.00	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	1270	150	421	3.03	FIRM	GRVL	UNEV	unkn	EVEN	UNSP	DNST	120.00
+USGS	14226500	660	2010-01-14 10:54:00	PST	Yes	KEF	USGS	3.56	2510				Fair	-0.05	1.10	Clear	UNSP	1	Imported Channel 1	CWAY	QSCMM	VPAA	2510	172	563	4.46	FIRM	GRVL	EVEN	unkn	UNEV	UNSP	DNST	100.00
+USGS	14226500	661	2010-05-12 10:15:00	PDT	Yes	MKB/KEF	USGS	2.78	1470				Fair	-0.01	0.50	Clear	UNSP	1	Imported Channel 1	BRDS	QADCP	VADCP	1470	112	383	3.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	14226500	662	2010-11-03 10:45:30	PDT	Yes	KEF/CCO	USGS	3.81	3060				Fair	-0.05	1.60	Clear	MEAS	1	Imported Channel 1	CWAY	QSCMM	VPAA	3060	172	602	5.09	FIRM	GRVL	UNEV	unkn	EVEN	STND	DNST	60.00
+USGS	14226500	663	2011-01-04 11:02:00	PST	Yes	cco/mkb	USGS	1.82	784				Fair	0.01	1.00	Clear	UNSP	1	Imported Channel 1	BRDS	QADCP	VADCP	784	175	278	2.84	FIRM	BLDR	UNEV	unkn	UNEV	NSTD	DNST	20.00
+USGS	14226500	664	2011-02-01 09:57:00	PST	Yes	CCO/KEF	USGS	2.18	1780				Fair	0.02	1.40	Clear	MEAS	1	Imported Channel 1	CWAY	QSCMM	VPAA	1780	142	479	3.71	FIRM	GRVL	EVEN	unkn	EVEN	UNFM	DNST	60.00
+USGS	14226500	665	2011-05-03 10:07:30	PDT	Yes	CCO/KEF	USGS	1.83	1190				Fair	0.00	0.80	Clear	UNSP	1	Imported Channel 1	UNSP	QADCP	VADCP	1190	95.2	490	2.43	FIRM	BLDR	UNEV	unkn	EVEN	UNFM	DNST	300.00
+USGS	14226500	666	2011-07-28 11:39:19	PDT	Yes	cco	USGS	2.71	2220				Fair	0.02	1.50	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	2220	153	740	3.00	FIRM	GRVL	UNEV	unkn	UNEV	UNFM	DNST	60.00
+USGS	14226500	667	2011-10-04 10:58:00	PDT	Yes	cco	USGS	1.18	558				Fair			Unspecifed	MEAS	1	Left Bank	CWAY	QSCMM	VPAA	198	60.0	64.0	3.10	FIRM	CBLS	UNEV	unkn	UNEV	UNFM	DNST	60.00
+USGS	14226500	667	2011-10-04 10:58:00	PDT	Yes	cco	USGS	1.18	558				Fair			Unspecifed	MEAS	2	Right Bank	CWAY	QSCMM	VPAA	360	78.0	469	0.77	FIRM	CBLS	UNEV	unkn	UNEV	UNFM	DNST	60.00
+USGS	14226500	668	2011-12-01 12:22:00	PST	Yes	cco	USGS	2.14	1500				Fair	0.03	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	1500	153	654	2.29	FIRM	BLDR	UNEV	unkn	UNEV	UNFM	DNST	20.00
+USGS	14226500	669	2012-03-14 10:59:04	PDT	Yes	cco	USGS	1.95	1100				Fair	0.01	1.00		MEAS	1	left	BRDS	QADCP	VADCP	410	62.2	96.8	4.24	FIRM	CBLS	UNEV	unkn	UNEV	UNKN	DNST	20.00
+USGS	14226500	669	2012-03-14 10:59:04	PDT	Yes	cco	USGS	1.95	1100				Fair	0.01	1.00		MEAS	2	right	BRDS	QADCP	VADCP	692	67.7	415	1.67	FIRM	BLDR	UNEV	unkn	UNEV	NSTD	DNST	20.00
+USGS	14226500	670	2012-05-31 10:18:00	PDT	Yes	cco	USGS	3.41	3210				Fair	0.08	1.50		MEAS	1	main	CWAY	QSCMM	VPAA	3210	167	870	3.68	FIRM	BLDR	UNEV	unkn	UNEV	STND	UPST	60.00
+USGS	14226500	671	2012-08-07 10:34:00	PDT	Yes	cco/cmc	USGS	2.12	1320				Fair	0.05	2.00	Clear	MEAS	1	left channel	CWAY	QSCMM	VPAA	523	68.0	102	5.11	FIRM	CBLS	EVEN	unkn	UNEV	UNFM	DNST	20.00
+USGS	14226500	671	2012-08-07 10:34:00	PDT	Yes	cco/cmc	USGS	2.12	1320				Fair	0.05	2.00	Clear	MEAS	2	Right Channel	CWAY	QSCMM	VPAA	799	76.0	575	1.39	FIRM	BLDR	UNEV	unkn	UNEV	NSTD	DNST	20.00
+USGS	14226500	672	2012-08-30 11:31:00	PDT	Yes	cco/cmc	USGS	1.30	512				Good	0.02	1.10		MEAS	1	main	WADE	QSCMM	VPAA	512	214	370	1.39	FIRM	GRVL	EVEN	unkn	EVEN	UNFM	DNST	800.00
+USGS	14226500	673	2012-10-17 10:44:30	PDT	Yes	cco	USGS	1.71	856				Fair	0.03	2.00	Clear	MEAS	1	Left Channel	CWAY	QSCMM	VPAA	351	62.0	75.0	4.69	FIRM	CBLS	EVEN	unkn	UNEV	UNFM	DNST	20.00
+USGS	14226500	673	2012-10-17 10:44:30	PDT	Yes	cco	USGS	1.71	856				Fair	0.03	2.00	Clear	MEAS	2	Right Channel	CWAY	QSCMM	VPAA	504	74.0	522	0.97	SOFT	GRVL	UNEV	unkn	EVEN	NSTD	DNST	20.00
+USGS	14226500	674	2012-12-19 10:18:04	PST	Yes	cco	USGS	2.03	1070				Fair	0.01	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	1070	144	402	2.67	FIRM	GRVL	UNEV	unkn	UNEV	NSTD	DNST	20.00
+USGS	14226500	675	2013-02-06 10:02:30	PST	Yes	cco	USGS	2.09	1100				Fair	0.10	1.00	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	1100	134	404	2.72	FIRM	CBLS	UNEV	unkn	UNEV	NSTD	DNST	50.00
+USGS	14226500	676	2013-04-09 15:39:30	PDT	Yes	cco	USGS	3.21	2560				Fair	0.01	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	2560	151	580	4.42	FIRM	CBLS	UNEV	unkn	UNEV	STND	DNST	20.00
+USGS	14226500	677	2013-06-19 11:41:00	PDT	Yes	cco	USGS	3.17	2440				Fair	0.03	1.30		MEAS	1	main	CWAY	QSCMM	VPAA	2440	168	604	4.04	FIRM	CBLS	UNEV	unkn	UNEV	STND	DNST	100.00
+USGS	14226500	678	2013-08-06 09:46:30	PDT	Yes	cco	USGS	1.83	714				Good	0.01	1.20	Clear	MEAS	1	main	WADE	QSCMM	VPAA	714	202	431	1.66	FIRM	GRVL	EVEN	unkn	EVEN	STND	DNST	400.00
+USGS	14226500	679	2013-08-26 13:27:00	PDT	Yes	cco	USGS	1.47	438				Good	0.00	1.00	Clear	MEAS	1	main	WADE	QSCMM	VPAA	438	189	381	1.15	FIRM	GRVL	EVEN	unkn	UNEV	UNFM	DNST	800.00
+USGS	14226500	680	2013-10-24 09:44:00	PDT	Yes	cco	USGS	1.75	586				Good	0.01	0.30		MEAS	1	main	WADE	QADCP	VADCP	586	195	448	1.31	SOFT	GRVL	EVEN	unkn	EVEN	UNFM	DNST	800.00
+USGS	14226500	681	2014-01-07 10:08:00	PST	Yes	cco	USGS	1.88	734				Good	0.01	0.30	Clear	MEAS	1	main	WADE	QADCP	VADCP	734	164	457	1.61	SOFT	GRVL	EVEN	unkn	EVEN	UNFM	DNST	500.00
+USGS	14226500	682	2014-04-01 11:20:30	PDT	Yes	cco	USGS	3.07	1900				Fair	0.02	1.10		MEAS	1	main	CWAY	QSCMM	VPAA	1900	168	527	3.61	FIRM	CBLS	UNEV	unkn	UNEV	STND	DNST	50.00
+USGS	14226500	683	2014-06-05 10:39:00	PDT	Yes	cco	USGS	4.15	3060				Fair	0.05	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	3060	172	672	4.56	FIRM	CBLS	UNEV	unkn	UNEV	UNFM	DNST	20.00
+USGS	14226500	684	2014-08-13 09:09:30	PDT	Yes	cco	USGS	3.16	1830				Fair	0.12	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	1830	161	525	3.49	FIRM	CBLS	UNEV	unkn	UNEV	NSTD	DNST	50.00
+USGS	14226500	685	2014-10-24 10:36:00	PDT	Yes	cco	USGS	3.42	1940				Fair	0.03	1.10	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	1940	169	556	3.50	FIRM	CBLS	UNEV	unkn	UNEV	STND	DNST	40.00
+USGS	14226500	686	2015-01-07 10:50:00	PST	Yes	CCO	USGS	4.55	3180				Fair	0.05	1.30	Clear	MEAS	1	main	CWAY	QSCMM	VPAA	3180	172	737	4.31	FIRM	CBLS	UNEV	unkn	UNEV	UNFM	DNST	60.00
+USGS	14226500	687	2015-04-01 10:18:06	PDT	Yes	cco/der	USGS	3.33	1620				Fair	0.01	0.30		MEAS	1	main	CWAY	QADCP	VADCP	1620	143	539	2.99	FIRM	CBLS	EVEN	unkn	EVEN	STND	DNST	60.00
+USGS	14226500	688	2015-06-10 13:14:35	PDT	Yes	DER	USGS	2.66	900				Good	0.02	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	900	149	463	1.94	FIRM	CBLS	UNEV	unkn	EVEN	STND	DNST	60.00
+USGS	14226500	689	2015-07-30 10:11:17	PDT	Yes	DER	USGS	2.19	401				Good	0.01	0.30	Clear	MEAS	1	main	CWAY	QADCP	VADCP	401	126	358	1.12	FIRM	CBLS	EVEN	unkn	EVEN	STND	DNST	60.00
+USGS	14226500	690	2015-10-01 15:34:26	PDT	Yes	DER	USGS	1.85	248				Good	0.00	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	248	129	329	0.76	FIRM	CBLS	EVEN	unkn	EVEN	NSTD	DNST	60.00
+USGS	14226500	691	2015-11-16 13:05:30	PST	Yes	DER	USGS	4.04	3270				Good	0.03	1.30	DebrisModerate	MEAS	1	main	CWAY	QSCMM	VPAA	3270	154	746	4.39	FIRM	CBLS	UNEV	unkn	UNEV	STND	DNST	100.00
+USGS	14226500	692	2015-12-17 13:40:30	PST	Yes	DER	USGS	1.62	1640				Good	0.02	2.00	Clear	BYPS	1	main	CWAY	QSCMM	VPAA	1740	156	722	2.42	FIRM	CBLS	UNEV	unkn	UNEV	UNSP	DNST	80.00
+USGS	14226500	693	2016-02-17 13:51:37	PST	Yes	DER	USGS	4.06	5820				Poor	0.00	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	5820	178	1240	4.69	SOFT	CBLS	UNEV	unkn	UNEV	STND	DNST	80.00
+USGS	14226500	694	2016-04-07 12:13:24	PDT	Yes	DER	USGS	2.47	2030				Fair	0.01	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	2030	152	929	2.19	FIRM	GRVL	UNEV	unkn	UNEV	STND	DNST	80.00
+USGS	14226500	695	2016-06-14 12:33:35	PDT	Yes	DER	USGS	2.10	1450				Fair	0.01	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	1450	148	836	1.74	FIRM	BLDR	UNEV	unkn	UNEV	NSTD	DNST	80.00
+USGS	14226500	696	2016-08-08 16:18:50	PDT	Yes	DER	USGS	1.24	535				Fair	-0.01	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	535	152	778	0.69	SOFT	SAND	UNEV	unkn	UNEV	NSTD	DNST	50.00
+USGS	14226500	697	2016-10-17 15:43:46	PDT	Yes	DER	USGS	3.98	4620				Fair	0.04	0.50	Clear	MEAS	1	main	CWAY	QADCP	VADCP	4620	175	1130	4.09	SOFT	SAND	UNEV	unkn	UNEV	NSTD	DNST	50.00
+USGS	14226500	698	2016-11-22 13:19:58	PST	Yes	DER	USGS	2.21	1360				Good	0.01	0.30	Clear	MEAS	1	main	CWAY	QADCP	VADCP	1360	159	668	2.04	FIRM	CBLS	EVEN	unkn	UNEV	UNSP	DNST	80.00
+USGS	14226500	699	2017-01-24 09:40:22	PST	Yes	DER	USGS	2.08	1200				Good	0.01	0.30	Clear	MEAS	1	main	CWAY	QADCP	VADCP	1200	161	619	1.94	FIRM	GRVL	UNEV	unkn	UNEV	NSTD	DNST	50.00
+USGS	14226500	700	2017-02-09 15:07:29	PST	Yes	DER	USGS	4.93	7370				Poor	0.17	0.80	Clear	MEAS	1	main	CWAY	QADCP	VADCP	7370	208	1230	5.97	UNSP	CBLS	UNEV	unkn	UNEV	NSTD	DNST	80.00
+USGS	14226500	701	2017-03-15 11:11:49	PDT	Yes	DER	USGS	6.56	10900				Good	0.00	0.50	DebrisModerate	MEAS	1	main	CWAY	QADCP	VADCP	10900	185	1620	6.77	UNSP	CBLS	UNEV	unkn	UNEV	STND	DNST	60.00
+USGS	14226500	702	2017-03-17 10:06:43	PDT	Yes	DER	USGS	4.50	5150				Good	0.01	0.25	DebrisLight	MEAS	1	main	CWAY	QADCP	VADCP	5150	166	1110	4.66	UNSP	CBLS	UNEV	unkn	UNEV	NSTD	DNST	80.00

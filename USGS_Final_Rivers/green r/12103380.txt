@@ -1,0 +1,64 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:32:34 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 12103380 GREEN RIVER ABOVE TWIN CAMP CREEK NEAR LESTER, WA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	12103380	1	1992-09-02 15:00:00	PDT	Yes	DTS/SAG	USGS	2.87	4.60				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.60	11.0	8.06	0.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	2	1992-09-10 13:22:00	PDT	Yes	SAG	USGS	2.97	7.09				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	7.09	17.2	12.0	0.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	3	1992-10-22 18:09:00	PDT	Yes	SAG	USGS	3.06	10.4				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	10.4	17.2	14.9	0.70	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	4	1992-11-19 12:30:00	PST	Yes	SAG	USGS	3.80	49.0				Good	-0.01	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	49.0	28.0	34.1	1.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	5	1993-01-08 11:55:00	PST	Yes	KEF	USGS	3.32	23.9				Poor	0.00	0.50	IceShore	MEAS	1	Imported Channel 1	WADE	unspe	unkno	23.9	22.5	26.6	0.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	6	1993-02-02 12:54:00	PST	Yes	SAG	USGS	3.78	55.1				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	55.1	21.0	30.6	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	7	1993-03-31 11:29:00	PST	Yes	SAG	USGS	3.90	58.4				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	58.4	23.5	33.4	1.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	8	1993-05-04 11:17:00	PDT	Yes	MKB/KEF	USGS	4.49	154				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	154	31.0	50.6	3.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	9	1993-07-15 13:18:00	PDT	Yes	SAG	USGS	3.32	19.3				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	19.3	22.3	18.6	1.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	10	1993-08-12 11:11:00	PDT	Yes	SAG/KT	USGS	3.29	19.3				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	19.3	24.0	23.6	0.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	11	1993-09-30 13:20:00	PDT	Yes	SAG	USGS	2.96	6.60				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.60	16.5	11.6	0.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	12	1993-12-17 11:40:00	PST	Yes	KEF/TEN	USGS	3.30	19.5				Good	-0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	19.5	23.0	20.8	0.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	13	1994-01-15 09:37:00	PST	Yes	SAG	USGS	4.32	131				Good	-0.01	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	131	35.0	50.6	2.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	14	1994-04-01 12:00:00	PST	Yes	MKB	USGS	4.34	126				Good	0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	126	37.0	48.3	2.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	15	1994-05-02 12:52:00	PDT	Yes	KEF/DRS	USGS	4.01	83.6				Good	0.00	1.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	83.6	28.0	37.9	2.21	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	16	1994-06-22 10:52:00	PDT	Yes	KEF/MBC	USGS	3.50	32.9				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	32.9	23.5	28.4	1.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	17	1994-08-31 13:45:00	PDT	Yes	REQ	USGS	2.93	5.52				Fair	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.52	17.2	10.9	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	18	1994-10-11 11:30:00	PDT	Yes	REQ	USGS	2.86	4.51				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.51	10.8	7.31	0.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	19	1995-02-08 12:00:00	PST	Yes	REQ	USGS	4.25	113				Fair	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	113	34.5	42.3	2.67	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	20	1995-04-26 12:10:00	PDT	Yes	REQ	USGS	4.03	82.8				Good	0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	82.8	31.0	41.8	1.98	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	21	1995-06-27 12:00:00	PDT	Yes	REQ	USGS	3.34	21.9				Good	-0.01	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.9	24.8	22.2	0.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	22	1995-08-22 11:05:00	PDT	Yes	REQ	USGS	2.95	7.06				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	7.06	13.0	8.87	0.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	23	1995-10-13 11:05:00	PDT	Yes	REQ	USGS	3.99	75.3				Good	-0.01	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	75.3	30.0	37.0	2.04	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	24	1996-02-08 22:30:00	PST	Yes	RTK/REQ	USGS	7.35	1640				Good				MEAS	1	Imported Channel 1	OTHR	other		1640				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	25	1996-03-13 13:30:00	PST	Yes	REQ	USGS	3.85	85.7				Good	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	85.7	43.5	47.4	1.81	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	26	1996-04-10 11:12:00	PDT	Yes	JG	USGS	4.25	136				Good	0.00	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	136	52.0	66.5	2.05	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	27	1996-05-10 12:00:00	PDT	Yes	JG	USGS	3.49	45.2				Fair	-0.01	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	45.2	28.0	36.7	1.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	28	1996-06-25 10:00:00	PDT	Yes	REQ	USGS	3.12	21.2				Good	0.00	1.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.2	24.4	28.0	0.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	29	1996-08-23 11:12:00	PDT	Yes	REQ	USGS	2.72	6.23				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.23	19.2	18.6	0.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	30	1996-10-17 11:07:00	PDT	Yes	REQ/MB	USGS	2.88	11.3				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	11.3	20.2	21.9	0.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	31	1997-02-25 12:00:00	PST	Yes	JG	USGS	3.69	57.1				Good	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	57.1	33.0	37.5	1.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	32	1997-04-24 11:40:00	PDT	Yes	JCG	USGS	4.57	224				Unspecified	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	224	52.0	70.7	3.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	33	1997-05-14 11:35:00	PDT	Yes	REQ	USGS	5.28	461				Poor	0.00	1.40	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	461	27.0	70.3	6.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	34	1997-08-05 11:00:00	PDT	Yes	REQ	USGS	2.99	14.4				Good	0.00	1.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	14.4	16.5	22.9	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	35	1997-10-09 13:10:00	PDT	Yes	JCG	USGS	3.14	23.5				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	23.5	26.0	23.4	1.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	36	1997-12-17 12:09:00	PST	Yes	BS	USGS	3.29	34.8				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	34.8	28.0	29.4	1.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	37	1998-04-09 10:15:00	PDT	Yes	GJ	USGS	3.48	44.0				Good			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	44.0	28.2	32.3	1.36	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	38	1998-05-07 11:19:00	PDT	Yes	REQ	USGS	4.35	193				Fair	-0.01	1.20	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	193	57.0	71.8	2.69	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	39	1998-06-02 11:40:00	PDT	Yes	REQ	USGS	3.95	107				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	107	34.0	64.9	1.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	40	1998-06-30 12:50:00	PDT	Yes	REQ	USGS	3.33	33.5				Good	0.00	1.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	33.5	30.8	36.0	0.93	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	41	1998-08-04 11:25:00	PDT	Yes	REQ	USGS	2.88	10.4				Good	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	10.4	20.4	23.4	0.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	42	1998-09-28 12:00:00	PDT	Yes	REQ	USGS	2.68	5.59				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.59	7.20	8.18	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	43	1999-03-23 12:42:00	PST	Yes	JCG	USGS	3.92	107				Good	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	107	38.0	47.2	2.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	44	1999-06-11 10:51:00	PDT	Yes	REQ/KRL	USGS	3.94	110				Fair	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	110	34.5	44.6	2.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	45	1999-08-03 11:17:00	PDT	Yes	REQ	USGS	3.06	16.0				Good	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	16.0	22.0	16.8	0.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	46	1999-10-07 11:45:00	PDT	Yes	REQ/JG	USGS	2.76	5.79				Good	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.79	19.8	19.7	0.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	47	1999-12-03 11:15:00	PST	Yes	jcg	USGS	3.73	77.7				Fair	-0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	77.7	32.0	39.8	1.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12103380	1M	2001-09-18		Yes	ADM	USGS		5.20				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5.20				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

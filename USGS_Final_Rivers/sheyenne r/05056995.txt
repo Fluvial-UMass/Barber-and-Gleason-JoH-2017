@@ -1,0 +1,73 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:16:51 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 05056995 SHEYENNE RIVER ON HWY 200 NEAR COOPERSTOWN, ND
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	05056995	924	2009-04-12 12:17:00	CDT	Yes	CDL/DCT	USGS	18.77	3310				FAIR				MEAS																	
+USGS	05056995	925	2009-04-16 09:24:00	CDT	Yes	CDL/DCT	USGS	19.80	5090				POOR			CLER	MEAS																	
+USGS	05056995	926	2009-04-18 14:44:00	CDT	Yes	CDL/DCT	USGS	20.22	5990				FAIR			UNSP	MEAS																	
+USGS	05056995	927	2009-04-23 09:12:00	CDT	Yes	CDL/DCT	USGS	19.42	4320				FAIR				MEAS																	
+USGS	05056995	928	2009-05-07 13:30:00	CDT	Yes	JBK	USGS	16.15	1710				FAIR			UNSP	MEAS																	
+USGS	05056995	929	2009-05-20 11:00:00	CDT	Yes	EGD	USGS	12.54	655				GOOD			UNSP	MEAS																	
+USGS	05056995	937	2010-03-24 09:47:00	CDT	Yes	KMH/DMG	USGS	17.45	2280				GOOD			CLER	MEAS																	
+USGS	05056995	938	2010-03-28 11:36:00	CDT	Yes	KMH	USGS	16.40	1850				GOOD			CLER	MEAS																	
+USGS	05056995	939	2010-04-01 13:58:00	CDT	Yes	CDL/DCT	USGS	17.64	2360				GOOD			UNSP	MEAS																	
+USGS	05056995	940	2010-04-07 09:46:00	CDT	Yes	AGL/PMS	USGS	18.00	2600				FAIR			UNSP	MEAS																	
+USGS	05056995	941	2010-04-14 09:37:00	CDT	Yes	DCT/DMG	USGS	18.24	2770				GOOD			UNSP	MEAS																	
+USGS	05056995	943	2010-05-25 11:16:59	CDT	Yes	DCT/LJS	USGS	15.48	1450				GOOD			CLER	MEAS																	
+USGS	05056995	949	2011-04-10 10:10:00	CDT	Yes	JDM/BMH	USGS	19.38	4060				FAIR			SICE	MEAS																	
+USGS	05056995	950	2011-04-12 14:04:00	CDT	Yes	DCT/AGL	USGS	19.86	4880				GOOD			UNSP	MEAS																	
+USGS	05056995	951	2011-04-13 15:20:00	CDT	Yes	DCT/AGL	USGS	19.67	4470				GOOD			CLER	UNSP																	
+USGS	05056995	952	2011-04-14 09:05:00	CDT	Yes	DCT/AGL	USGS	21.08	8310				GOOD			CLER	UNSP																	
+USGS	05056995	953	2011-04-14 14:38:00	CDT	Yes	DCT/AGL	USGS	21.15	8350				GOOD			UNSP	MEAS																	
+USGS	05056995	955	2011-04-18 10:00:00	CDT	Yes	AGL/LJS	USGS	20.24	5970				GOOD			LGDB	MEAS																	
+USGS	05056995	956	2011-04-21 14:02:00	CDT	Yes	AGL/LJS	USGS	19.82	5020				FAIR			UNSP	MEAS																	
+USGS	05056995	957	2011-04-25 10:34:00	CDT	Yes	AGL	USGS	19.52	4340				GOOD			CLER	MEAS																	
+USGS	05056995	958	2011-05-10 11:29:00	CDT	Yes	AGL	USGS	16.50	1830				GOOD			CLER	MEAS																	
+USGS	05056995	959	2011-06-01 11:30:00	CDT	Yes	CJC	USGS	12.95	728				GOOD				MEAS																	
+USGS	05056995	960	2011-07-12 10:08:00	CDT	Yes	EWM	USGS	13.74	976				GOOD			UNSP	MEAS																	
+USGS	05056995	961	2011-08-01 15:12:00	CDT	Yes	AGL/SAF	USGS	19.53	3180				FAIR			LGDB	MEAS																	
+USGS	05056995	963	2011-10-19 11:06:00	CDT	Yes	AGL	USGS	10.96	264				GOOD			CLER	UNSP																	
+USGS	05056995	967	2012-03-20 17:04:00	CDT	Yes	AGL	USGS	13.02	814				GOOD	0.00	0.25	CLER	MEAS																	
+USGS	05056995	968	2012-04-12 14:03:00	CDT	Yes	AGL/CJC	USGS	11.48	356				GOOD			CLER	UNSP																	
+USGS	05056995	969	2012-04-12 14:43:00	CDT	Yes	AGL/CJC	USGS	11.47	376				GOOD			CLER	UNSP																	
+USGS	05056995	970	2012-05-09 07:11:00	CDT	Yes	AGL	USGS	11.70	420				GOOD			CLER	UNSP																	
+USGS	05056995	971	2012-06-14 11:04:00	CDT	Yes	AGL/ATO	USGS	11.31	339				GOOD			CLER	UNSP																	
+USGS	05056995	972	2012-07-18 12:25:00	CDT	Yes	AGL/ATO	USGS	11.22	318				GOOD			LGDB	MEAS																	
+USGS	05056995	973	2012-09-07 07:28:00	CDT	Yes	AGL	USGS	12.27	547				GOOD			CLER	UNSP																	
+USGS	05056995	974	2012-10-02 12:03:00	CDT	Yes	EWM	USGS	12.43	579				FAIR				UNSP																	
+USGS	05056995	975	2012-10-02 12:43:00	CDT	Yes	EWM	USGS	12.43	552				FAIR				UNSP																	
+USGS	05056995	981	2013-04-28 16:08:00	CDT	Yes	NAS/JLK	USGS	14.76	1280				GOOD			CLER	UNSP																	
+USGS	05056995	982	2013-05-06 12:20:00	CDT	Yes	AGL	USGS	19.50	4030				FAIR			LGDB	UNSP																	
+USGS	05056995	983	2013-06-13 12:59:30	CDT	Yes	EWM/DJK	USGS	15.33	1340				GOOD			CLER	UNSP																	
+USGS	05056995	984	2013-08-07 14:03:00	CDT	Yes	EWM/DJK	USGS	12.87	738				GOOD			LGDB	UNSP																	
+USGS	05056995	985	2013-10-18 14:44:00	CDT	Yes	ewm	USGS	12.90	721				GOOD			CLER	MEAS																	
+USGS	05056995	990	2014-04-15 09:58:30	CDT	Yes	RHP/MJA	USGS	16.10	1670				FAIR			CLER	MEAS																	
+USGS	05056995	991	2014-05-15 14:54:59	CDT	Yes	ewm	USGS	13.12	782				FAIR			CLER	MEAS																	
+USGS	05056995	992	2014-06-24 13:00:28	CDT	Yes	ewm/slw	USGS	13.00	777				GOOD				MEAS																	
+USGS	05056995	993	2014-08-19 14:34:00	CDT	Yes	EWM/SLW	USGS	12.64	703				GOOD			CLER	MEAS																	
+USGS	05056995	994	2014-10-30 14:12:49	CDT	Yes	EWM/AFW	USGS	12.51	652				GOOD			CLER	MEAS																	
+USGS	05056995	997	2015-03-30 10:37:51	CDT	Yes	EWM	USGS	11.42	271				GOOD	0.01	0.22	CLER	MEAS																	
+USGS	05056995	998	2015-05-01 11:13:25	CDT	Yes	ewm	USGS	11.14	303				FAIR	-0.02	0.20	LGDB	MEAS																	
+USGS	05056995	999	2015-05-26 12:15:35	CDT	Yes	ewm/slw/	USGS	13.18	844				GOOD	0.00	0.23	CLER	MEAS																	
+USGS	05056995	1000	2015-07-09 12:00:30	CDT	Yes	plg/EWM	USGS	12.87	720				GOOD	0.00	0.28	CLER	MEAS																	
+USGS	05056995	1001	2015-08-20 10:33:30	CDT	Yes	ewm/cet	USGS	12.27	605				GOOD	12.27	0.25	CLER	MEAS																	
+USGS	05056995	1002	2015-10-29 09:51:35	CDT	Yes	ewm	USGS	12.04	541				GOOD	0.00	0.30	CLER	MEAS																	
+USGS	05056995	1006	2016-03-18 14:06:58	CDT	Yes	EWM	USGS	11.48	384				GOOD			CLER	MEAS																	
+USGS	05056995	1008	2016-05-10 15:26:46	CDT	Yes	EWM/slw	USGS	11.83	471				FAIR	0.00		CLER	MEAS																	
+USGS	05056995	1009	2016-06-28 15:14:25	CDT	Yes	ewm	USGS	12.10	531				FAIR			CLER	MEAS																	
+USGS	05056995	1010	2016-08-12 09:49:14	CDT	Yes	EWM/SLW	USGS	12.89	777				GOOD	0.00		CLER	MEAS																	
+USGS	05056995	1011	2016-09-28 11:07:04	CDT	Yes	ewm	USGS	11.83	484				GOOD	0.00		CLER	MEAS																	
+USGS	05056995	1012	2016-11-22 12:42:34	CST	Yes	slw	USGS	11.14	318				GOOD	0.00		CLER	MEAS																	
+USGS	05056995	1013	2016-12-01 12:44:50	CST	Yes	ewm/csb	USGS	10.58	186				FAIR			CLER	MEAS																	

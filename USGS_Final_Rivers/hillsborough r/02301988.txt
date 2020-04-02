@@ -1,0 +1,37 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:33:14 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 02301988 HILLSBOROUGH RIVER AT HWY 39 NR CRYSTAL SPRINGS FL
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	02301988	1	2001-05-02 12:40:00	EDT	Yes	GAB/AS	USGS	53.68	0.68				Poor	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.68	21.0	7.79	0.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	2	2001-11-06 11:31:00	EST	Yes	DCH/LNN	USGS	54.39	11.3				Good	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	11.3	26.8	29.7	0.38	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	3	2002-12-16 14:00:00	EST	Yes	REM/JT	USGS	59.91	1010				Unspecified	0.00	1.30		MEAS	1	Imported Channel 1	BOAT	unspe	unkno	1010	257	678	1.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	4	2003-02-19 15:05:00	EST	Yes	REM/CK	USGS	55.17	36.8				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	36.8	30.7	49.8	0.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	5	2003-03-05 11:40:00	EST	Yes	REM/CK	USGS	55.92	69.3				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	69.3	35.3	78.6	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	6	2003-03-19 10:30:00	EST	Yes	REM	USGS	56.21	83.6				Good	-0.01	0.80	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	83.6	37.9	87.9	0.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	7	2003-03-26 12:05:00	EST	Yes	REM/BL	USGS	57.27	172				Good	0.00	1.50	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	172	53.2	203	1.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	8	2003-06-25 11:20:00	EDT	Yes	rem/brl	USGS	58.21	343				Good	-0.01	2.00	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	343	174	513	1.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	9	2003-08-15 10:45:00	EDT	Yes	brl/rem	USGS	58.51	453				Good	-0.02	2.20	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	453	226	548	0.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	10	2003-10-06 09:27:00	EDT	Yes	rlc	USGS	55.17	36.0				Good	-0.01	1.30		MEAS	1	Imported Channel 1	WADE	unspe	unkno	36.0	30.0	75.4	0.48	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	11	2004-02-10 15:12:00	EST	Yes	JLB	USGS	54.59	21.0				Fair	-0.01	0.70		MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.0	28.5	33.5	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	12	2004-03-09 12:04:00	EST	Yes	RLC/AMG	USGS	55.24	46.8				Unspecified	0.00	1.00		MEAS	1	Imported Channel 1	WADE	unspe	unkno	46.8	31.0	53.3	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	13	2004-05-05 10:17:00	EDT	Yes	LDW/AMG	USGS	54.54	24.9				Fair	0.00	0.70	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	24.9	29.0	32.8	0.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	14	2004-05-07 13:49:00	EDT	Yes	LDW/AMG	USGS	54.35	17.6				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	17.6	28.0	25.8	0.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	15	2004-06-10 10:07:00	EDT	Yes	AMG	USGS	54.04	8.49				Good	0.00	0.70	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	8.49	27.4	17.0	0.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	16	2004-08-03 08:35:00	EDT	Yes	AMG	USGS	54.56	22.6				Good	0.00	0.90	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	22.6	30.0	34.7	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	17	2004-10-15 10:03:00	EDT	Yes	AMG/DLF	USGS	58.46	279				Fair	0.00	0.60	DebrisHeavy	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	279	53.3	319	0.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	18	2004-12-15 08:33:00	EST	Yes	AMG	USGS	54.46	13.1				Fair	0.00	0.90	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	13.1	30.0	30.4	0.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	19	2005-02-10 08:38:00	EST	Yes	AGO	USGS	54.36	12.4				Fair	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	12.4	31.0	29.9	0.42	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	20	2005-03-16 09:11:00	EST	Yes	AGO	USGS	54.56	16.0				Good	0.00	0.70	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	16.0	31.0	33.8	0.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	02301988	21	2005-04-22 11:05:00	EDT	Yes	AGO/BMJ	USGS	54.09	7.62				Fair	0.00	0.40	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	7.62	29.5	20.0	0.38	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

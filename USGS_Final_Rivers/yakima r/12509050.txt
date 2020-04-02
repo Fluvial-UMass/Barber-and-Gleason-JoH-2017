@@ -1,0 +1,44 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:37:33 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 12509050 YAKIMA RIVER AT EUCLID BR NR GRANDVIEW, WA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	12509050	1	1986-10-08		Yes	BR	USGS	37.92	1930				Unspecified	0.00	0.50		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1930	274	1190	1.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	2	1986-11-14		Yes	BR	USGS	38.04	2030				Unspecified	0.00	0.40		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2030	275	1210	1.67	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	3	1986-12-08		Yes	BR	USGS	38.30	2450				Unspecified	0.00	0.60		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2450	275	1290	1.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	4	1987-01-21		Yes	BR	USGS	37.86	1850				Unspecified	0.00	0.60		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1850	275	1180	1.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	5	1987-03-12		Yes	RES/PRB	USGS	40.51	5210				Excellent	0.01	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	5210	278	1860	2.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	6	1987-04-29		Yes	RES/JO	USGS	38.87	3080				Excellent	0.10	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	3080	274	1390	2.22	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	7	1987-06-18		Yes	RES	USGS	37.31	1280				Fair	0.00	1.20	DebrisLight	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1280	262	976	1.31	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	8	1987-08-18 12:50:00	PDT	Yes	RES	USGS	37.19	1220				Good	0.00	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1220	264	954	1.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	9	1987-10-14 12:58:00	PDT	Yes	RES	USGS	37.50	1440				Good	0.00	1.10		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1440	262	1010	1.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	10	1987-12-14 11:52:00	PST	Yes	RES	USGS	38.78	3000				Good	-0.03	1.10	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	3000	274	1380	2.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	11	1988-02-01 12:37:00	PST	Yes	RES	USGS	37.93	2030				Good	0.00	1.20		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2030	266	1140	1.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	12	1988-04-06 13:05:00	PDT	Yes	RES/JFO	USGS	37.96	2100				Good	0.00	1.00		MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2100	268	1150	1.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	13	1988-06-08 13:30:00	PDT	Yes	PRB/RES	USGS	38.45	2290				Good	0.00	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2290	269	1270	1.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	14	1988-07-22 13:07:00	PDT	Yes	RES/EAR	USGS	37.09	1060				Good	0.01	1.30	DebrisLight	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1060	261	1210	0.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	15	1988-09-22 13:43:00	PDT	Yes	RES	USGS	37.86	1710				Good	-0.01	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1710	265	1130	1.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	16	1988-12-01 13:00:00	PST	Yes	RES	USGS	38.01	2160				Good	0.08	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2160	268	1170	1.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	17	1989-01-24 13:06:00	PST	Yes	RES	USGS	38.45	2450				Good	-0.03	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2450	268	1280	1.91	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	18	1989-04-07 09:23:00	PDT	Yes	RES	USGS	39.71	4400				Good	0.09	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	4400	272	1590	2.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	19	1989-06-02 10:07:00	PDT	Yes	RES	USGS	38.07	2190				Good	0.03	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	2190	271	1200	1.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	20	1989-07-17 10:07:00	PDT	Yes	RES	USGS	37.46	1380				Good	0.02	1.30	DebrisLight	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1380	263	1020	1.36	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	21	1989-09-18 10:18:00	PDT	Yes	res	USGS	37.65	1570				Good	0.00	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1570	268	1100	1.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	22	1989-11-02 10:50:00	PST	Yes	RES	USGS	38.19	1820				Good	0.01	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1820	268	1240	1.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	23	1990-01-12 12:23:00	PST	Yes	RES	USGS	41.62	7120				Good	-0.07	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	7120	288	2150	3.31	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	24	1990-03-07 12:38:00	PST	Yes	RES	USGS	39.00	3250				Good	0.00	1.20	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	3250	273	1460	2.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	25	1990-04-03 09:10:00	PDT	Yes	RES	USGS	40.73	5810				Good	0.04	1.30	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	5810	280	1920	3.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	1M	2004-07-28		Yes	ADM	USGS		894				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		894				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	26	2005-09-15 12:38:00	PDT	Yes	RED/CAC	USGS		988				Good				MEAS	1	Imported Channel 1	WADE	unspe	unkno	988	274	653	1.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12509050	27	2006-03-30 17:06:00	PST	Yes	CAC/RED	USGS	39.04	2990				Unspecified	0.00	0.40		MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2990	531	2640	1.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

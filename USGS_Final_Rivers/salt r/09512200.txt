@@ -1,0 +1,47 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:10:09 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 09512200 SALT RIVER TRIB. IN SOUTH MNTN PARK NR PHOENIX, AZ
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	09512200	3	1961-07-22		Yes	HIG	USGS	1.26	0.340		0.00		GOOD				UNSP	1	Unspecified	UNSP			0.340				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	1	1961-07-22		Yes	PO	USGS	9.09	370.0	 1.0	0.00		FAIR				UNSP	1	Unspecified	UNSP			370.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	2	1961-07-22		Yes	HIG	USGS	1.55	9.97		0.00		GOOD				UNSP	1	Unspecified	UNSP			9.97				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	4	1963-10-19		Yes	PO	USGS	9.52	530.0		0.00		FAIR				UNSP	1	Unspecified	UNSP			530.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	6	1964-08-26		Yes	HWH	USGS	3.01	31.0		0.00		POOR				UNSP	1	Unspecified	UNSP			31.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	7	1964-08-26		Yes	HWH	USGS	2.20	7.94		0.00		POOR				UNSP	1	Unspecified	UNSP			7.94				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	5	1964-08-26		Yes	HWH/PCB	USGS	5.80	161.0		0.00		FAIR				UNSP	1	Unspecified	UNSP			161.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	8	1992-01-11 02:05:00	MST	Yes	JVP/KDF	USGS	1.48	1.19	 2.0	0.00		FAIR	-0.05	0.17		MEAS	1	Unspecified	WADE	QUNSP		1.19	5.50	0.580	2.05	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	09512200	8A	1992-01-16 13:00:00	MST	Yes	JVP/KDF	USGS	0.76			0.00		UNSP				UNSP																	
+USGS	09512200	8B	1992-02-12 11:45:00	MST	Yes	JVP	USGS	0.50			0.00		UNSP				UNSP																	
+USGS	09512200	8C	1992-06-01 15:25:00	MST	Yes	JVP/JK	USGS	0.17			0.00		UNSP				UNSP																	
+USGS	09512200	8D	1992-11-05 11:25:00	MST	Yes	WLJ	USGS	0.13			0.00		UNSP				UNSP																	
+USGS	09512200	8F	1993-06-21 10:30:00	MST	Yes	JVP/KDF	USGS	0.17			0.00		UNSP				UNSP																	
+USGS	09512200	8E	1993-06-23 10:30:00	MST	Yes	JVP/KDF	USGS	0.17			0.00		UNSP				UNSP																	
+USGS	09512200	8G	1993-10-04 11:25:00	MST	Yes	JVP/AS	USGS	0.16			0.00		UNSP				UNSP																	
+USGS	09512200	8H	1993-11-03 10:15:00	MST	Yes	BLW/ORB	USGS				0.00		UNSP			CLER	UNSP																	
+USGS	09512200	8I	1994-06-21 14:00:00	MST	Yes	ORB/KM	USGS	0.32			0.00		UNSP			CLER	UNSP																	
+USGS	09512200	8J	1994-09-30 14:00:00	MST	Yes	ORB	USGS	0.38			0.00		UNSP			CLER	UNSP																	
+USGS	09512200	8K	1994-10-11 15:15:00	MST	Yes	HMS/ORB	USGS	0.54			0.00		UNSP			CLER	UNSP																	
+USGS	09512200	8L	1995-01-05 13:40:00	MST	Yes	NRD	USGS	2.87			0.00		UNSP				UNSP																	
+USGS	09512200	8M	1995-01-13 14:45:00	MST	Yes	HMS/NRD	USGS	0.60			0.00		UNSP				UNSP																	
+USGS	09512200	8N	1995-01-20 12:00:00	MST	Yes	NRD	USGS	0.62			0.00		UNSP				UNSP																	
+USGS	09512200	8O	1995-02-06 14:00:00	MST	Yes	NRD	USGS	0.60			0.00		UNSP				UNSP																	
+USGS	09512200	8P	1995-03-02 14:38:00	MST	Yes	NRD	USGS	0.59			0.00		UNSP				UNSP																	
+USGS	09512200	8Q	1995-03-31 11:03:00	MST	Yes	NRD	USGS	0.62			0.00		UNSP				UNSP																	
+USGS	09512200	8R	1995-04-25 14:13:00	MST	Yes	NRD	USGS	0.63			0.00		UNSP				UNSP																	
+USGS	09512200	8S	1995-05-19 15:12:00	MST	Yes	NRD	USGS	0.59			0.00		UNSP				UNSP																	
+USGS	09512200	8T	1995-06-12 14:27:00	MST	Yes	NRD	USGS	0.60			0.00		UNSP				UNSP																	
+USGS	09512200	8V	1995-08-28 11:40:00	MST	Yes	NRD/LH	USGS	0.61			0.00		UNSP				UNSP																	
+USGS	09512200	8U	1995-08-28 14:10:00	MST	Yes	NRD	USGS	0.58			0.00		UNSP				UNSP																	
+USGS	09512200	9	2014-09-02 10:00:00	MST	Yes	WH/WVH	USGS	11.19	2230	   2			POOR		4.00		MEAS	1		UNSP			2230				UNSP	GRVL	UNSP	UNSP	UNSP	UNSP	UPST	700.00

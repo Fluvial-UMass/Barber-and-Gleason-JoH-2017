@@ -1,0 +1,39 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:30:43 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 04230650 GENESEE R AT BALLANTYNE BRIDGE NEAR MORTIMER NY
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	04230650	1	1965-05-10		Yes	CRW	USGS	19.60	4440				Good	-0.08	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	4440	211	2360	1.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	2	1965-05-13		Yes	CRW	USGS	20.41	2230				Good	0.00	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	2230	212	2210	1.01	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	3	1965-08-05		Yes	JAR	USGS	20.44	301				Unspecified	-0.01	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	301	210	2200	0.14	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	4	1965-08-26		Yes	BD	USGS	20.38	201				Fair	-0.01	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	201	211	2170	0.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	5	1965-08-27		Yes	X	USGS	20.38	115				Poor	0.05	1.00		UNSP	1	Imported Channel 1	UNSP	other		115				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	6	1965-11-02		Yes	MG	USGS		279				Fair				UNSP	1	Imported Channel 1	CRAN	unspe	unkno	279	218	2250	0.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	7	1965-11-03		Yes	GG	USGS	20.42	465				Unspecified				UNSP	1	Imported Channel 1	CRAN	unspe	unkno	465	218	2280	0.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	8	1970-10-01		Yes	WEH	USGS	21.92	663				Good	0.02	1.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	663	222	2090	0.32	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	9	1971-08-31		Yes	WEH	USGS		104				Fair				UNSP	1	Imported Channel 1	CRAN	unspe	unkno	104	220	2080	0.05	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	10	1972-08-29		Yes	LAW	USGS		544				Unspecified			Clear	UNSP	1	Imported Channel 1	UNSP	other		544				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	12	1976-03-06		Yes	DDD	USGS	18.90	16600				Unspecified	-0.12	2.00		UNSP	1	Imported Channel 1	CRAN	unspe	unkno	16600	222	3730	4.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	13	1986-10-21 10:20:00	EST	Yes	DDD/RLM	USGS	11.93	1780				Good	-0.01	0.90	Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	1780	224	2040	0.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	14	2000-07-12 10:00:00	EST	Yes	SKM/JPM	USGS	11.82	679				Good	0.00	1.00	DebrisModerate	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	679	210	1930	0.35	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	15	2007-08-09 08:06:00	EST	Yes	rjm/jpm	USGS	11.05	303				Fair	-0.02	1.50	Clear	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	303	214	1840	0.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	04230650	16	2009-01-26 15:30:00	EST	Yes	JSG/JPM	USGS	11.86	1360				Poor		1.00	IceCover	UNSP	1	Imported Channel 1	ICE	QSCMM	VPAA	1360	250	2220	0.61	UNSP	UNSP	UNSP	unkn	EVEN	UNSP	ATGA	
+USGS	04230650	17	2014-03-27 10:20:30	EST	Yes	AGL/JSG	USGS	11.66	2440				Good	-0.01	0.20	IceShore	MEAS	1	Main	BRDS	QADCP	VADCP	2440	194	1850	1.32	FIRM	GRVL	EVEN	unkn	EVEN	STND	DNST	150.00
+USGS	04230650	18	2014-04-02 07:28:00	EST	Yes	AGL	USGS	15.07	8480				Good	0.02	0.20	Clear	MEAS	1	Main	BRDS	QADCP	VADCP	8480	218	2480	3.42	FIRM	silt	EVEN	unkn	EVEN	NSTD	DNST	200.00
+USGS	04230650	19	2015-04-13 06:25:21	EST	Yes	AGL	USGS	14.20	7110				Good	-0.02	0.20	Clear	MEAS	1	MAIN	BRDS	QADCP	VADCP	7110	217	2410	2.95	FIRM	silt	EVEN	unkn	EVEN	STND	DNST	100.00
+USGS	04230650	20	2015-08-01 09:51:42	EST	Yes	AGL	USGS	11.62	576				Poor	0.00	0.20		MEAS	1	MAIN	BRDS	QADCP	VADCP	576	202	1880	0.31	SOFT	silt	EVEN	unkn	EVEN	NSTD	DNST	200.00
+USGS	04230650	21	2015-09-27 07:10:51	EST	Yes	AGL	USGS	11.61	346				Good	0.00	0.20	Clear	MEAS	1	MAIN	BRDS	QADCP	VADCP	346	186	1830	0.19	FIRM	silt	EVEN	unkn	EVEN	NSTD	DNST	100.00
+USGS	04230650	22	2016-10-12 16:10:29	EST	Yes	AGL HJZ	USGS	11.57	247				Fair	0.00	0.50	Clear	MEAS	1	main	BRDS	QADCP	VADCP	247	192	1890	0.13	FIRM	silt	EVEN	unkn	UNEV	NSTD	DNST	100.00
+USGS	04230650	23	2016-11-18 12:17:13	EST	Yes	hjz agl	USGS	11.59	571				Fair	0.00	0.30	Clear	MEAS	1	main	MBOT	QADCP	VADCP	571	233	2090	0.27	FIRM	silt	UNEV	unkn	EVEN	NSTD	ATGA	
+USGS	04230650	24	2017-02-23 12:25:00	EST	Yes	JPM/HJZ	USGS	12.88	4760				Good	0.00	0.40	Clear	MEAS	1	MEASURED  APX DS OF GAGE	MBOT	QADCP	VADCP	4760	240	2440	1.95	FIRM	silt	EVEN	unkn	EVEN	STND	DNST	100.00

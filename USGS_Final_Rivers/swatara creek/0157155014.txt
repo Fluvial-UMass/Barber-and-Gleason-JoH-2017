@@ -1,0 +1,86 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:24:09 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 0157155014 Swatara Creek, Site C3, at Newtown, PA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	0157155014	1	1996-04-19 09:00:00	EDT	Yes	JAB/KAB	USGS		11.6				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	11.6	14.0	7.88	1.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	2	1996-06-11 11:30:00	EDT	Yes	KAB/MFE	USGS		1.86				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.86	6.40	3.94	0.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	3	1996-07-19 15:25:00	EDT	Yes	KB	USGS	1.08	7.31				Poor			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	7.31	13.5	11.0	0.66	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	4	1996-08-06 16:15:00	EDT	Yes	KAB/MFE	USGS	0.94	2.35				Poor	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.35	7.80	4.64	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	5	1996-08-26 11:00:00	EDT	Yes	kb	USGS	0.80	0.97				Excellent	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.97	7.50	3.47	0.28	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	6	1996-10-21 11:45:00	EDT	Yes	kb	USGS	1.61	20.8				Fair	-0.02	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	20.8	18.3	12.0	1.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	7	1996-12-03 14:00:00	EST	Yes	kb	USGS	1.66	25.8				Good	0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	25.8	19.8	14.1	1.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	8	1996-12-17 13:30:00	EST	Yes	KAB/CAC	USGS	1.51	18.8				Fair	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	18.8	19.5	12.6	1.49	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	9	1997-01-23 14:15:00	EST	Yes	kb	USGS	1.03	2.93				Fair	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.93	10.0	5.06	0.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	10	1997-02-26 13:15:00	EST	Yes	kb	USGS	1.19	6.81				Fair	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.81	12.0	6.05	1.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	11	1997-03-04 12:30:00	EST	Yes	KAB/KIM	USGS	1.10	4.44				Excellent	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.44	12.0	5.36	0.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	12	1997-04-23 12:45:00	EDT	Yes	kb	USGS	0.99	2.32				Poor	-0.10	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.32	10.2	3.68	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	13	1997-06-12 10:30:00	EDT	Yes	KAB/MFE	USGS	1.06	3.70				Good	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.70	11.6	4.70	0.78	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	14	1997-07-15 13:30:00	EDT	Yes	kb	USGS	0.71	0.32				Fair	0.00		Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.32	6.00	1.76	0.18	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	15	1997-07-24 15:42:00	EDT	Yes	kab/jjr	USGS	1.36	11.7				Good	0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	11.7	12.5	7.46	1.56	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	16	1997-09-23 09:41:00	EDT	Yes	KAB/SSK	USGS	0.91	1.64				Good	-0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.64	8.80	2.22	0.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	17	1997-10-31 09:45:00	EST	Yes	KAB/STK	USGS	0.84	0.70				Poor	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.70	6.50	2.60	0.27	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	18	1998-01-07 13:07:00	EST	Yes	kb	USGS	1.26	6.10				Poor	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.10	6.60	3.48	1.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	19	1998-01-09 08:40:00	EST	Yes	kb	USGS	1.89	44.2				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	44.2	20.4	18.0	2.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	20	1998-03-30 13:00:00	EST	Yes	KAB/MJL	USGS	1.10	4.68				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.68	11.4	6.18	0.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	21	1998-05-21 09:15:00	EDT	Yes	KAB/MHE	USGS	1.15	4.98				Fair	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.98	13.0	5.50	0.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	22	1998-06-29 13:45:00	EDT	Yes	KAB/MHE	USGS	1.19	4.68				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.68	12.6	5.40	0.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	23	1998-07-23 09:10:00	EDT	Yes	KAB/CAC	USGS	0.87	1.00				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.00	8.40	3.03	0.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	24	1998-08-13 12:10:00	EDT	Yes	MJL/KB	USGS	0.79	0.44				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.44	5.10	1.95	0.23	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	25	1999-01-27 15:00:00	EST	Yes	JJC/JBW	USGS	1.47	14.7				Fair	0.00	1.00	Clear	UNSP	1	Imported Channel 1	WADE	unspe	unkno	14.7	21.2	8.00	1.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	26	1999-02-26 14:19:00	EST	Yes	JBW/JJC	USGS	1.06	2.19				Fair	0.00	1.00		UNSP	1	Imported Channel 1	WADE	unspe	unkno	2.19	11.3	3.58	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	27	1999-03-18 11:30:00	EST	Yes	JJC/JBW	USGS	1.25	4.72				Fair	0.00	0.50		UNSP	1	Imported Channel 1	WADE	unspe	unkno	4.72	14.0	6.28	0.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	28	1999-05-24 11:20:00	EDT	Yes	JJC	USGS	0.96	1.88				Fair	0.00	0.80		MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.88	12.8	4.49	0.42	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	29	1999-06-22 11:30:00	EDT	Yes	JJC/JBW	USGS	0.78	0.96				Fair	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.96	9.50	2.07	0.46	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	30	1999-07-20 15:00:00	EDT	Yes	JBW/CAC	USGS	0.60	0.01				Fair				MEAS	1	Imported Channel 1	UNSP	other		0.01				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	31	1999-09-17 10:40:00	EDT	Yes	LAR/JJC	USGS	1.34	9.78				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.78	13.0	7.36	1.33	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	32	1999-09-30 14:55:00	EDT	Yes	JJC	USGS	1.57	18.4				Fair	0.02	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	18.4	13.1	10.3	1.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	33	1999-10-18 13:10:00	EDT	Yes	JJC	USGS	1.20	3.16				Fair	0.00	0.50	DebrisHeavy	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.16	11.8	6.16	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	34	1999-12-06 11:30:00	EST	Yes	JJC	USGS	1.22	3.91				Poor	0.00	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.91	11.7	6.29	0.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	35	2000-03-22 17:10:00	EST	Yes	JBW/RT	USGS	1.70	28.2				Unspecified	0.00	0.80		MEAS	1	Imported Channel 1	WADE	unspe	unkno	28.2	20.0	14.1	2.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	36	2000-04-17 11:10:00	EDT	Yes	JJC/JBW	USGS	1.22	6.32				Unspecified	0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.32	13.5	6.20	1.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	37	2000-08-02 12:20:00	EDT	Yes	JJC/JBW	USGS	0.92	1.68				Unspecified	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.68	12.2	3.33	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	38	2001-05-22 15:30:00	EDT	Yes	ksf	USGS	1.03	2.82				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.82	12.5	4.34	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	39	2001-09-26 15:00:00	EDT	Yes	ksf	USGS	0.99	2.48				Poor	0.00	0.10	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.48	11.8	3.59	0.69	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	40	2001-11-29		Yes	swb/ksf	USGS	1.01	2.21				Poor				MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.21			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	41	2002-01-30 09:15:00	EST	Yes	ksf/swb	USGS	1.08	2.75				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.75	14.7	4.44	0.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	42	2002-08-21 10:35:00	EDT	Yes	swb	USGS	0.73	0.20				Fair	0.00	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	0.20	4.80	1.46	0.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	43	2003-02-27 12:00:00	EST	Yes	dlo/sjw	USGS	1.06	3.67				Fair	0.00	0.80	IceShore	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.67	11.8	4.87	0.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	44	2003-04-24 10:15:00	EDT	Yes	sjw	USGS	1.06	3.76				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.76	12.0	4.71	0.80	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	45	2003-11-04 10:00:00	EST	Yes	sjw	USGS	1.29	6.77				Poor	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.77	12.5	7.10	0.95	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	46	2004-03-03 10:35:00	EST	Yes	sjw	USGS	1.17	4.94				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.94	12.0	5.66	0.87	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	47	2004-04-19 10:15:00	EDT	Yes	sjw	USGS	1.22	5.91				Fair	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.91	12.8	6.32	0.79	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	48	2004-06-29 09:25:00	EDT	Yes	sjw	USGS	1.06	2.91				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.91	11.7	4.49	0.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	49	2004-09-07 10:08:00	EDT	Yes	sjw	USGS	0.90	1.24				Fair	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.24	10.9	3.17	0.39	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	50	2004-09-22 11:14:00	EDT	Yes	sjw	USGS	1.65	9.65				Fair	-0.02	0.90	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.65	18.0	9.00	1.07	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	51	2004-11-02 10:00:00	EST	Yes	sjw	USGS	1.42	2.57				Unspecified	0.00	0.80	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.57	11.9	5.00	0.52	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	52	2005-02-02 10:12:00	EST	Yes	sjw/ee	USGS	1.38	3.24				Poor	0.00	0.80	IceShore	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.24	17.3	5.91	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	53	2005-03-30 11:35:00	EST	Yes	ee	USGS	1.92	23.2				Fair	0.01	1.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	23.2	15.1	11.1	2.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	54	2005-05-03 15:53:00	EDT	Yes	k t/e e	USGS	1.37	2.41				Fair	0.00	0.60	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.41	12.0	5.44	0.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	55	2005-07-11 13:30:00	EDT	Yes	ee	USGS	1.38	3.25				Poor	0.01	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	3.25	15.5	5.19	0.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	56	2005-07-18 11:49:00	EDT	Yes	k t/e e	USGS	1.51	5.91				Fair	0.00	0.30	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.91	16.1	7.01	0.84	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	57	2005-11-30 12:45:00	EST	Yes	ee /kb	USGS	1.75	13.3				Fair	-0.02	0.80	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	13.3	15.5	9.19	1.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	58	2006-03-08 12:00:00	EST	Yes	ral/keb	USGS	1.27	1.60				Poor				MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.60	10.5	4.63	0.34	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	59	2006-04-27 10:14:00	EDT	Yes	SJW/RAL	USGS	1.50	4.85				Fair	0.00		DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.85	17.0	6.40	0.76	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	60	2006-06-05 13:20:00	EDT	Yes	SJW/DGG	USGS	1.26	1.17				Poor				MEAS	1	Imported Channel 1	UNSP	other		1.17				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	61	2006-06-29 13:30:00	EDT	Yes	BWK/AJB	USGS	2.21	42.1				Poor	0.02	0.50	DebrisModerate	MEAS	1	Imported Channel 1	WADE	unspe	unkno	42.1	20.5	19.4	2.17	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	62	2006-07-12 10:45:00	EDT	Yes	AJB/BWK	USGS	1.51	2.67				Poor	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.67	12.1	5.30	0.50	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	63	2006-09-20 10:50:00	EDT	Yes	AJB	USGS	1.52	2.32				Fair	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.32	11.9	4.90	0.47	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	64	2006-10-05 12:50:00	EDT	Yes	AJB	USGS	1.68	6.53				Fair	0.00	1.00	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.53	10.6	6.80	0.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	65	2006-11-01 11:30:00	EST	Yes	AJB	USGS	1.79	7.94				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	7.94	9.00	7.30	1.09	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	66	2006-11-29 11:18:00	EST	Yes	AJB	USGS	1.65	4.56				Fair	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	4.56	10.7	5.04	0.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	67	2006-12-12 13:50:00	EST	Yes	AJB	USGS	1.52	2.22				Poor			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	2.22	6.00	3.80	0.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	68	2006-12-19 12:55:00	EST	Yes	AJB/BWK	USGS	1.48	1.70				Poor	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	1.70	9.20	4.80	0.36	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	69	2007-01-09 08:30:00	EST	Yes	AJB	USGS	1.91	15.9				Good	0.00	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	15.9	12.5	8.20	1.93	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	0157155014	70	2007-03-13 13:15:00	EDT	Yes	AJB	USGS	1.66	5.03				Poor	0.00	0.40	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	5.03	10.5	5.43	0.93	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

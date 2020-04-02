@@ -1,0 +1,41 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:20:28 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 04161810 CLINTON RIVER AT AVON ROAD AT YATES, MI
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	04161810	1	1966-02-24		Yes	LANS	USGS		145				UNSP			UNSP	UNSP	1		UNSP			145				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	2	1966-04-14		Yes	LANS	USGS		192				UNSP			UNSP	UNSP	1		UNSP			192				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	3	1966-07-26		Yes	LANS	USGS		55.7				UNSP			UNSP	UNSP	1		UNSP			55.7				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	4	1966-10-27		Yes	LANS	USGS		86.9				UNSP			UNSP	UNSP	1		UNSP			86.9				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	5	1967-01-12		Yes	LANS	USGS		223				UNSP			UNSP	UNSP	1		UNSP			223				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	6	1967-05-25		Yes	LANS	USGS		150				UNSP			UNSP	UNSP	1		UNSP			150				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	7	1967-09-13		Yes	LANS	USGS		106				UNSP			UNSP	UNSP	1		UNSP			106				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	8	1968-03-05		Yes	LANS	USGS		221				UNSP			UNSP	UNSP	1		UNSP			221				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	9	1969-05-05		Yes	LANS	USGS		334				UNSP			UNSP	UNSP	1		UNSP			334				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	10	1969-08-26		Yes	LANS	USGS		71.6				UNSP			UNSP	UNSP	1		UNSP			71.6				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	11	2001-09-18		Yes	LAN	USGS		228.0				UNSP				MEAS	1	Unspecified	UNSP			228.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	12	2001-11-15		Yes	LAN	USGS		472.0				UNSP				MEAS	1	Unspecified	UNSP			472.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	13	2002-01-25		Yes	LAN	USGS		295.0				UNSP				MEAS	1	Unspecified	UNSP			295.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	14	2002-05-01		Yes	LAN	USGS		235.0				UNSP				MEAS	1	Unspecified	UNSP			235.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	15	2002-06-06		Yes	LAN	USGS		346.0				UNSP				MEAS	1	Unspecified	UNSP			346.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	16	2002-07-09		Yes	LAN	USGS		52.4				UNSP				MEAS	1	Unspecified	UNSP			52.4				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	17	2002-08-21		Yes	LAN	USGS		49.9				UNSP				MEAS	1	Unspecified	UNSP			49.9				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	18	2002-11-11		Yes	LAN	USGS		139.0				UNSP				MEAS	1	Unspecified	UNSP			139.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	19	2002-12-11		Yes	LAN	USGS		125.0				UNSP				MEAS	1	Unspecified	UNSP			125.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	20	2003-01-28		Yes	LAN	USGS		49.2				UNSP				MEAS	1	Unspecified	UNSP			49.2				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	21	2003-05-01		Yes	LAN	USGS		456.0				UNSP				MEAS	1	Unspecified	UNSP			456.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	22	2003-06-11		Yes	LAN	USGS		235.0				UNSP				MEAS	1	Unspecified	UNSP			235.0				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	23	2003-07-23		Yes	LAN	USGS		59.4				UNSP				MEAS	1	Unspecified	UNSP			59.4				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	24	2003-08-05		Yes	LAN	USGS		62.8				UNSP				MEAS	1	Unspecified	UNSP			62.8				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	
+USGS	04161810	25	2003-09-09		Yes	LAN	USGS		33.6				UNSP				MEAS	1	Unspecified	UNSP			33.6				UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	UNSP	

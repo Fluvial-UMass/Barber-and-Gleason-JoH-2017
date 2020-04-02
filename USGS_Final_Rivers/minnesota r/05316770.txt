@@ -1,0 +1,66 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:46:37 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 05316770 MINNESOTA RIVER AT NEW ULM, MN
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	05316770	1	1938-07-06		Yes	---	USGS		372				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		372				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	2	1938-07-27		Yes	--	USGS		298				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		298				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	3	1938-08-22		Yes	---	USGS		154				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		154				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	4	1938-09-15		Yes	---	USGS		105				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		105				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	5	1938-11-22		Yes	---	USGS		45.3				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		45.3				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	6	1938-12-20		Yes	---	USGS		42.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		42.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	7	1939-01-24		Yes	---	USGS		41.4				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		41.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	8	1939-02-14		Yes	---	USGS		25.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		25.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	9	1939-03-14		Yes	---	USGS		209				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		209				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	10	1939-06-12		Yes	---	USGS		102				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		102				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	11	1939-07-11		Yes	--	USGS		643				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		643				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	12	1939-08-07		Yes	---	USGS		84.9				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		84.9				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	13	1939-09-12		Yes	---	USGS		48.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		48.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	14	1939-11-03		Yes	---	USGS		36.2				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		36.2				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	15	1939-12-04		Yes	---	USGS		36.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		36.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	16	1939-12-26		Yes	---	USGS		35.9				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		35.9				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	17	1940-01-30		Yes	---	USGS		14.8				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		14.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	18	1940-03-07		Yes	---	USGS		35.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		35.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	19	1940-03-31		Yes	---	USGS		193				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		193				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	20	1940-05-17		Yes	---	USGS		666				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		666				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	21	1940-06-11		Yes	---	USGS		394				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		394				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	22	1940-06-25		Yes	---	USGS		339				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		339				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	23	1940-07-25		Yes	---	USGS		82.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		82.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	24	1940-10-01		Yes	---	USGS		54.6				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		54.6				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	25	1940-11-19		Yes	---	USGS		72.5				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		72.5				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	26	1940-12-11		Yes	---	USGS		71.6				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		71.6				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	27	1941-01-24		Yes	---	USGS		88.4				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		88.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	28	1941-02-28		Yes	---	USGS		90.4				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		90.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	29	1941-03-18		Yes	---	USGS		824				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		824				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	30	1941-05-21		Yes	---	USGS		837				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		837				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	31	1941-06-21		Yes	---	USGS		782				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		782				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	32	1941-07-21		Yes	---	USGS		516				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		516				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	33	1941-09-03		Yes	---	USGS		79.9				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		79.9				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	34	1941-09-22		Yes	---	USGS		93.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		93.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	35	1941-10-22		Yes	---	USGS		90.0				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		90.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	36	1941-11-17		Yes	---	USGS		132				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		132				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	37	1941-12-13		Yes	---	USGS		102				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		102				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	38	1943-09-26		Yes	---	USGS		807				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		807				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	39	1944-07-28		Yes	---	USGS		668				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		668				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	40	1944-11-21		Yes	---	USGS		300				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	121	2000-10-06 08:26:00	CDT	Yes	DWD	USGS	-33.07	125				Good	-0.01	0.50	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	125	50.0	66.4	1.88	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	05316770	122	2011-03-29 09:31:23	CDT	Yes	JJA/RWT	USGS	805.33	31800				Good	0.02	1.00	Clear	MEAS	1	MAIN	BRDS	QADCP	VADCP	31800	558	9040	3.50	FIRM	silt	UNEV	unkn	UNEV	NSTD	ATGA	
+USGS	05316770	123	2011-03-30 08:53:21	CDT	Yes	JJA/RWT	USGS	804.93	31500				Good	-0.02	1.00	Clear	MEAS	1	MAIN	BRDS	QADCP	VADCP	31500	559	8860	3.50	FIRM	SAND	UNEV	unkn	UNEV	NSTD	ATGA	
+USGS	05316770	124	2011-04-06 09:02:28	CDT	Yes	EWK/JJA	USGS	805.94	36100				Good	0.02	0.20	Clear	MEAS	1	1	BRDS	QADCP	VADCP	36100	558	9460	3.82	FIRM	SAND	EVEN	unkn	EVEN	STND	DNST	25.00
+USGS	05316770	125	2016-08-16 14:52:31	CDT	Yes	GRW	USGS		4520				Fair			DebrisLight	MEAS	1	Main	BRDS	QADCP	VADCP	4520	283	3950	1.15	SOFT	SAND	EVEN	unkn	EVEN	NSTD	DNST	0.00
+USGS	05316770	126	2016-09-21 10:57:20	CDT	Yes	PDF	USGS	790.22	3100				Good	0.00	0.30	Clear	MEAS	1	Main	BRUS	QADCP	VADCP	3100	251	2550	1.21	UNSP	UNSP	UNSP	unkn	UNEV	UNSP	ATGA	
+USGS	05316770	127	2016-10-19 11:08:24	CDT	Yes	PDF	USGS	791.76	4350				Good	0.00	0.30	Clear	MEAS	1	Main	BRDS	QADCP	VADCP	4350	277	3190	1.37	UNSP	UNSP	UNSP	unkn	UNEV	UNSP	DNST	75.00
+USGS	05316770	128	2016-12-05 12:36:44	CST	Yes	PDF	USGS	794.42	7120				Fair	0.02	0.30	Clear	MEAS	1	main	BRDS	QADCP	VADCP	7120	290	3790	1.88	UNSP	UNSP	UNSP	unkn	UNEV	UNSP	DNST	60.00
+USGS	05316770	129	2017-01-17 10:42:30	CST	Yes	PDF JWL	USGS	790.86	2520				Poor	0.02	0.50	IceCover	MEAS	1	Main	ICE	QSCMM	VADCP	2520	240	2370	1.06	UNSP	UNSP	UNSP	unkn	UNEV	UNSP	UPST	100.00
+USGS	05316770	130	2017-03-07 10:09:29	CST	Yes	PDF	USGS	792.30	5300				Fair	0.01	0.25	Clear	MEAS	1	main	BRDS	QADCP	VADCP	5300	279	3310	1.60	UNSP	UNSP	UNSP	unkn	UNEV	UNSP	DNST	70.00

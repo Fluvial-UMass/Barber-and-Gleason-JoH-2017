@@ -1,0 +1,110 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:47:25 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 06057000 Missouri River near Townsend MT
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	06057000	10	1951-04-03		Yes	jv /fcb	USGS	6.17	5430				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5430				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	11	1951-05-07		Yes	bo	USGS	6.60	7100				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		7100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	12	1951-05-21		Yes	bo	USGS	8.02	12700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		12700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	13	1951-06-06		Yes	bo	USGS	7.51	10700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		10700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	14	1951-06-20		Yes	fcb/mvj	USGS	7.43	10800				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		10800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	15	1951-07-18		Yes	fcb/mvj	USGS	5.65	3570				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3570				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	16	1951-08-21		Yes	mvj/rtp	USGS	5.31	2810				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2810				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	17	1951-09-27		Yes	mvj	USGS	5.80	4210				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4210				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	18	1951-10-22		Yes	mvj	USGS	6.00	4820				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4820				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	19	1951-11-19		Yes	mvj	USGS	5.84	3940				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3940				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	20	1952-03-24		Yes	mvj	USGS	5.88	4900				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	21	1952-04-18		Yes	mvj	USGS	7.10	9310				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9310				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	22	1952-05-20		Yes	mvj	USGS	8.29	14600				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		14600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	23	1952-06-04		Yes	mvj	USGS	9.01	18200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		18200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	24	1952-06-11		Yes	gb	USGS	9.05	19200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		19200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	25	1952-07-18		Yes	mvj	USGS	5.87	4420				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4420				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	26	1952-08-28		Yes	mvj	USGS	5.32	29200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		29200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	27	1953-03-18		Yes	jd	USGS	5.66	3690				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3690				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	28	1953-04-22		Yes	jd	USGS	5.55	3400				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	29	1953-06-17		Yes	gb	USGS	9.85	22200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		22200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	30	1953-07-10		Yes	mvj	USGS	6.20	5560				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5560				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	31	1954-05-06		Yes	k	USGS	5.44	3230				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3230				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	32	1954-06-28		Yes	v	USGS	7.07	8700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		8700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	33	1954-07-02		Yes	jd	USGS	7.34	9820				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9820				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	34	1955-06-06		Yes	gl	USGS	6.33	5910				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	35	1955-06-20		Yes	gl	USGS	8.19	13200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		13200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	36	1956-04-09		Yes	gl	USGS	6.17	4870				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4870				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	37	1956-05-21		Yes	jd	USGS	8.10	13100				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		13100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	38	1956-05-24		Yes	li	USGS	9.23	19500				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		19500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	39	1956-05-26		Yes	mvj/jhd	USGS	8.22	15100				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		15100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	40	1956-05-31		Yes	jd	USGS	10.52	25500				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		25500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	41	1956-06-01		Yes	jd	USGS	10.24	24600				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		24600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	42	1956-06-14		Yes	mvj/jhb	USGS	7.16	9760				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9760				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	43	1956-06-26		Yes	eb	USGS	6.20	5600				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	44	1956-08-01		Yes	jd	USGS	4.85	1970				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1970				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	45	1957-06-06		Yes	eb /fmo	USGS	8.49	16300				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		16300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	46	1957-06-17		Yes	ejb/jhd	USGS	7.45	11200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		11200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	47	1957-07-02		Yes	gl	USGS	6.98	8940				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		8940				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	48	1957-07-10		Yes	fmo	USGS	5.70	4390				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4390				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	49	1958-05-01		Yes	jhd/eol	USGS	5.69	4290				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4290				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	50	1958-05-12		Yes	li	USGS	6.95	9020				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9020				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	51	1958-06-25		Yes	mvj	USGS	6.14	5750				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5750				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	52	1958-08-12		Yes	fmo	USGS	4.88	2150				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2150				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	53	1959-06-10		Yes	jhd	USGS	8.52	16200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		16200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	54	1960-05-16		Yes	t	USGS	7.40	11600				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		11600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	55	1960-06-10		Yes	jhd	USGS	7.08	9560				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9560				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	56	1960-07-29		Yes	jhd	USGS	4.14	1310				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1310				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	57	1961-04-25		Yes	jhd	USGS	4.87	2440				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2440				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	58	1961-05-31		Yes	jhd	USGS	6.97	9170				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		9170				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	59	1961-07-14		Yes	fmo	USGS	4.49	1860				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1860				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	60	1961-08-26		Yes	fmo	USGS	4.12	1350				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1350				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	61	1962-04-18		Yes	bo	USGS	6.81	8750				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		8750				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	62	1962-05-25		Yes	bo	USGS	7.17	10400				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		10400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	63	1962-06-18		Yes	eol/jhd	USGS	8.12	14300				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		14300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	64	1962-08-13		Yes	mk	USGS	5.09	2710				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2710				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	65	1963-02-25		Yes	we	USGS	5.60	4190				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4190				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	66	1963-06-01		Yes	we	USGS	7.89	13400				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		13400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	67	1963-11-04		Yes	eol	USGS	6.12	5660				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		5660				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	68	1964-05-06		Yes	eol	USGS	6.29	6580				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		6580				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	69	1964-05-22		Yes	mvj/whe	USGS	7.63	12500				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		12500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	70	1964-06-11		Yes	eol/wab	USGS	9.40	21700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		21700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	71	1964-06-21		Yes	fmo	USGS	9.47	22500				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		22500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	72	1965-05-04		Yes	eol/rjo	USGS	7.44	11400				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		11400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	73	1965-06-14		Yes	jhd/jlf	USGS	9.43	21900				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		21900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	74	1965-11-10		Yes	fi	USGS	6.52	6540				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		6540				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	75	1966-05-11		Yes	fi	USGS	6.61	7050				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		7050				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	76	1966-07-11		Yes	fi	USGS	4.94	2490				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2490				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	77	1967-05-25		Yes	jhd	USGS		15700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		15700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	78	1967-06-05		Yes	jhd	USGS		21400				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		21400				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	79	1967-09-15		Yes	jhd	USGS		3700				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		3700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	80	1968-06-07		Yes	fcb/jhd	USGS	8.95	19800				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		19800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	81	1968-07-12		Yes	eol/jdr	USGS	6.53	7520				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		7520				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	82	1970-06-11		Yes	jwl/fmo	USGS	10.23	28200				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		28200				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	83	2014-05-20 10:00:00	MDT	Yes	SRH/SML	USGS		13500				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	13500	418	2680	5.06	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	84	2014-05-29 11:00:00	MDT	Yes	SRH/SML	USGS		20800				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	20800				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	85	2014-06-09 12:00:00	MDT	Yes	SML/SRH	USGS		12600				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	12600	422	2560	4.91	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	86	2014-06-24 12:00:00	MDT	Yes	SML/SLD	USGS	20.14	9590				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	9590	401	2160	4.45	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	87	2014-07-17 10:00:00	MDT	Yes	SML/MJW	USGS	21.69	3830				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	3830	376	1230	3.12	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	88	2014-07-31 10:00:00	MDT	Yes	SML/KDS	USGS	22.67	2220				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	2220	314	989	2.24	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	89	2014-08-11 10:00:00	MDT	Yes	SML/MJW	USGS	22.83	2130				Unspecified				MEAS	1	Imported Channel 1	MBOT	QADCP	VADCP	2130	259	1150	1.86	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	90	2014-09-02 15:00:00	MDT	Yes	TCS/SML	USGS		3890				Unspecified			Clear	MEAS	1	Imported Channel 1	BRUS	QSCMM	VPAA	3890	354	1440	2.70	FIRM	CBLS	UNSP	unkn	UNEV	UNSP	UNSP	
+USGS	06057000	91	2014-09-19 10:00:00	MDT	Yes	SML/TLH	USGS	21.95	3230				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	3230	310	1370	2.35	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	92	2014-10-03 11:15:00	MDT	Yes	SML/TCS	USGS		4570				Fair			Clear	MEAS	1	Main	BRDS	QSCMM	VPAA	4570	369	1510	3.03	FIRM	BLDR	UNEV	unkn	UNEV	NSTD	ATGA	
+USGS	06057000	93	2015-02-09 09:44:00	MST	Yes	SML/HLN	USGS		5040				Fair				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	5040	362	1610	3.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	94	2015-04-27 10:08:00	MDT	Yes	SML/HLN	USGS		5190				Fair				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	5190	359	1620	3.20	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	95	2015-05-06 10:19:00	MDT	Yes	SML/SH	USGS		5730				Fair				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	5730	375	1670	3.43	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	96	2015-05-18		Yes	SML	USGS		8220				Fair				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	8220	418	2000	4.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	97	2015-06-01 11:00:00	MDT	Yes	SML	USGS		10900				Fair				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	10900	467	2360	4.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	98	2015-06-22		Yes	SML/FAB	USGS		3690				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	3690	310	1430	2.58	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	99	2015-07-06 10:24:00	MDT	Yes	SML/SJH	USGS		2060				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	2060	282	1140	1.81	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	100	2015-07-20 11:41:00	MDT	Yes	SJH/SML	USGS		1680				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	1680	264	1070	1.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	101	2015-08-03 13:27:00	MDT	Yes	SJH	USGS		1850				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	1850				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	102	2015-08-17 11:09:00	MDT	Yes	SML/SJH	USGS		1830				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	1830	282	1120	1.63	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	06057000	103	2015-09-21 10:17:00	MDT	Yes	SML	USGS		2770				Unspecified				MEAS	1	Imported Channel 1	BRDS	QADCP	VADCP	2770	310	1300	2.13	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

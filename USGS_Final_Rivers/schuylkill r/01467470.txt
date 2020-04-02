@@ -1,0 +1,80 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:14:54 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 01467470 Schuylkill River at Port Carbon, PA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	01467470	1	1949-02-23		Yes	xyz	USGS		101				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		101				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	2	1949-03-25		Yes	xyz	USGS		368				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		368				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	3	1949-04-06		Yes	xyz	USGS		90.5				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		90.5				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	4	1949-04-14		Yes	xyz	USGS		88.7				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		88.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	5	1949-06-09		Yes	xyz	USGS		28.2				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		28.2				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	6	1949-06-27		Yes	xyz	USGS		18.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		18.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	7	1949-08-09		Yes	xyz	USGS		9.93				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		9.93				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	8	1949-09-21		Yes	xyz	USGS		8.06				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		8.06				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	9	1949-10-14		Yes	xyz	USGS		9.28				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		9.28				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	10	1949-11-04		Yes	xyz	USGS		12.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		12.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	11	1950-01-06		Yes	xyz	USGS		49.3				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		49.3				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	12	1950-01-19		Yes	xyz	USGS		53.4				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		53.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	13	1950-02-03		Yes	xyz	USGS		70.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		70.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	14	1950-02-15		Yes	xyz	USGS		181				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		181				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	15	1950-03-15		Yes	xyz	USGS		59.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		59.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	16	1950-03-27		Yes	xyz	USGS		178				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		178				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	17	1950-04-11		Yes	xyz	USGS		56.3				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		56.3				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	18	1950-04-24		Yes	xyz	USGS		56.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		56.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	19	1950-05-03		Yes	xyz	USGS		60.4				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		60.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	20	1950-05-23		Yes	xyz	USGS		47.4				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		47.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	21	1950-06-06		Yes	xyz	USGS		89.4				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		89.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	22	1950-06-22		Yes	xyz	USGS		33.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		33.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	23	1950-07-06		Yes	xyz	USGS		92.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		92.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	24	1950-07-11		Yes	xyz	USGS		197				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		197				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	25	1950-07-25		Yes	xyz	USGS		72.2				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		72.2				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	26	1950-08-07		Yes	xyz	USGS		27.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		27.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	27	1950-08-21		Yes	xyz	USGS		44.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		44.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	28	1950-08-22		Yes	xyz	USGS		29.1				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		29.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	29	1950-08-22		Yes	xyz	USGS		32.1				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		32.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	30	1950-09-11		Yes	xyz	USGS		41.8				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		41.8				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	31	1950-09-25		Yes	xyz	USGS		20.7				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		20.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	32	1963-12-03		Yes	xyz	USGS		31.0				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		31.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	33	1964-03-06		Yes	xyz	USGS		170				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		170				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	34	1964-05-01		Yes	xyz	USGS		337				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		337				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	35	1964-05-14		Yes	xyz	USGS		72.4				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		72.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	36	1964-06-30		Yes	xyz	USGS		25.7				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		25.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	37	1964-08-10		Yes	xyz	USGS		11.9				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		11.9				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	38	1965-02-07		Yes	xyz	USGS		297				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		297				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	39	1975-04-15		Yes	R	USGS	4.27	55.4				Good	0.00	0.80		MEAS	1	Imported Channel 1	WADE	unspe	unkno	55.4	21.8	24.2	2.29	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	40	1975-04-22		Yes	R	USGS	4.11	37.6				Fair	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	37.6	19.2	21.4	1.75	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	41	1975-05-07		Yes	R/J	USGS	4.64	91.0				Excellent	-0.02	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	91.0	23.7	31.4	2.98	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	42	1975-06-17		Yes	R	USGS	4.14	48.2				Good	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	48.2	19.5	23.0	2.10	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	43	1975-09-11		Yes	R/J	USGS	3.74	17.8				Good	0.00	1.00	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	17.8	19.0	14.2	1.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	44	1975-09-25		Yes	H/R	USGS	5.75	281				Good	0.05	1.30	Clear	MEAS	1	Imported Channel 1	BRUS	unspe	unkno	281	35.3	66.0	4.26	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	45	1975-12-30		Yes	R/L	USGS	4.21	50.0				Good	0.02	1.00		MEAS	1	Imported Channel 1	WADE	unspe	unkno	50.0	20.0	26.8	1.85	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	46	1976-05-18		Yes	H/R	USGS	4.28	55.3				Good	0.01	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	55.3	21.0	27.6	2.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	47	1976-11-16		Yes	MJ	USGS	4.11	52.2				Fair				MEAS	1	Imported Channel 1	WADE	unspe	unkno	52.2	23.0	30.0	1.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	48	1977-03-29		Yes	MJ	USGS	4.70	121				Unspecified				MEAS	1	Imported Channel 1	WADE	unspe	unkno	121			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	49	1978-02-27		Yes	TLK	USGS	4.28	66.4				Good	0.09	0.60	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	66.4	20.0	30.7	2.16	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	50	1981-08-22		Yes	KG	USGS		21.0				Fair	0.00	0.60		MEAS	1	Imported Channel 1	WADE	unspe	unkno	21.0	31.0	20.3	1.03	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	51	1981-09-17		Yes	KG	USGS		16.2				Poor	0.00	0.80	Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	16.2	32.0	30.3	0.54	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	52	1982-09-30		Yes	KG	USGS		24.3				Good	0.00	0.40	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	24.3	29.0	35.3	0.69	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	53	1982-11-09		Yes	KG	USGS		29.2				Good	0.00	0.50	DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	29.2	29.0	36.0	0.81	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	54	1983-09-20		Yes	KG	USGS		9.15				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.15	32.0	13.1	0.70	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	55	1984-09-14		Yes	KG	USGS		18.1				Good			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	18.1	34.0	18.9	0.96	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	56	1986-09-11		Yes	DJ	USGS		16.2				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	16.2	18.0	15.9	1.02	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	57	1987-08-26		Yes	KW	USGS		9.27				Good			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.27	30.0	26.6	0.35	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	58	1988-07-11		Yes	RC	USGS		28.7				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	28.7	41.0	31.8	0.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	59	1988-10-18		Yes	RTC	USGS		13.3				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	13.3	25.0	22.7	0.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	60	1991-06-03		Yes	RC	USGS		27.3				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	27.3	25.0	27.5	0.99	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	61	1991-07-09		Yes	RC	USGS		13.0				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	13.0	24.0	21.5	0.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	62	1991-08-05		Yes	RC	USGS		9.55				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	9.55	18.1	16.7	0.57	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	63	1991-09-17		Yes	RC	USGS		8.49				Fair			DebrisLight	MEAS	1	Imported Channel 1	WADE	unspe	unkno	8.49	19.0	16.5	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	01467470	64	2002-09-10		Yes	DK	USGS		6.02				Fair			Clear	MEAS	1	Imported Channel 1	WADE	unspe	unkno	6.02	26.0	7.85	0.77	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

@@ -1,0 +1,46 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:20:18 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 12422000 SPOKANE RIVER BELOW GREEN ST AT SPOKANE, WA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	12422000	1M	1952-10-09		Yes	ADM	USGS		2110				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		2110				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	2M	1973-08-16		Yes	ADM	USGS		653				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		653				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	40	1999-04-16 09:00:00	PDT	Yes	RRS	USGS	10.53	10200				Fair			Clear	MEAS	1	Imported Channel 1	CRAN	unspe	unkno	10200	175	2040	5.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	41	1999-06-02 16:19:00	PDT	Yes	RRS/GJP	USGS	15.84	23500				Poor	0.00	0.20	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	23500			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	42	1999-08-03 11:20:00	PDT	Yes	GJP/RRS	USGS	6.05	1950				Poor	0.00	0.20	Clear	MEAS	1	Imported Channel 1	BOAT	unspe	unkno	1950			0.00	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	43	2002-02-01 12:43:00	PST	Yes	SCC	USGS	9.18	8670				Good			Clear	MEAS	1	Imported Channel 1	UNSP	other		8670				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	44	2002-03-01 11:55:00	PST	Yes	SCC	USGS	9.88	10100				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		10100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	45	2002-04-19 07:57:00	PDT	Yes	SCC	USGS	18.32	26600				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		26600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	46	2002-05-31 07:42:00	PDT	Yes	SCC	USGS	17.90	25600				Good			Clear	MEAS	1	Imported Channel 1	UNSP	other		25600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	47	2004-09-14		Yes	ADM	USGS		1060				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		1060				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	48	2005-08-30		Yes	ADM	USGS		725				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		725				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	49	2006-08-08 13:00:00	PDT	Yes	GJP/NFE	USGS		869				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	869	167	1700	0.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	168	2007-11-08 12:51:00	PST	Yes	SCC	USGS	6.37	2130				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2130				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	169	2009-03-20 12:32:00	PDT	Yes	SCC	USGS	9.29	7260				Good				MEAS	1	Imported Channel 1	UNSP	other		7260				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	170	2009-10-09 13:15:00	PDT	Yes	SCC	USGS	6.19	2130				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		2130				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	171	2010-04-15 10:00:00	PDT	Yes	SCC	USGS	8.37	5920				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		5920				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	172	2010-11-18		Yes	SCC	USGS		3620				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	3620	138	1390	2.60	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	173	2011-10-06		Yes	SCC	USGS		2000				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2000	149	1200	1.68	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	175	2012-10-18		Yes	SCC	USGS	5.96	1930				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	1930	146	1200	1.61	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	176	2012-11-02		Yes	SCC	USGS		3740				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	3740	155	1430	2.62	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	177	2013-06-13 08:10:00	PDT	Yes	SCC	USGS	8.30	5500				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	5500	156	1510	3.65	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	178	2013-10-01 13:00:00	PDT	Yes	SCC	USGS	5.86	1760				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	1760	141	1230	1.44	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	179	2013-10-15 13:00:00	PDT	Yes	SCC	USGS	6.79	2850				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2850				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	180	2013-10-29 12:50:00	PDT	Yes	SCC	USGS	6.45	2570				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2570	142	1330	1.94	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	181	2013-11-05 13:00:00	PST	Yes	SCC	USGS	6.96	3470				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		3470				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	182	2014-06-13 10:40:00	PDT	Yes	SCC	USGS	9.57	7930				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	7930	155	1680	4.74	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	183	2014-10-07		Yes	SCC	USGS	6.22	2180				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2180	150	1270	1.72	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	184	2014-11-04		Yes	SCC	USGS	6.33	2310				Unspecified				MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	2310	137	1260	1.83	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12422000	185	2015-07-22 10:21:30	PDT	Yes	ECR	WA171	5.14	1040				Fair	0.00	0.20		MEAS	1	1	BRDS	QADCP	VADCP	1040	134	1140	0.92	FIRM	BLDR	EVEN	unkn	EVEN	UNFM	UPST	100.00
+USGS	12422000	186	2015-08-05 11:40:30	PDT	Yes	DVS/ECR	WA171	4.93	868				Fair				MEAS	1	1	BRDS	QADCP	VADCP	868	127	1070	0.81	FIRM	BLDR	EVEN	unkn	EVEN	UNFM	UPST	100.00

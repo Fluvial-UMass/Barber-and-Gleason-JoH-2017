@@ -1,0 +1,36 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-08 23:13:22 EDT     (sdww01)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 12334650 Blackfoot River bl Alice Cr nr Lincoln MT
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	12334650	1	1995-09-07 08:10:00	MDT	Yes	sl	USGS		19.0				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		19.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	2	1995-11-02 14:30:00	MST	Yes	sl	USGS		18.6				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		18.6				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	3	1996-04-18 16:40:00	MDT	Yes	sl	USGS		320				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		320				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	4	1996-06-20 19:30:00	MDT	Yes	fb	USGS	1.48	95.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		95.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	5	1996-08-21 08:35:00	MDT	Yes	fab	USGS		25.0				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		25.0				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	6	1996-10-24 09:00:00	MDT	Yes	fab	USGS		17.3				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		17.3				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	7	1997-04-14 15:17:00	MDT	Yes	sl	USGS		28.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		28.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	8	1997-05-30 12:20:00	MDT	Yes	sl	USGS		316				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		316				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	98	2004-03-18 13:25:00	MST	Yes	PLK/CLB	USGS		21.1				Fair				UNSP	1	Imported Channel 1	WADE	unspe	unkno	21.1	32.0	25.8	0.82	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	99	2004-04-13 08:30:00	MDT	Yes	PLK/TEC	USGS		77.2				Fair				UNSP	1	Imported Channel 1	WADE	unspe	unkno	77.2	31.0	40.6	1.90	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	100	2004-05-25 09:35:00	MDT	Yes	PLK/TCS	USGS		129				Fair				UNSP	1	Imported Channel 1	WADE	unspe	unkno	129	34.0	51.3	2.51	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	101	2004-07-13 09:35:00	MDT	Yes	pk	USGS		29.5				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		29.5				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	102	2004-08-23 09:55:00	MDT	Yes	pk	USGS		40.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		40.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	103	2004-11-09 09:10:00	MST	Yes	pk	USGS		18.4				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		18.4				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	104	2005-04-13 09:25:00	MDT	Yes	plk	USGS		63.7				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		63.7				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	105	2005-05-10 09:30:00	MDT	Yes	plk	USGS		386				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		386				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	106	2005-06-06 13:30:00	MDT	Yes	plk	USGS		231				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		231				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	107	2005-07-26 09:10:00	MDT	Yes	plk	USGS		34.1				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		34.1				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	108	2005-08-24 09:05:00	MDT	Yes	plk	USGS		17.2				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		17.2				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12334650	109	2005-11-01 08:30:00	MST	Yes	plk	USGS		17.6				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		17.6				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	

@@ -1,0 +1,55 @@
+#
+# U.S. Geological Survey, National Water Information System
+# Surface water measurements
+#
+# Retrieved: 2017-04-09 00:20:21 EDT     (sdww02)
+#
+# Further descriptions of the columns and codes used can be found at:
+# https://help.waterdata.usgs.gov/output-formats#streamflow_measurement_data
+#
+# Data for the following 1 site(s) are contained in this file
+#  USGS 12426000 SPOKANE RIVER BELOW NINE MILE DAM AT SPOKANE, WA
+# -----------------------------------------------------------------------------------
+#
+#
+agency_cd	site_no	measurement_nu	measurement_dt	tz_cd	q_meas_used_fg	party_nm	site_visit_coll_agency_cd	gage_height_va	discharge_va	current_rating_nu	shift_adj_va	diff_from_rating_pc	measured_rating_diff	gage_va_change	gage_va_time	control_type_cd	discharge_cd	chan_nu	chan_name	meas_type	streamflow_method	velocity_method	chan_discharge	chan_width	chan_area	chan_velocity	chan_stability	chan_material	chan_evenness	long_vel_desc	horz_vel_desc	vert_vel_desc	chan_loc_cd	chan_loc_dist
+5s	15s	6s	19d	12s	1s	12s	5s	12s	12s	4s	6s	6s	12s	7s	6s	21s	15s	11n	64s	4s	5s	5s	14s	14s	14s	14s	4s	4s	4s	12s	9s	12s	7s	14s
+USGS	12426000	1	1948-04-09 13:00:00	PDT	Yes	PCB	USGS	8.76	12800				Good	0.12	1.50		MEAS	1	Imported Channel 1	UNSP	QSCMM	unkno	12800				FIRM	UNSP	UNSP	unkn	EVEN	UNSP	UNSP	
+USGS	12426000	2	1948-04-22 13:00:00	PDT	Yes	JS	USGS	11.18	21300				Good	0.07	1.70		MEAS	1	Imported Channel 1	UNSP	other		21300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	3	1948-05-17 13:00:00	PDT	Yes	SRO	USGS	13.00	29500				Unspecified	0.15	2.30		MEAS	1	Imported Channel 1	UNSP	other		29500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	4	1948-05-27 13:00:00	PDT	Yes	SWD	USGS	14.89	39300				Unspecified				MEAS	1	Imported Channel 1	UNSP	other		39300				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	5	1948-06-23 13:00:00	PDT	Yes	DGA	USGS	10.11	16700				Good	0.05	1.20		MEAS	1	Imported Channel 1	UNSP	other		16700				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	6	1948-07-23 13:00:00	PDT	Yes	DGA	USGS	5.24	4900				Good	-0.02	1.50		MEAS	1	Imported Channel 1	UNSP	other		4900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	7	1948-08-17 13:00:00	PDT	Yes	DGA	USGS	3.45	2410				Good				MEAS	1	Imported Channel 1	UNSP	other		2410				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	8	1948-09-27 13:00:00	PDT	Yes	DAG	USGS	4.83	4160				Good				MEAS	1	Imported Channel 1	UNSP	other		4160				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	9	1948-11-08 13:00:00	PDT	Yes	DGA	USGS	4.76	4010				Good	-0.10	1.30		MEAS	1	Imported Channel 1	UNSP	other		4010				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	10	1949-01-08 12:00:00	PST	Yes	SRO	USGS	5.80	2590				Unspecified	0.00	1.00		MEAS	1	Imported Channel 1	UNSP	other		2590				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	11	1949-03-03		Yes	JS	USGS	9.87	12000				Unspecified	-0.02	1.40		MEAS	1	Imported Channel 1	UNSP	other		12000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	12	1949-03-29 12:00:00	PST	Yes	JS	USGS	10.55	13900				Unspecified	0.32	1.50		MEAS	1	Imported Channel 1	UNSP	other		13900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	13	1949-04-23		Yes	SRO	USGS	13.65	27000				Unspecified	-0.05	1.80		MEAS	1	Imported Channel 1	UNSP	other		27000				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	14	1949-05-06		Yes	SRO	USGS	14.00	29500				Good	0.00	1.40		MEAS	1	Imported Channel 1	UNSP	other		29500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	15	1949-05-19		Yes	SRO	USGS	14.96	33600				Good	0.03	1.60		MEAS	1	Imported Channel 1	UNSP	other		33600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	16	1949-06-01		Yes	REB	USGS	12.19	20500				Good	-0.02	1.20		MEAS	1	Imported Channel 1	UNSP	other		20500				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	17	1949-06-14		Yes	SRO	USGS	7.08	4960				Good	-0.20	1.10		MEAS	1	Imported Channel 1	UNSP	other		4960				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	18	1949-07-19		Yes	JAR	USGS	6.79	4290				Good	0.02	1.50		MEAS	1	Imported Channel 1	UNSP	other		4290				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	19	1949-09-04		Yes	EGP	USGS	3.57	371				Fair	0.00	1.20		MEAS	1	Imported Channel 1	UNSP	other		371				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	20	1949-10-13		Yes	REB	USGS	6.32	3240				Fair	-0.01	1.50		MEAS	1	Imported Channel 1	UNSP	other		3240				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	21	1949-11-22		Yes	SRO	USGS	6.96	4490				Good	-0.07	1.20		MEAS	1	Imported Channel 1	UNSP	other		4490				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	22	1950-01-09		Yes	JS	USGS	7.16	4820				Good	-0.04	1.70		MEAS	1	Imported Channel 1	UNSP	other		4820				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	23	1950-02-24		Yes	LEY	USGS	9.58	11100				Good	0.07	1.40		MEAS	1	Imported Channel 1	UNSP	other		11100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	24	1950-04-17		Yes	JAR	USGS	12.32	21100				Good	-0.01	1.60		MEAS	1	Imported Channel 1	UNSP	other		21100				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	25	1950-05-13		Yes	REB	USGS	12.09	19600				Good	-0.04	1.80		MEAS	1	Imported Channel 1	UNSP	other		19600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	26	1950-06-01		Yes	REB	USGS	13.88	27600				Good	-0.02	1.50		MEAS	1	Imported Channel 1	UNSP	other		27600				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	27	1950-07-16		Yes	REB	USGS	5.80	2460				Good	-0.20	0.90		MEAS	1	Imported Channel 1	UNSP	other		2460				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	28	1950-08-23		Yes	P/H	USGS	5.68	2270				Good	-0.01	1.30		MEAS	1	Imported Channel 1	UNSP	other		2270				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	29	1950-09-27		Yes	REB	USGS	6.31	3190				Good	0.00	1.10		MEAS	1	Imported Channel 1	UNSP	other		3190				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	30	1950-11-10		Yes	REH	USGS	7.27	4900				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		4900				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	31	1950-12-10		Yes	REB	USGS	8.16	6910				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		6910				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	32	2005-08-30		Yes	ADM	USGS		938				Unspecified				UNSP	1	Imported Channel 1	UNSP	other		938				UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	33	2006-04-21 16:49:00	PDT	Yes	GJP/RED	USGS		20100				Good			Unspecifed	MEAS	1	Imported Channel 1	UNSP	QADCP	VADCP	20100	298	3550	6.59	UNSP	UNSP	UNSP	unkn	UNSP	UNSP	UNSP	
+USGS	12426000	34	2016-06-08 10:45:30	PDT	Yes	JCG/PCM	USGS	7.85	4900				Fair	0.14	0.30	Clear	MEAS	1	Spokane River blw Nine Mile Dam nr Spokane, WA	MBOT	QADCP	VADCP	4900	261	1660	2.95	FIRM	CBLS	EVEN	unkn	EVEN	UNKN	UPST	50.00
+USGS	12426000	35	2016-07-08 15:17:30	PDT	Yes	JCG	USGS	5.75	1590				Good	0.00	0.40	Clear	MEAS	1	Spokane River blw Nine Mile Dam	MBOT	QADCP	VADCP	1590	219	1070	1.49	FIRM	BLDR	UNEV	unkn	EVEN	STND	DNST	10.00
+USGS	12426000	36	2016-09-21 12:40:00	PDT	Yes	JCG/PCM	USGS	5.57	1420				Fair	0.02	0.30	Clear	MEAS	1	Spokane River blw Nine Mile Dam at Spokane	MBOT	QADCP	VADCP	1420	237	963	1.47	FIRM	BLDR	UNEV	unkn	EVEN	UNKN	DNST	500.00
+USGS	12426000	37	2016-12-12 14:11:00	PST	Yes	JCG/PCM	USGS	8.77	7230				Good	0.01	0.30	Clear	MEAS	1	Spokane River blw Nine Mile Dam	MBOT	QADCP	VADCP	7230	239	1930	3.75	FIRM	BLDR	EVEN	unkn	EVEN	UNFM	UPST	100.00
+USGS	12426000	38	2017-03-07 10:55:30	PST	Yes	JCG/MRM	USGS	10.94	13300				Good	0.04	0.30	Clear	MEAS	1	Spokane River blw Nine Mile Dam at Spokane, WA	MBOT	QADCP	VADCP	13300	250	2460	5.41	FIRM	BLDR	UNEV	unkn	UNEV	STND	UPST	300.00
+USGS	12426000	39	2017-03-22 15:28:24	PDT	Yes	PCM/JCG	USGS	17.19	43600				Poor	0.13	0.60	DebrisLight	MEAS	1	1	MBOT	QADCP	VADCP	43600	524	5230	8.34	FIRM	CBLS	EVEN	unkn	EVEN	UNFM	DNST	2500.00
